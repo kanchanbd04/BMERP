@@ -1,14 +1,14 @@
 # BMERP
-This is a School Management System
+#This is a School Management System
 
 Development Tools
 
-Language- C#
-Framework- Dot Net 4.0
-Technology- ASP.NET Web-Form
-Back-End Database- MS SQL Server
-Front-End - HTML,CSS, JavaScript, Jquery
-Coding Principle- No Standard Principle followed, but mixed of structur method and some OOP concept used
+  Language- C#
+  Framework- Dot Net 4.0
+  Technology- ASP.NET Web-Form
+  Back-End Database- MS SQL Server
+  Front-End - HTML,CSS, JavaScript, Jquery
+  Coding Principle- No Standard Principle followed, but mixed of structur method and some OOP concept used
 
 Features
 
