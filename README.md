@@ -1,5 +1,4 @@
 # BMERP
-# BMERP
 This is a School Management System
 
 Development Tools
@@ -13,20 +12,20 @@ Coding Principle- No Standard Principle followed, but mixed of structur method a
 
 Features
 
--Student Management
+Student Management
   >Admission Process
   >Assesment Process
   >Lots of Analytical Reports for student improvment analysis
--Teacher Managment
--Collection
+Teacher Managment
+Collection
   >Student Bill Receive
   >Record student payment & due info
   >Daily, Monthly & Yearly Reports
--Accounts
+Accounts
   >Automated Journal, Legder,Trial Balance, Income Statement, Balance Sheet.
--Inventory
--Library Managenemt
--Employee Managment
--Attendance Management
--Leave MAnagement
--Payroll
+Inventory
+Library Managenemt
+Employee Managment
+Attendance Management
+Leave MAnagement
+Payroll
