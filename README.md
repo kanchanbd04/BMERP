@@ -9,7 +9,8 @@ This is a School Management System
   Technology- ASP.NET Web-Form
   Back-End Database- MS SQL Server
   Front-End - HTML,CSS, JavaScript, Jquery
-  Coding Principle- No Standard Principle followed, but mixed of structur method and some OOP concept used
+  Coding Principle- No Standard Principle followed, but mixed of structural method based and some OOP concept used
+  Architechture- 2 Tire
 
 #Features
 
