@@ -2,7 +2,7 @@
 # BMERP
 This is a School Management System
 
-#Development Tools
+#Development Tools & Principle
 
   Language- C#
   Framework- Dot Net 4.0
