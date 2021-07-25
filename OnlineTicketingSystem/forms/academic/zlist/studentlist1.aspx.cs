@@ -1,0 +1,178 @@
+﻿using System;
+using System.Collections;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+using System.Data;
+using System.Data.SqlClient;
+using System.Transactions;
+using System.Runtime.CompilerServices;
+using System.Security.Permissions;
+using System.Web.Script.Serialization;
+using System.Web.Services;
+using System.Xml.Linq;
+using OnlineTicketingSystem.Forms;
+
+
+namespace OnlineTicketingSystem.forms.BMERP
+{
+    public partial class studentlist1 : System.Web.UI.Page
+    {
+       
+
+        string zid;
+        string zorg;
+        string ctlid;
+        string ctlid2;
+        string rowid;
+        object row;
+        private string q_val;
+        private string filter;
+        private string xclass;
+        private string xsession;
+        private string xname;
+        private string xgroup;
+        private string xsection;
+        
+
+        public void fnFillDataGrid()
+        {
+
+            SqlConnection conn1;
+            conn1 = new SqlConnection(zglobal.constring);
+            DataSet dts = new DataSet();
+
+
+            dts.Reset();
+            //string str = "SELECT TOP " + _gridrow.Text.Trim().ToString() + "  xrow,xsession,xclass,xname,xmname,xfname FROM amadmis WHERE (xclass like '%" + xclass + "%' and xsession like '%" + xsession + "%' and xname like '%" + xname + "%') and zid=@zid";
+           // string str = "SELECT TOP " + _gridrow.Text.Trim().ToString() + "  xrow,xstdid,xsession,xclass,xname,(xmname + '<br>' + xcellno) as xmname,(xfname + '<br>' + xcellno1) as xfname,xgender,xgroup,xsection FROM amstudentvw WHERE ((xclass = '" + xclass + "'  and xgroup='" + xgroup + "' and xsection='" + xsection + "'  ) or  (xname like '%" + xname + "%' or xstdid like '%" + xname + "%')) and zid=@zid and xsession = '" + xsession + "' ";
+
+            string str = "";
+            if (xname == "")
+            {
+                str = "SELECT TOP " + _gridrow.Text.Trim().ToString() +
+                         "  xrow,xstdid,xsession,xclass,xname,(xmname + '<br>' + xcellno) as xmname,(xfname + '<br>' + xcellno1) as xfname,xgender,xgroup,xsection FROM amstudentvw WHERE xclass = '" +
+                         xclass + "'  and xgroup='" + xgroup + "' and xsection='" + xsection +
+                         "'   and zid=@zid and xsession = '" + xsession + "'  ";
+            }
+            else
+            {
+                if (xclass != "" && xsection != "")
+                {
+                    str = "SELECT TOP " + _gridrow.Text.Trim().ToString() +
+                          "  xrow,xstdid,xsession,xclass,xname,(xmname + '<br>' + xcellno) as xmname,(xfname + '<br>' + xcellno1) as xfname,xgender,xgroup,xsection FROM amstudentvw WHERE xclass = '" +
+                          xclass + "'  and xgroup='" + xgroup + "' and xsection='" + xsection +
+                          "'   and zid=@zid and xsession = '" + xsession + "'  and (xname like '%" + xname +
+                          "%' or xstdid like '%" + xname + "%')";
+                }
+                else
+                {
+                    str = "SELECT TOP " + _gridrow.Text.Trim().ToString() +
+                         "  xrow,xstdid,xsession,xclass,xname,(xmname + '<br>' + xcellno) as xmname,(xfname + '<br>' + xcellno1) as xfname,xgender,xgroup,xsection FROM amstudentvw WHERE  zid=@zid and xsession = '" + xsession + "'  and (xname like '%" + xname +
+                         "%' or xstdid like '%" + xname + "%')";
+                }
+            }
+
+            SqlDataAdapter da = new SqlDataAdapter(str, conn1);
+            da.SelectCommand.Parameters.Add("@zid", Int32.Parse(zid));
+            da.Fill(dts, "tempztcode");
+            //DataView dv = new DataView(dts.Tables[0]);
+            DataTable dtztcode = new DataTable();
+            dtztcode = dts.Tables[0];
+            _grid_emp.DataSource = dtztcode;
+            _grid_emp.DataBind();
+
+
+
+            dts.Dispose();
+            dtztcode.Dispose();
+            da.Dispose();
+            conn1.Dispose();
+
+
+        }
+
+
+        protected void fnFilterByRow(object sender, EventArgs e)
+        {
+            try
+            {
+                
+                fnFillDataGrid();
+
+            }
+            catch (Exception exp)
+            {
+                Response.Write(exp.Message);
+            }
+        }
+
+
+        protected void Page_Load(object sender, EventArgs e)
+        {
+            try
+            {
+
+            //    //////Check Permission
+            //    ////SiteMaster sm = new SiteMaster();
+            //    ////string s = sm.fnChkPagePermis("ztpermis");
+            //    ////if (s == "n" || s == "e")
+            //    ////{
+            //    ////    HttpContext.Current.Session["curuser"] = null;
+            //    ////    Session.Abandon();
+            //    ////    Response.Redirect("~/forms/zlogin.aspx");
+            //    ////}
+
+
+            //    //pagew = Request.QueryString["page"];
+            //    //if (pagew == "user")
+            //    //{
+            //    //    curuser = Request.QueryString["xuser"];
+            //    //    xuser.InnerHtml = "User : " + curuser;
+            //    //}
+            //    //else
+            //    //{
+            //    //    curuser = Request.QueryString["xrole"];
+            //    //    xuser.InnerHtml = "Role : " + curuser;
+            //    //}
+
+                zid = Request.QueryString["zid"] != "" ? Request.QueryString["zid"] : "-1";
+                //filter = Request.QueryString["filter"] != "" ? Request.QueryString["filter"] : "";
+                xclass = Request.QueryString["xclass"] != "" ? Request.QueryString["xclass"] : "";
+                xsession = Request.QueryString["xsession"] != "" ? Request.QueryString["xsession"] : "";
+                xname = Request.QueryString["xname"] != "" ? Request.QueryString["xname"] : "";
+                xgroup = Request.QueryString["xgroup"] != "" ? Request.QueryString["xgroup"] : "";
+                xsection = Request.QueryString["xsection"] != "" ? Request.QueryString["xsection"] : "";
+                if (!IsPostBack)
+                {
+                    //zid = Request.QueryString["zid"] != "" ? Request.QueryString["zid"] : "-1";
+                    ctlid = Request.QueryString["ctlid"] != "" ? Request.QueryString["ctlid"] : "-1";
+                    ctlid2 = Request.QueryString["ctlid2"] != "" ? Request.QueryString["ctlid2"] : "-1";
+                    //filter = Request.QueryString["filter"] != "" ? Request.QueryString["filter"] : "";
+                    ctlid_v.Value = ctlid;
+                    ctlid2_v.Value = ctlid2;
+                   // Response.Write(ctlid_v.Value);
+                    _gridrow.Text = "40";
+                    fnFillDataGrid();
+                    
+                    
+                }
+
+            }
+            catch (Exception exp)
+            {
+                Response.Write(exp.Message);
+            }
+            
+        }
+
+     
+
+       
+
+
+        
+    }
+}

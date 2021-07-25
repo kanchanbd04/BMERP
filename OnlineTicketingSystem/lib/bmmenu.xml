@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Items>
+  <MenuItem NavigateUrl="~/Default.aspx" Text="Home" Value="Home"></MenuItem>
+  <MenuItem NavigateUrl="" Text="Super Config" Value="super">
+    <MenuItem NavigateUrl="" Text="Module Permission" Value="supermodper"></MenuItem>
+  </MenuItem>
+  <MenuItem NavigateUrl="" Text="System Config" Value="sc">
+    <MenuItem NavigateUrl="" Text="Business Info" Value="scbizinfo"></MenuItem>
+    <MenuItem NavigateUrl="~/forms/sc/ztuser.aspx" Text="User" Value="scuser"></MenuItem>
+    <MenuItem NavigateUrl="" Text="Reports" Value="scrpt"></MenuItem>
+  </MenuItem>
+  <MenuItem NavigateUrl="" Text="Master Setup" Value="ms">
+    <MenuItem NavigateUrl="" Text="Customer" Value="mscus">
+      <MenuItem NavigateUrl="" Text="Customer Info" Value="mscusinfo"></MenuItem>
+      <MenuItem NavigateUrl="" Text="Configuration" Value="mscusconf"></MenuItem>
+      <MenuItem NavigateUrl="" Text="Reports" Value="mscusrpt"></MenuItem>
+    </MenuItem>
+    <MenuItem NavigateUrl="" Text="Supplier" Value="mssup">
+      <MenuItem NavigateUrl="" Text="Supplier Info" Value="mssupinfo"></MenuItem>
+      <MenuItem NavigateUrl="" Text="Configuration" Value="mssupconf"></MenuItem>
+      <MenuItem NavigateUrl="" Text="Reports" Value="mssuprpt"></MenuItem>
+    </MenuItem>
+    <MenuItem NavigateUrl="" Text="Items" Value="msitem">
+      <MenuItem NavigateUrl="" Text="Item Info" Value="msiteminfo"></MenuItem>
+      <MenuItem NavigateUrl="" Text="Configuration" Value="msitemconf"></MenuItem>
+      <MenuItem NavigateUrl="" Text="Reports" Value="msitemrpt"></MenuItem>
+    </MenuItem>
+    <MenuItem NavigateUrl="" Text="Bank" Value="msbank">
+      <MenuItem NavigateUrl="" Text="Bank Info" Value="msbankinfo"></MenuItem>
+      <MenuItem NavigateUrl="" Text="Configuration" Value="msbankconf"></MenuItem>
+      <MenuItem NavigateUrl="" Text="Reports" Value="msbankrpt"></MenuItem>
+    </MenuItem>
+    <MenuItem NavigateUrl="" Text="Configuration" Value="msconf">
+      <MenuItem NavigateUrl="" Text="Common Types" Value="msconftype" ></MenuItem>
+      <MenuItem NavigateUrl="" Text="Common Code" Value="msconfcode"></MenuItem>
+    </MenuItem>
+    <MenuItem NavigateUrl="" Text="Reports" Value="msrpt"></MenuItem>
+  </MenuItem>
+</Items>

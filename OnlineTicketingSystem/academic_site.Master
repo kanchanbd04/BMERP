@@ -1,0 +1,1022 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="academic_site.master.cs"
+    Inherits="OnlineTicketingSystem.academic_site" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1" runat="server">
+    <%--<title>Soudia Online Ticket</title>--%>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <link rel="shortcut icon" type="image/x-icon" href="/images/edusoft.ico" />
+    <title>EDUSOFT</title>
+    <link href="~/Styles/amSite.css?version=21.0.0.4" rel="stylesheet" type="text/css" />
+    <link href="~/Styles/bmerp.css?version=21.0.0.91" rel="stylesheet" type="text/css" />
+    <%--<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">--%>
+    <link href="~/Styles/fontawesome/css/all.css" rel="stylesheet" type="text/css" />
+    <%--<link rel="stylesheet" href="~/Scripts/jquery-ui-1.9.2.custom/develop<link rel="stylesheet" type="text/css" href="Styles/fontawesome-free-5.1.0-web/css/all.css" />ment-bundle/themes/base/jquery.ui.all.css">--%>
+    <link href="~/Styles/redmond/jquery-ui.css" rel="stylesheet" type="text/css" />
+    <link href="~/Styles/redmond/theme.css" rel="stylesheet" type="text/css" />
+    <script src="/Scripts/jquery-ui-1.9.2.custom/development-bundle/jquery-1.8.3.js"
+        type="text/javascript"></script>
+    <script src="/Scripts/jquery-ui-1.9.2.custom/development-bundle/ui/jquery-ui.custom.js"
+        type="text/javascript"></script>
+    <script src="/Scripts/jquery-ui-1.9.2.custom/development-bundle/ui/jquery.ui.core.js"
+        type="text/javascript"></script>
+    <script src="/Scripts/jquery-ui-1.9.2.custom/development-bundle/ui/jquery.ui.widget.js"
+        type="text/javascript"></script>
+    <script src="/Scripts/jquery-ui-1.9.2.custom/development-bundle/ui/jquery.ui.datepicker.js"
+        type="text/javascript"></script>
+    <script src="/Scripts/bmscript.js?version=21.0.0.31" type="text/javascript"></script>
+    <script src="/Scripts/jquery.blockUI.js" type="text/javascript"></script>
+    <script src="/Scripts/jquery.chromatable.js" type="text/javascript"></script>
+    <script src="/Scripts/gridviewscroll.js" type="text/javascript"></script>
+    <%-- <link href="~/Styles/style.css" rel="stylesheet" type="text/css" />--%>
+    <script src="/Scripts/Chart.bundle.js" type="text/javascript"></script>
+    <script src="/Scripts/utils.js" type="text/javascript"></script>
+    <%-- <script src="/Scripts/jquery.key.js" type="text/javascript"></script>--%>
+    <%--<script src="/Scripts/jquery.hotkeys.js" type="text/javascript"></script>--%>
+    <%--<script src="/Scripts/shortcut.js"></script>--%>
+    <script src="/Scripts/jquery.hotkeys1.js" type="text/javascript"></script>
+    <script src="/Scripts/amcharts/amcharts.js"></script>
+    <script src="/Scripts/amcharts/pie.js"></script>
+    <script src="/Scripts/amcharts/plugins/export/export.min.js"></script>
+    <link href="~/Scripts/amcharts/plugins/export/export.css" rel="stylesheet" />
+    <script src="/Scripts/chartjs-plugin-label.js"></script>
+
+
+    <style>
+        /*.ui-datepicker select.ui-datepicker-month .ui-datepicker select.ui-datepicker-year { width: 30%;}*/
+        #topBtn {
+            display: none;
+            position: fixed;
+            bottom: 15px;
+            right: 15px;
+            z-index: 99;
+            font-size: 14px;
+            border: none;
+            outline: none;
+            background-color: #007DC5;
+            color: white;
+            cursor: pointer;
+            padding: 2px;
+            border-radius: 4px;
+        }
+
+            #topBtn:hover {
+                background-color: #f7dc6f; /* #555;*/
+            }
+
+
+
+        /* ul
+        {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            background-color: #333;
+            position: -webkit-sticky; 
+            position: sticky;
+            top: 0;
+        }
+        
+        li
+        {
+            float: left;
+        }
+        
+        li a
+        {
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+        
+        li a:hover
+        {
+            background-color: #111;
+        }
+        
+        .active
+        {
+            background-color: #4CAF50;
+        }*/
+
+        * {
+            box-sizing: border-box;
+        }
+
+        .navbar {
+            overflow: hidden;
+            background-color: #0080C6;
+            font-family: "Helvetica Neue", "Lucida Grande", "Segoe UI", Arial, Helvetica, Verdana, sans-serif;
+            border: none;
+            outline: none; /* height: 39.2px;*/
+        }
+
+        .subnavbar {
+            overflow: hidden;
+            background-color: #16C1F3;
+            font-family: "Helvetica Neue", "Lucida Grande", "Segoe UI", Arial, Helvetica, Verdana, sans-serif;
+            border: none;
+            outline: none; /* height: 39.2px;*/
+        }
+
+        .navbar a {
+            float: left;
+            font-size: 1.2em;
+            color: white;
+            text-align: center;
+            padding: 10px 12px;
+            text-decoration: none;
+        }
+
+
+        .subnavbar a {
+            float: left;
+            font-size: 1.1em;
+            color: white;
+            text-align: center;
+            padding: 10px 12px;
+            text-decoration: none;
+        }
+
+        .dropdown, .dropdown1 {
+            float: left;
+            overflow: hidden;
+            border: none;
+            outline: none;
+        }
+
+        .dropdown2 {
+            float: left;
+            overflow: hidden;
+            border: none;
+            outline: none;
+            width: 100%;
+        }
+
+        .dropdown3, .dropdown4, .dropdown5 {
+            overflow: hidden;
+            border: none;
+            outline: none;
+            width: 100%;
+        }
+
+
+
+        .dropdown .dropbtn {
+            font-size: 1.1em;
+            border: none;
+            outline: none;
+            color: white;
+            padding: 10px 12px;
+            background-color: inherit;
+            font-family: inherit;
+            margin: 0;
+        }
+
+        .dropdown1 .dropbtn1 {
+            font-size: 1.1em;
+            color: #fff;
+            border: none;
+            outline: none;
+            padding: 8px 12px;
+            background-color: inherit;
+            font-family: inherit;
+        }
+
+        .dropdown2 .dropbtn2, .dropdown3 .dropbtn3, .dropdown4 .dropbtn4, .dropdown5 .dropbtn5 {
+            font-size: 1.1em;
+            color: #fff;
+            border: none;
+            outline: none;
+            padding: 6px 12px;
+            background-color: inherit;
+            font-family: inherit;
+            width: 100%;
+            text-align: left;
+        }
+
+
+        .navbar a:hover {
+            background-color: #75d5f1;
+            text-decoration: none;
+            cursor: pointer;
+        }
+
+        .dropdown:hover .dropbtn, .dropbtn:focus {
+            background-color: #16C1F3;
+            text-decoration: none;
+            cursor: pointer;
+        }
+
+        .dropdown-content123 {
+            display: none;
+        }
+
+        .dropdown-content {
+            display: none; /*position: absolute;
+            left: 0;*/
+            background-color: #16C1F3;
+            min-width: 160px;
+            width: 100%; /* box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+            z-index: 1;*/ /*padding: 0px 5% 0px 5%;*/ /*border-top: 0.5px #FFFFFF solid;*/
+        }
+
+        .dropdown-content1 {
+            display: none;
+            position: absolute;
+            background-color: #70D0F6;
+            min-width: 160px;
+            box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+            z-index: 100;
+        }
+
+        .dropdown-content2, .dropdown-content3, .dropdown-content4, .dropdown-content5 {
+            display: none;
+            position: absolute;
+            background-color: #70D0F6;
+            min-width: 160px;
+            box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+            z-index: 100;
+            left: 70%;
+        }
+
+
+        .dropdown-content123 a {
+            /* float: none;*/
+            float: left;
+            color: #fff;
+            padding: 8px 12px;
+            text-decoration: none;
+            display: block;
+            text-align: left;
+        }
+
+        .dropdown-content a {
+            /* float: none;*/
+            float: left;
+            color: #fff;
+            padding: 8px 12px;
+            text-decoration: none;
+            display: block;
+            text-align: left;
+        }
+
+        .dropdown-content1 a {
+            float: none;
+            color: #fff;
+            padding: 6px 12px;
+            text-decoration: none;
+            display: block;
+            text-align: left;
+        }
+
+        .dropdown-content2 a, .dropdown-content3 a, .dropdown-content4 a, .dropdown-content5 a {
+            float: none;
+            color: #fff;
+            padding: 6px 12px;
+            text-decoration: none;
+            display: block;
+            text-align: left;
+        }
+
+
+            .dropdown-content a:hover, .dropdown1:hover .dropbtn1, .dropdown-content1 a:hover, .dropdown2:hover .dropbtn2, .dropdown-content2 a:hover, .dropdown3:hover .dropbtn3, .dropdown-content3 a:hover, .dropdown4:hover .dropbtn4, .dropdown-content4 a:hover, .dropdown5:hover .dropbtn5, .dropdown-content5 a:hover {
+                background-color: #f7dc6f;
+                color: #465c71;
+                text-decoration: none;
+                cursor: pointer;
+            }
+
+        /*.dropdown:hover .dropdown-content,*/
+        .dropdown1:hover .dropdown-content1, .dropdown2:hover .dropdown-content2, .dropdown3:hover .dropdown-content3, .dropdown4:hover .dropdown-content4, .dropdown5:hover .dropdown-content5 {
+            display: block;
+            text-decoration: none;
+        }
+
+
+        .show {
+            display: block;
+            text-decoration: none;
+        }
+
+        .sticky {
+            position: fixed;
+            top: 0;
+            width: 100%;
+            left: 0;
+        }
+
+            .sticky + .content {
+                padding-top: 60px;
+            }
+
+
+
+
+        .nav ul {
+            list-style: none;
+            background-color: #0080C7;
+            text-align: left;
+            padding: 0;
+            margin: 0;
+        }
+
+        .nav li {
+            font-family: 'Oswald', sans-serif;
+            text-align: left;
+            border-bottom: none;
+            height: 50px;
+            line-height: 50px;
+            font-size: 16px;
+            display: inline-block;
+            margin-right: -4px;
+            width: auto;
+            min-width: 100px;
+        }
+
+        .nav a {
+            text-decoration: none;
+            white-space: nowrap;
+            color: #fff;
+            display: block;
+            padding-left: 15px;
+            padding-right: 15px;
+            border-bottom: none;
+            transition: .3s background-color;
+        }
+
+            .nav a:hover, .nav a:focus {
+                background-color: #15C2F3;
+                text-decoration: none;
+            }
+
+
+
+        /* Sub Menus */
+        .nav li li {
+            font-size: .8em;
+        }
+
+
+
+
+
+
+        .nav > ul > li {
+            text-align: center;
+        }
+
+        /* .nav > ul > li > a
+        {
+            padding-left: 0;
+        }*/
+
+        /* Sub Menus */
+        .nav li ul {
+            position: absolute;
+            display: none;
+            width: 100%;
+            left: 0;
+            background-color: #15C2F3;
+        }
+
+        .nav li:hover ul {
+            display: block;
+        }
+
+        .nav li ul li {
+            display: block;
+            float: left;
+        }
+
+        html {
+            position: relative;
+            min-height: 100%;
+        }
+
+        body {
+            margin: 0 0 50px; /* bottom = footer height */
+        }
+
+        .footer {
+            position: absolute;
+            left: 0;
+            bottom: 0;
+            height: 50px;
+            width: 100%;
+        }
+
+        .bm-main {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+        }
+
+        .bm_padding_none {
+            padding: 0px;
+        }
+    </style>
+    <%--
+    	<script>
+    	    $(function () {
+    	        $("#<%=datepicker.ClientID %>").datepicker();
+    	    });
+	</script>--%>
+    <!-- End Script Link for Datetime Picker -->
+    <script type="text/javascript">
+        $(document).ready(function () {
+            //                        $('.dropbtn').click(function () {
+
+
+            //                            var dropdowns = document.getElementsByClassName("dropdown-content");
+            //                            var i;
+            //                            for (i = 0; i < dropdowns.length; i++) {
+            //                                var openDropdown = dropdowns[i];
+            //                                //var openID = dropdowns[i].id;
+            //                                //alert(openID);){
+            //                                if (openDropdown.classList.contains('show')) {
+            //                                    openDropdown.classList.remove('show');
+
+            //                                }
+            //                            }
+
+
+            //                            var clickedID = this.id;
+            //                            //alert(clickedID);
+
+            //                            var str = clickedID.split('-')[1];
+            //                            //alert(str);
+            //                            var mydrop = "myDropdown" + str;
+            //                            // alert(mydrop);
+            //                            //document.getElementById(mydrop).classList.toggle("show");
+            //                            $("#" + mydrop).toggleClass("show");
+
+
+
+            //                        });
+        });
+
+
+
+    </script>
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <%--<div style="border: 1px skyblue solid; background: #006400; width: 100%; height: 20px;"></div>--%>
+    <div class="bm-main">
+        <form id="Form1" runat="server" style="border: none;">
+            <asp:ScriptManager ID="ScriptManager1" EnablePageMethods="true" runat="server">
+            </asp:ScriptManager>
+            <script type="text/javascript">
+
+                $("body").on("click", ".dropbtn", function () {
+                    //alert("hi");
+
+                    var dropdowns = document.getElementsByClassName("dropdown-content123");
+                    var i;
+                    for (i = 0; i < dropdowns.length; i++) {
+                        var openDropdown = dropdowns[i];
+                        //var openID = dropdowns[i].id;
+                        //alert(openID);){
+                        if (openDropdown.classList.contains('show')) {
+                            openDropdown.classList.remove('show');
+
+                        }
+                    }
+
+                    //document.getElementById("myDropdown").classList.toggle("show");
+
+
+
+                    var clickedID = this.id;
+                    //alert(clickedID);
+
+                    var str = clickedID.split('-')[1];
+                    //alert(str);
+                    var mydrop = "myDropdown" + str;
+                    // alert(mydrop);
+                    //document.getElementById(mydrop).classList.toggle("show");
+                    $("#" + mydrop).toggleClass("show");
+
+                });
+
+            </script>
+            <%--    <div id="msg" runat="server">
+    hello
+    </div>--%>
+            <%-- <asp:XmlDataSource ID="XmlDataSource1" DataFile="~/lib/bmmenu.xml" XPath="Items/MenuItem" runat="server"></asp:XmlDataSource>--%>
+            <div class="header" runat="server" id="header">
+                <div style="width: 1229.4px; margin: 0 auto; background-color: #0095DA;">
+                    <div class="title">
+                        <%-- <h1>--%>
+                        <%--Soudia Online Ticketing System--%>
+                        <%--   EDU-SOFT
+                </h1>--%>
+                        <div style="margin-left: 10px; margin-top: 8px; display: inline-block">
+                            <asp:Image ID="Image1" runat="server" ImageAlign="Middle" ImageUrl="~/images/Edusoft.png"
+                                Height="44px" Width="100px" />
+                        </div>
+                        <div style="margin-left: 300px; margin-top: 5px; display: inline-block">
+                            <asp:Image ID="Image2" runat="server" ImageAlign="Middle" ImageUrl="~/images/PIS Logo final 163X50.png"
+                                Height="50px" Width="163px" />
+                        </div>
+                    </div>
+                    <div class="loginDisplay">
+                        <%--                <asp:LoginView ID="HeadLoginView" runat="server" EnableViewState="false" OnViewChanged="HeadLoginView_ViewChanged">
+                    <AnonymousTemplate>
+                        [ <a href="~/Account/Login.aspx" id="HeadLoginStatus" runat="server">Log In</a>
+                        ]
+                    </AnonymousTemplate>
+                    <LoggedInTemplate>
+                        Welcome <span class="bold">
+                            <asp:LoginName ID="HeadLoginName" runat="server" />
+                        </span>! [
+                        <asp:LoginStatus ID="HeadLoginStatus" runat="server" LogoutAction="Redirect" LogoutText="Log Out"
+                            LogoutPageUrl="~/forms/zlogin.aspx" OnLoggedOut="LoginStatus_LoggedOut" />
+                        ]
+                    </LoggedInTemplate>
+                </asp:LoginView>--%>
+                    [
+                    <asp:LinkButton ID="btnLogout" runat="server" Text="Log Out" OnClick="btnLogout_Click"></asp:LinkButton>
+                        ] [
+                    <asp:HyperLink ID="HyperLink1" NavigateUrl="~/ztchngpass.aspx" Target="_blank" runat="server">Change Password</asp:HyperLink>
+                        ]
+                    <br />
+                        Welcome <span class="bold">
+                            <asp:Label ID="lblUser" runat="server" Text="admin"></asp:Label>
+                        </span><span style="padding-left: 5px; padding-right: 5px;">for</span><span class="bold"><asp:Label
+                            ID="lblBusiness" runat="server" Text="Business Manager"></asp:Label></span>
+                        <%--  <input type="image" id="logout" alt="Login"
+           src="/images/signout.png" style="width: 35px; height: 35px; border-radius: 50px; border: 1px #008000 solid; margin-right: 15px;"/>--%>
+                    </div>
+                </div>
+                <div class="clear hideSkiplink" style="background-color: #0080C6;">
+                    <div style="width: 1229.4px; margin: 0 auto; background-color: #0080C6;">
+                        <%--<asp:UpdatePanel runat="server" ID="UpdatePanel1" UpdateMode="Conditional">
+                                <ContentTemplate>--%>
+                        <%--<asp:Timer runat="server" ID="Timer1" Interval="300000" OnTick="Timer1_Tick">
+                        </asp:Timer>--%>
+                        <%--<asp:Menu ID="bmmenu" runat="server" CssClass="menu" IncludeStyleBlock="False" Orientation="Horizontal"
+                                        BackColor="#FFFBD6" DynamicHorizontalOffset="2" Font-Names="Verdana" Font-Size="0.8em"
+                                        ForeColor="#990000" StaticSubMenuIndent="10px" OnMenuItemDataBound="bmmenu_MenuItemDataBound"
+                                        OnPreRender="bmmenu_PreRender">
+                                        <DynamicHoverStyle BackColor="#990000" ForeColor="White" />
+                                        <DynamicMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+                                        <DynamicMenuStyle BackColor="#FFFBD6" />
+                                        <DynamicSelectedStyle BackColor="#FFCC66" />
+                                        <DataBindings>
+                                            <asp:MenuItemBinding DataMember="MenuItem" TextField="Text" NavigateUrlField="NavigateUrl"
+                                                Target="Target" />
+                                        </DataBindings>
+                                        <StaticHoverStyle BackColor="#990000" ForeColor="White" />
+                                        <StaticMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+                                        <StaticSelectedStyle BackColor="#FFCC66" />
+                                    </asp:Menu>
+                                </ContentTemplate>
+                                <Triggers>--%>
+                        <%--<asp:AsyncPostBackTrigger ControlID="Timer1" EventName="Tick" />--%>
+                        <%--  </Triggers>
+                            </asp:UpdatePanel>--%>
+                        <%--<ul>
+  <li><a class="active" href="/Default.aspx"><img src="/images/home-icon.png" width="15px" height="15px"></a></li>
+  <li><a href="#">Master Setup</a></li>
+  <li><a href="/forms/academic/profile/student/student.aspx">Student's Profile</a></li>
+  <li><a href="/forms/academic/profile/teacher/teacher.aspx">Teacher's Profile</a></li>
+  
+</ul>--%>
+                        <%--<div id="navbar">
+  <a class="active" href="/Default.aspx"><img src="/images/home-icon.png" width="15px" height="15px"></a>
+  <a href="#">Master Setup</a>
+  <a href="/forms/academic/profile/student/student.aspx">Student's Profile</a>
+  <a href="/forms/academic/profile/teacher/teacher.aspx">Teacher's Profile</a>
+</div>--%>
+                        <div id="navbar" class="navbar" runat="server">
+                            <%-- <asp:LinkButton ID="LinkButton1" runat="server" OnClick="fnRootMenuEvt"><img src="/images/home-icon.png" width="16px" height="16px"></asp:LinkButton>
+                        <asp:LinkButton ID="LinkButton2" runat="server" OnClick="fnRootMenuEvt">Master Setup</asp:LinkButton>
+                        <asp:LinkButton ID="LinkButton3" runat="server" OnClick="fnRootMenuEvt">System Config</asp:LinkButton>
+                        <asp:LinkButton ID="LinkButton4" runat="server" OnClick="fnRootMenuEvt">Teacher's Profile</asp:LinkButton>
+                        <asp:LinkButton ID="LinkButton5" runat="server" OnClick="fnRootMenuEvt">Student's Profile</asp:LinkButton>--%>
+                            <%--<asp:HyperLink ID="HyperLink2" runat="server"  NavigateUrl="/Default.aspx"><img src="/images/home-icon.png" width="20px" height="20px"></asp:HyperLink>--%>
+                            <%--<a href="/Default.aspx" id="btn-0" ><img src="/images/home-icon.png" width="20px" height="20px"></a>--%>
+                            <%--<a href="/Default.aspx" id="btn-1" >Master Setup</a>
+                       <a href="/Default.aspx" id="btn-2" >System Config</a>
+                       <a href="/forms/academic/profile/teacher/teacher.aspx">Teacher's Profile</a> 
+                       <a href="/forms/academic/profile/student/student.aspx">Student's Profile</a>--%>
+                            <%-- <a href="/Default.aspx">
+                                    <img src="/images/home-icon.png" width="20px" height="20px"></a>
+                                <div class="dropdown">
+                                    <button class="dropbtn" type="button">
+                                        Master Setup
+                                    </button>
+                                    <div id="myDropdown" class="dropdown-content">
+                                        <a href="#">Link 1</a> <a href="#">Link 2</a> <a href="#">Link 3</a> <a href="#">Link
+                                            4</a> <a href="#">Link 5</a> <a href="#">Link 6</a>
+                                        <div class="dropdown1">
+                                            <button class="dropbtn1" dropbtn" type="button">
+                                                Link7 <i class="fa fa-caret-down"></i>
+                                            </button>
+                                            <div class="dropdown-content1">
+                                                <a href="#">Link 1</a> <a href="#">Link 2</a>
+                                                <div class="dropdown2">
+                                                    <button class="dropbtn2" dropbtn" type="button">
+                                                        Link3 <i class="fa fa-caret-right"></i>
+                                                    </button>
+                                                    <div class="dropdown-content2">
+                                                        <div class="dropdown3">
+                                                            <button class="dropbtn3" dropbtn" type="button">
+                                                                Link1 <i class="fa fa-caret-right"></i>
+                                                            </button>
+                                                            <div class="dropdown-content3">
+                                                                <div class="dropdown4">
+                                                                    <button class="dropbtn4" dropbtn" type="button">
+                                                                        Link1 <i class="fa fa-caret-right"></i>
+                                                                    </button>
+                                                                    <div class="dropdown-content4">
+                                                                        <div class="dropdown5">
+                                                                            <button class="dropbtn5" dropbtn" type="button">
+                                                                                Link1 <i class="fa fa-caret-right"></i>
+                                                                            </button>
+                                                                            <div class="dropdown-content5">
+                                                                                <a href="#">Link 1</a> <a href="#">Link 2</a>
+                                                                            </div>
+                                                                        </div>
+                                                                        <a href="#">Link 2</a>
+                                                                    </div>
+                                                                </div>
+                                                                <a href="#">Link 2</a>
+                                                            </div>
+                                                        </div>
+                                                        <a href="#">Link 2</a> <a href="#">Link 3</a> <a href="#">Link 4</a> <a href="#">Link
+                                                            5</a>
+                                                    </div>
+                                                </div>
+                                                <div class="dropdown2">
+                                                    <button class="dropbtn2" dropbtn" type="button">
+                                                        Link4 <i class="fa fa-caret-right"></i>
+                                                    </button>
+                                                    <div class="dropdown-content2">
+                                                        <a href="#">Link 1</a> <a href="#">Link 2</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <a href="#">Link 8</a> <a href="#">Link 9</a> <a href="#">Link 10</a> <a href="#">Link
+                                            11</a>
+                                        <div class="dropdown1">
+                                            <button class="dropbtn1" dropbtn" type="button">
+                                                Link12
+                                            </button>
+                                            <div class="dropdown-content1">
+                                                <a href="#">Link 1</a> <a href="#">Link 2</a>
+                                                <div class="dropdown2">
+                                                    <button class="dropbtn2" dropbtn" type="button">
+                                                        Link 3
+                                                    </button>
+                                                    <div class="dropdown-content2">
+                                                        <a href="#">Link 1</a> <a href="#">Link 2</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <a href="#">Link 13</a> <a href="#">Link 14</a> <a href="#">Link 15</a> <a href="#">
+                                            Link 16</a> <a href="#">Link 17</a> <a href="#">Link 18</a>
+                                        <div class="dropdown1">
+                                            <button class="dropbtn1" dropbtn" type="button">
+                                                Link19
+                                            </button>
+                                            <div class="dropdown-content1">
+                                                <a href="#">Link 1</a> <a href="#">Link 2</a>
+                                                <div class="dropdown2">
+                                                    <button class="dropbtn2" dropbtn" type="button">
+                                                        Link 3
+                                                    </button>
+                                                    <div class="dropdown-content2">
+                                                        <a href="#">Link 1</a> <a href="#">Link 2</a>
+                                                    </div>
+                                                </div>
+                                                <div class="dropdown2">
+                                                    <button class="dropbtn2" dropbtn" type="button">
+                                                        Link 4
+                                                    </button>
+                                                    <div class="dropdown-content2">
+                                                        <a href="#">Link 1</a> <a href="#">Link 2</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <a href="#">Link 20</a> <a href="#">Link 21</a>
+                                    </div>
+                                </div>
+                                <a href="/forms/academic/profile/student/student.aspx">Student's Profile</a> <a href="/forms/academic/profile/teacher/teacher.aspx">
+                                    Teacher's Profile</a>
+                                <div class="dropdown">
+                                    <button class="dropbtn" dropbtn" type="button">
+                                        System Config
+                                    </button>
+                                    <div class="dropdown-content">
+                                        <a href="#">Link 1</a> <a href="#">Link 2</a> <a href="#">Link 3</a>
+                                    </div>
+                                </div>
+                                <a href="/forms/academic/profile/student/student.aspx">Student's Profile</a> <a href="/forms/academic/profile/teacher/teacher.aspx">
+                                    Teacher's Profile</a> <a href="/forms/academic/profile/student/student.aspx">Student's
+                                        Profile</a> <a href="/forms/academic/profile/teacher/teacher.aspx">Teacher's Profile</a>--%>
+                        </div>
+                        <%--<div class="nav">
+                                <ul>
+                                    <li class="home"> <a href="/Default.aspx"><img src="/images/home-icon.png" width="20px" height="20px"></a></li>
+                                    <li class="tutorials"><a href="#">Master Setupmnm,nm,nm,</a>
+                                        <ul>
+                                            <li><a href="#">Link 1</a></li>
+                                            <li><a href="#">Link 2</a></li>
+                                            <li><a href="#">Link 3</a></li>
+                                            <li><a href="#">Link 4</a></li>
+                                            <li><a href="#">Link 5</a></li>
+                                            <li><a href="#">Link 6</a></li>
+                                            <li><a href="#">Link 7</a></li>
+                                            <li><a href="#">Link 8</a></li>
+                                            <li><a href="#">Link 9</a></li>
+                                            <li><a href="#">Link 10</a></li>
+                                            <li><a href="#">Link 11</a></li>
+                                            <li><a href="#">Link 12</a></li>
+                                            <li><a href="#">Link 13</a></li>
+                                            <li><a href="#">Link 14</a></li>
+                                            <li><a href="#">Link 15</a></li>
+                                            <li><a href="#">Link 16</a></li>
+                                            <li><a href="#">Link 17</a></li>
+                                            <li><a href="#">Link 18</a></li>
+                                            <li><a href="#">Link 19</a></li>
+                                            <li><a href="#">Link 20</a></li>
+                                            <li><a href="#">Link 21</a></li>
+                                            <li><a href="#">Link 22</a></li>
+                                            <li><a href="#">Link 23</a></li>
+                                            <li><a href="#">Link 24</a></li>
+                                            <li><a href="#">Link 25</a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="about"><a href="/forms/academic/profile/student/student.aspx">Student's Profile</a> </li>
+                                    <li><a href="/forms/academic/profile/teacher/teacher.aspx">
+                                    Teacher's Profile</a></li>
+                                    <li class="news"><a href="#">System Setup</a>
+                                        <ul>
+                                            <li><a href="#">Link 1</a></li>
+                                            <li><a href="#">Link 2</a></li>
+                                            <li><a href="#">Link 3</a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="contact"><a href="#">Contact</a></li>
+                                    <li class="contact"><a href="#">Contact</a></li>
+                                    <li class="contact"><a href="#">Contact</a></li>
+                                </ul>
+                            </div>--%>
+                        <asp:Label ID="Label1" runat="server" Text="Label" Visible="False" ForeColor="Red"
+                            BackColor="Black" Font-Bold="True" Font-Size="Large"></asp:Label>
+                    </div>
+                </div>
+                <div class="subnavbar-container" style="background-color: #16C1F3; width: 100%;">
+                    <div style="width: 1229.4px; margin: 0 auto; background-color: #16C1F3;">
+                        <div class="subnavbar" id="subnavbar" runat="server">
+                            <%--<div id="myDropdown0"  class="dropdown-content" runat="server" >
+                            <font style="color: #16C1F3">.</font>  </div>--%>
+                            <%--<div style="float: left;padding: 8px 12px;color:#16C1F3;">.</div>--%>
+                            <%-- <div id="myDropdown1"  class="dropdown-content" runat="server" >
+                            <a href="#">Link0</a>
+                        </div>
+                        <div id="myDropdown2" class="dropdown-content" runat="server" >
+                            <a href="#">Link 1</a> <a href="#">Link 2</a> <a href="#">Link 3</a> <a href="#">Link
+                                            4</a> <a href="#">Link 5</a> <a href="#">Link 6</a>
+                                        <div class="dropdown1">
+                                            <button class="dropbtn1" dropbtn" type="button">
+                                                Link7 <i class="fa fa-caret-down"></i>
+                                            </button>
+                                            <div class="dropdown-content1">
+                                                <a href="#">Link 1</a> <a href="#">Link 2</a>
+                                                <div class="dropdown2">
+                                                    <button class="dropbtn2" dropbtn" type="button">
+                                                        Link3 <i class="fa fa-caret-right"></i>
+                                                    </button>
+                                                    <div class="dropdown-content2">
+                                                        <div class="dropdown3">
+                                                            <button class="dropbtn3" dropbtn" type="button">
+                                                                Link1 <i class="fa fa-caret-right"></i>
+                                                            </button>
+                                                            <div class="dropdown-content3">
+                                                                <div class="dropdown4">
+                                                                    <button class="dropbtn4" dropbtn" type="button">
+                                                                        Link1 <i class="fa fa-caret-right"></i>
+                                                                    </button>
+                                                                    <div class="dropdown-content4">
+                                                                        <div class="dropdown5">
+                                                                            <button class="dropbtn5" dropbtn" type="button">
+                                                                                Link1 <i class="fa fa-caret-right"></i>
+                                                                            </button>
+                                                                            <div class="dropdown-content5">
+                                                                                <a href="#">Link 1</a> <a href="#">Link 2</a>
+                                                                            </div>
+                                                                        </div>
+                                                                        <a href="#">Link 2</a>
+                                                                    </div>
+                                                                </div>
+                                                                <a href="#">Link 2</a>
+                                                            </div>
+                                                        </div>
+                                                        <a href="#">Link 2</a> <a href="#">Link 3</a> <a href="#">Link 4</a> <a href="#">Link
+                                                            5</a>
+                                                    </div>
+                                                </div>
+                                                <div class="dropdown2">
+                                                    <button class="dropbtn2" dropbtn" type="button">
+                                                        Link4 <i class="fa fa-caret-right"></i>
+                                                    </button>
+                                                    <div class="dropdown-content2">
+                                                        <a href="#">Link 1</a> <a href="#">Link 2</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <a href="#">Link 8</a> <a href="#">Link 9</a> <a href="#">Link 10</a> <a href="#">Link
+                                            11</a>
+                                        <div class="dropdown1">
+                                            <button class="dropbtn1" dropbtn" type="button">
+                                                Link12
+                                            </button>
+                                            <div class="dropdown-content1">
+                                                <a href="#">Link 1</a> <a href="#">Link 2</a>
+                                                <div class="dropdown2">
+                                                    <button class="dropbtn2" dropbtn" type="button">
+                                                        Link 3
+                                                    </button>
+                                                    <div class="dropdown-content2">
+                                                        <a href="#">Link 1</a> <a href="#">Link 2</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <a href="#">Link 13</a> <a href="#">Link 14</a> <a href="#">Link 15</a> <a href="#">
+                                            Link 16</a> <a href="#">Link 17</a> <a href="#">Link 18</a>
+                                        <div class="dropdown1">
+                                            <button class="dropbtn1" dropbtn" type="button">
+                                                Link19
+                                            </button>
+                                            <div class="dropdown-content1">
+                                                <a href="#">Link 1</a> <a href="#">Link 2</a>
+                                                <div class="dropdown2">
+                                                    <button class="dropbtn2" dropbtn" type="button">
+                                                        Link 3
+                                                    </button>
+                                                    <div class="dropdown-content2">
+                                                        <a href="#">Link 1</a> <a href="#">Link 2</a>
+                                                    </div>
+                                                </div>
+                                                <div class="dropdown2">
+                                                    <button class="dropbtn2" dropbtn" type="button">
+                                                        Link 4
+                                                    </button>
+                                                    <div class="dropdown-content2">
+                                                        <a href="#">Link 1</a> <a href="#">Link 2</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <a href="#">Link 20</a> <a href="#">Link 21</a>
+
+                        </div>
+                        <div id="myDropdown3" class="dropdown-content" runat="server" >
+                            <a href="#">Link3</a>
+                            <a href="#">Link4</a>
+                        </div>--%>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div  style="margin: 0 auto; border: none; background-color: #fff; width: 1229.4px; " id="header1" runat="server">
+                <div id="sitemappath" runat="server" style="margin-left: 10px;">
+                    <%--<span>Home</span> <span>&gt;</span> <span>Teachers Profile</span>--%>
+                </div>
+            </div>
+            <table width="1229.4px" style="margin: 0 auto; border: none; background-color: #fff;">
+                <tr>
+                    <td>
+                        <div class="page" style="width: 100%;">
+                            <div class="main">
+                                <asp:ContentPlaceHolder ID="MainContent" runat="server" OnUnload="MainContent_Unload">
+                                </asp:ContentPlaceHolder>
+                            </div>
+                            <%--  <button onclick="topFunction()" id="topBtn" title="Go to top">
+                            <img alt="" src="/images/top.png" width="32px" height="32px" />
+                        </button>--%>
+
+                            <span class="back_to_top" id="topBtn">
+                                <img alt="" src="/images/top.png" width="32px" height="32px" />
+                            </span>
+
+                            <div class="clear">
+                            </div>
+                        </div>
+                    </td>
+                </tr>
+            </table>
+            <div class="footer" runat="server" id="footer">
+                <div style="width: 1229.4px; margin: 0 auto; height: 50px; background: #b6b7bc; padding-top: 8px;">
+                    <%--©2017 Business Manager--%>
+                ©<%= DateTime.Today.Year %> Business Manager
+                </div>
+            </div>
+        </form>
+    </div>
+    <script type="text/javascript">
+        // When the user scrolls down 20px from the top of the document, show the button
+        window.onscroll = function () { scrollFunction() };
+
+        var navbar = document.getElementById("navbar");
+        var sticky = navbar.offsetTop;
+
+        //        function scrollFunction() {
+        //            if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+        //                document.getElementById("topBtn").style.display = "block";
+        //            } else {
+        //                document.getElementById("topBtn").style.display = "none";
+        //            }
+
+        //            //                                                if (window.pageYOffset >= sticky) {
+        //            //                                                    navbar.classList.add("sticky");
+        //            //                                                } else {
+        //            //                                                    navbar.classList.remove("sticky");
+        //            //                                                }
+        //        }
+
+        // When the user clicks on the button, scroll to the top of the document
+        //        function topFunction() {
+        ////            document.body.scrollTop = 0;
+        //            //            document.documentElement.scrollTop = 0;
+        ////            $('body, html').animate({ scrolltop: 0 }, 800);
+        ////            return false;
+        //        }
+
+        /* When the user clicks on the button, 
+        toggle between hiding and showing the dropdown content */
+        function myFunction() {
+            //document.getElementById("myDropdown").classList.toggle("show");
+            //alert(this.id);
+        }
+
+        // Close the dropdown if the user clicks outside of it
+        window.onclick = function (event) {
+            if (!event.target.matches('.dropbtn')) {
+
+                var dropdowns = document.getElementsByClassName("dropdown-content");
+                var i;
+                for (i = 0; i < dropdowns.length; i++) {
+                    var openDropdown = dropdowns[i];
+                    if (openDropdown.classList.contains('show')) {
+                        openDropdown.classList.remove('show');
+                    }
+                }
+            }
+        }
+
+
+        $(window).scroll(function () {
+            if ($(this).scrollTop() > 100) {
+                //                $('.back_to_top').attr('style','display:block');
+                $('.back_to_top').fadeIn();
+            }
+            else {
+                //                $('.back_to_top').attr('style', 'display:none');
+                $('.back_to_top').fadeOut();
+            }
+        });
+        $('.back_to_top').click(function () {
+            $('body,html').animate({ scrollTop: 0 }, 800);
+        });
+
+    </script>
+
+    <%--    <script type="text/javascript" language="javascript">
+         var versionUpdate = (new Date()).getTime();
+
+         var script = document.createElement("script");
+         script.type = "text/javascript";
+         script.src = "/Scripts/bmscript.js?v=" + versionUpdate;
+         document.body.appendChild(script);
+
+         var style1 = document.createElement("link");
+         style1.type = "text/css";
+         style1.href = "~/Styles/amSite.css?v=" + versionUpdate;
+         style1.rel = "stylesheet";
+         document.body.appendChild(style1);
+
+         var style2 = document.createElement("link");
+         style2.type = "text/css";
+         style2.href = "~/Styles/bmerp.css?v=" + versionUpdate;
+         style2.rel = "stylesheet";
+         document.body.appendChild(style2); 
+         
+    </script>--%>
+</body>
+</html>

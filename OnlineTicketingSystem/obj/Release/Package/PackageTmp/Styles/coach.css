@@ -1,0 +1,166 @@
+﻿#seatInfo
+{
+    background-image: url('../../images/back.jpg');
+    background-repeat: no-repeat;
+    text-align: center;
+    font-size: 70px;
+    font-weight: bold;
+    color: white;
+}
+
+.btncolor
+{
+    width: 40px;
+    height: 40px;
+    border: 1px solid #808080;
+    border-radius: 10px;
+}
+
+.mansale
+{
+    width: 40px;
+    height: 40px;
+    background-color: #0066FF;
+    color: #FFFFFF;
+    border: 1px solid #808080;
+    border-radius: 10px;
+}
+
+.btn
+{
+    width: 40px;
+    height: 40px;
+    background-color: #D3D3D3;
+    border: 1px solid #808080;
+    border-radius: 10px;
+}
+
+.processing
+{
+    background-color: #BC8F8F;
+    color: White;
+}
+
+.booking
+{
+    width: 40px;
+    height: 40px;
+    background-color: #FFCC99;
+    color: #CC00FF;
+    border: 1px solid #808080;
+    border-radius: 10px;
+}
+.sold
+{
+    width: 40px;
+    height: 40px;
+    background-color: #990033;
+    color: #FFFFFF;
+    border: 1px solid #808080;
+    border-radius: 10px;
+}
+
+.cancelbooking
+{
+    background-color: #DA70D6;
+    color: #FFFFFF;
+}
+
+.mybutton
+{
+    height: 52px;
+    width: 120px;
+    background-color: #33CCCC;
+    border-color: #996633;
+    font-weight: bold;
+    font-size: medium;
+    color: White;
+}
+
+.mybutton1
+{
+    background-color: #33CCCC;
+    border-color: #996633;
+    font-weight: bold;
+    font-size: medium;
+    color: White;
+}
+
+.forsale
+{
+    width: 40px;
+    height: 40px;
+    background-color: #66CCFF;
+    color: #FFFFFF;
+    border: 1px solid #808080;
+    border-radius: 10px;
+}
+
+.fsi
+{
+    width: 40px;
+    height: 40px;
+    background-color: #90EE90;
+    color: #FFFFFF;
+    border: 1px solid #808080;
+    border-radius: 10px;
+}
+
+.confbooking
+{
+    width: 40px;
+    height: 40px;
+    background-color: #99CC00;
+    color: #FFFFFF;
+    border: 1px solid #808080;
+    border-radius: 10px;
+}
+
+.cancelpending
+{
+    width: 40px;
+    height: 40px;
+    background-color: #8A2BE2;
+    color: #FFFFFF;
+    border: 1px solid #808080;
+    border-radius: 10px;
+}
+
+.busomit
+{
+    width: 40px;
+    height: 40px;
+    background-color: #FFA500;
+    color: #FFFFFF;
+    border: 1px solid #808080;
+    border-radius: 10px;
+}
+
+.reserve
+{
+    width: 40px;
+    height: 40px;
+    background-color: #32CD32;
+    color: #FFFFFF;
+    border: 1px solid #808080;
+    border-radius: 10px;
+}
+
+.manticapppen
+{
+    width: 40px;
+    height: 40px;
+    background-color: #00FFFF;
+    ccolor: #CC00FF;
+    border: 1px solid #808080;
+    border-radius: 10px;
+}
+
+.alternatecolor
+{
+
+
+}
+
+
+ 

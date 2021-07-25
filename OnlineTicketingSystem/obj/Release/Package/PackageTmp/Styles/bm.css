@@ -1,0 +1,64 @@
+﻿
+.msg1
+{
+
+
+font-weight:bold;
+font-size:12;
+color:Red;
+text-align:center;
+    
+}
+#errmsg
+{
+color: red;
+}
+
+      
+     @media print {
+    #printbtn {display :  none;}
+    #non-printable { display: none; }
+    #printable { display: block; }
+    }
+    
+    
+.no-close .ui-dialog-titlebar-close {
+    display: none;
+}
+
+
+.container{
+			width: 600px;
+			margin: 0 auto;
+		}
+
+
+
+		ul.tabs{
+			margin: 0px;
+			padding: 0px;
+			list-style: none;
+		}
+		ul.tabs li{
+			background: none;
+			color: #222;
+			display: inline-block;
+			padding: 10px 15px;
+			cursor: pointer;
+		}
+
+		ul.tabs li.current{
+			background: #ededed;
+			color: #222;
+		}
+
+		.tab-content{
+			display: none;
+			background: #ededed;
+			padding: 15px;
+		}
+
+		.tab-content.current{
+			display: inherit;
+		}
+

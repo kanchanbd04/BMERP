@@ -1,0 +1,117 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="OnlineTicketingSystem.SiteMaster" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1" runat="server">
+ 
+    <%--<title>Soudia Online Ticket</title>--%>
+    <title>Business Manager ERP</title>
+    <link href="~/Styles/Site.css" rel="stylesheet" type="text/css" />
+    <link href="~/Styles/bmerp.css" rel="stylesheet" type="text/css" />
+    <!-- Script Link for Datetime Picker -->
+    <%--  <link rel="stylesheet" href="Scripts/jquery-ui-1.9.2.custom/development-bundle/themes/base/jquery.ui.all.css">
+    <script src="Scripts/jquery-ui-1.9.2.custom/development-bundle/jquery-1.8.3.js"></script>
+    <script src="Scripts/jquery-ui-1.9.2.custom/development-bundle/ui/jquery.ui.core.js"></script>
+    <script src="Scripts/jquery-ui-1.9.2.custom/development-bundle/ui/jquery.ui.widget.js"></script>
+    <script src="Scripts/jquery-ui-1.9.2.custom/development-bundle/ui/jquery.ui.datepicker.js"></script>--%>
+    <%--
+    	<script>
+    	    $(function () {
+    	        $("#<%=datepicker.ClientID %>").datepicker();
+    	    });
+	</script>--%>
+    <!-- End Script Link for Datetime Picker -->
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="Form1" runat="server">
+ 
+  <asp:ScriptManager ID="ScriptManager1" EnablePageMethods="true" runat="server">
+    </asp:ScriptManager>
+ 
+    <%--    <div id="msg" runat="server">
+    hello
+    </div>--%>
+    <%-- <asp:XmlDataSource ID="XmlDataSource1" DataFile="~/lib/bmmenu.xml" XPath="Items/MenuItem" runat="server"></asp:XmlDataSource>--%>
+    <div class="page" style="width: 1229.4px;">
+        <div class="header" style="height: 100px;">
+            <div class="title">
+                <h1>
+                    <%--Soudia Online Ticketing System--%>
+                    BUSINESS MANAGER ERP
+                </h1>
+            </div>
+           <div class="loginDisplay">
+<%--                <asp:LoginView ID="HeadLoginView" runat="server" EnableViewState="false" OnViewChanged="HeadLoginView_ViewChanged">
+                    <AnonymousTemplate>
+                        [ <a href="~/Account/Login.aspx" id="HeadLoginStatus" runat="server">Log In</a>
+                        ]
+                    </AnonymousTemplate>
+                    <LoggedInTemplate>
+                        Welcome <span class="bold">
+                            <asp:LoginName ID="HeadLoginName" runat="server" />
+                        </span>! [
+                        <asp:LoginStatus ID="HeadLoginStatus" runat="server" LogoutAction="Redirect" LogoutText="Log Out"
+                            LogoutPageUrl="~/forms/zlogin.aspx" OnLoggedOut="LoginStatus_LoggedOut" />
+                        ]
+                    </LoggedInTemplate>
+                </asp:LoginView>--%>
+
+                  [
+                <asp:LinkButton ID="btnLogout" runat="server" Text="Log Out" 
+                    onclick="btnLogout_Click"></asp:LinkButton>   ]
+                [ <asp:HyperLink ID="HyperLink1" NavigateUrl="~/ztchngpass.aspx" Target="_blank" runat="server">Change Password</asp:HyperLink> ]<br/>
+                Welcome <span class="bold">
+                            
+                     <asp:Label ID="lblUser" runat="server" Text="admin"></asp:Label>
+                        </span><span style="padding-left: 5px; padding-right: 5px;">for</span><span class="bold"><asp:Label ID="lblBusiness" runat="server" Text="Business Manager"></asp:Label></span>
+            </div>
+            <div class="clear hideSkiplink">
+               
+
+                <asp:UpdatePanel runat="server" ID="UpdatePanel1" UpdateMode="Conditional">
+                    <ContentTemplate>
+                        <%--<asp:Timer runat="server" ID="Timer1" Interval="300000" OnTick="Timer1_Tick">
+                        </asp:Timer>--%>
+                        <asp:Menu ID="bmmenu" runat="server" CssClass="menu" IncludeStyleBlock="False" Orientation="Horizontal"
+                            BackColor="#FFFBD6" DynamicHorizontalOffset="2" Font-Names="Verdana" Font-Size="0.8em"
+                            ForeColor="#990000" StaticSubMenuIndent="10px" OnMenuItemDataBound="bmmenu_MenuItemDataBound"
+                            OnPreRender="bmmenu_PreRender">
+                            <DynamicHoverStyle BackColor="#990000" ForeColor="White" />
+                            <DynamicMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+                            <DynamicMenuStyle BackColor="#FFFBD6" />
+                            <DynamicSelectedStyle BackColor="#FFCC66" />
+                            <DataBindings>
+                                <asp:MenuItemBinding DataMember="MenuItem" TextField="Text" NavigateUrlField="NavigateUrl"/>
+                            </DataBindings>
+                            <StaticHoverStyle BackColor="#990000" ForeColor="White" />
+                            <StaticMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+                            <StaticSelectedStyle BackColor="#FFCC66" />
+                        </asp:Menu>
+
+                         </ContentTemplate>
+                    <Triggers>
+                        <%--<asp:AsyncPostBackTrigger ControlID="Timer1" EventName="Tick" />--%>
+                    </Triggers>
+                </asp:UpdatePanel>
+
+
+                
+              
+                <asp:Label ID="Label1" runat="server" Text="Label" Visible="False" ForeColor="Red"
+                    BackColor="Black" Font-Bold="True" Font-Size="Large"></asp:Label>
+            </div>
+        </div>
+        <div class="main">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server" OnUnload="MainContent_Unload">
+            </asp:ContentPlaceHolder>
+        </div>
+        <div class="clear">
+        </div>
+    </div>
+    <div class="footer">
+        ©2017 Business Manager</div>
+    </form>
+</body>
+</html>

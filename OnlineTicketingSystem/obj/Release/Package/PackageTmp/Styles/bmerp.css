@@ -1,0 +1,3696 @@
+﻿/*
+    This Script Developed by Business Manager
+*/
+
+* {
+  box-sizing: border-box;
+}
+.flot_right {
+    float: right;
+}
+.column_padding {
+    padding-right: 5px;
+}
+
+.required_style {
+    border: solid 1px #FF0000;
+}
+._grid_text_padding {
+    padding-left: 10px;
+}
+.pad5 {
+    padding-left: 5px;
+}
+.pad10 {
+    padding-left: 10px;
+}
+.float_left {
+    float: left;
+}
+.border_ {
+    border: solid 1px #BFBEBC;
+     border-radius: 4px;
+}
+.center_ {
+    text-align: center;
+}
+
+.bm_hotkey {
+    width: 100%;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.bm_cp_value {
+    border: none; /*background-color: #EEEEEF;color: #EEEEEF;*/
+    font-weight: bold;
+    font-size: 14px;
+    background-color: #EEEEEF;
+    line-height: 1.5em;
+    color: #000000;
+}
+.bm_cp_sample {
+    width: 28px;
+    height: 26px;
+    border: solid 1px #BFBEBC;
+     border-radius: 4px;
+   
+    
+}
+.bm_cp_sample:hover {
+    cursor: pointer;
+}
+.mendatory {
+    color: #CE181E;
+}
+.bm_academic_button_zoom:hover {
+    transform: scale(1.2);
+}
+/*Business Manager Academic Module Tab Container Style
+    Class           : bm_academic_tab
+    Date Created    : 16-01-2018
+    Note            : This style apply only to ajax tab container  
+*/
+.bm_academic_tab .ajax__tab_header, .bm_academic_tab_250 .ajax__tab_header
+{
+    font-family: Myriad Pro,Tahoma , Arial, Sans-Serif;
+    font-size: 16px;
+    font-weight: bold;
+    background-color: #EEEEEF;
+    display: block;
+    
+}
+.bm_academic_tab .ajax__tab_header .ajax__tab_outer, .bm_academic_tab_250 .ajax__tab_header .ajax__tab_outer
+{
+    /*border-color: #222;
+    color: #222;*/
+    padding-left: 10px;
+    margin-right: 3px;
+    border: solid 1px #007DC5;
+    border-bottom: none;
+    border-radius: 4px;
+}
+.bm_academic_tab .ajax__tab_header .ajax__tab_inner, .bm_academic_tab_250 .ajax__tab_header .ajax__tab_inner
+{
+    border-color: #007DC5;
+    /*color: #FFFFFF;*/
+    padding: 3px 10px 2px 0px;
+}
+.bm_academic_tab .ajax__tab_hover .ajax__tab_outer, .bm_academic_tab_250 .ajax__tab_hover .ajax__tab_outer
+{
+    background-color: #C7EBFC;
+}
+.bm_academic_tab .ajax__tab_hover .ajax__tab_inner, .bm_academic_tab_250 .ajax__tab_hover .ajax__tab_inner
+{
+    /*color: #fff;*/
+}
+.bm_academic_tab .ajax__tab_active .ajax__tab_outer, .bm_academic_tab_250 .ajax__tab_active .ajax__tab_outer
+{
+    /*border-bottom-color: #007DC5;*/
+    background-color: #007DC5;
+}
+.bm_academic_tab .ajax__tab_active .ajax__tab_inner, .bm_academic_tab_250 .ajax__tab_active .ajax__tab_inner
+{
+    /*color: #000;*/
+    border-color: #007DC5;
+}
+.bm_academic_tab .ajax__tab_body, .bm_academic_tab_250 .ajax__tab_body
+{
+    font-family: Myriad Pro,tahoma,verdana,helvetica;
+    font-size: 10pt;
+    background-color: #EEEEEF;
+    border-top-width: 0;
+    border: solid 1px #EEEEEF;
+    border-top-width: 7px;
+    border-top-color: #007DC5;
+}
+
+.bm_academic_tab .ajax__tab_tab
+{
+    color: #949599;
+    width: 180px;
+}
+
+.bm_academic_tab_250 .ajax__tab_tab
+{
+    color: #949599;
+    width: 250px;
+}
+
+.bm_academic_tab .ajax__tab_active .ajax__tab_tab, .bm_academic_tab_250 .ajax__tab_active .ajax__tab_tab
+{
+    color: #FFFFFF;
+}
+.bm_academic_tab .ajax__tab_hover .ajax__tab_tab, .bm_academic_tab_250 .ajax__tab_hover .ajax__tab_tab
+{
+    color: #F68814;
+}
+
+.bm_academic_tab,.bm_academic_tab_250 {
+    Width: "100%";
+}
+
+
+/*Business Manager Academic Module Page Style
+    Class            : bm_academic_container
+    Date Created     : 16-01-2018 
+*/
+.bm_academic_container 
+{
+    
+}
+.bm_academic_container_header {
+    width: 100%;
+    /*padding-bottom:10px*/
+}
+.bm_academic_container_header .header_label{
+    width: 100%;
+    background: url("/images/ui-bg_gloss-wave_55_5c9ccc_500x100.png") repeat-x ;
+   /* background-color: #C7EBFC;*/
+    background-size: contain;
+    color: #FFFFFF; /*#F68814;*/
+    font-size: 16px;
+    font-family: Myriad Pro,tahoma;
+    font-weight: bold;
+    text-align: center;
+    height: 30px;
+    line-height: 1.8em;
+}
+
+
+.bm_academic_container_header .header_label1{
+    /*width: 100%;
+    background: url("/images/ui-bg_gloss-wave_55_5c9ccc_500x100.png") repeat-x ;
+    background-color: #C7EBFC;
+    background-size: contain;*/
+    color: #fff;
+    font-size: 14px;
+    font-family: "Helvetica Neue", "Lucida Grande", "Segoe UI", Arial, Helvetica, Verdana, sans-serif;
+    text-align: left;
+    /*height: 15px;
+    
+    line-height: 1.8em; #007DC5*/
+    border-bottom: 3px #16C1F3 solid;
+    padding-top: 3px;
+    
+    
+}
+
+.bm_academic_container_header .bm_am_header_round {
+    background-color: #16C1F3;
+    padding: 2.6px 20px 2.6px 10px;
+    border-radius: 8px 0px 8px 0px;
+    -moz-border-radius: 8px 0px 8px 0px;
+    -webkit-border-radius: 8px 0px 8px 0px;
+    font-variant: small-caps;
+      text-transform: none;
+    font-weight: 600;
+}
+
+.bm_academic_container_message {
+    width: 100%;
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom:5px
+}
+.bm_academic_container_message .message{
+    text-align: center;
+    color: #FF0000; /*#F68814;*/
+    font-size: 14px;
+    font-family: Myriad Pro,tahoma;
+}
+.bm_academic_container_body {
+    background-color: #EEEEEF;
+    padding-bottom: 5px;
+}
+.bm_academic_container_body1 {
+    background-color: #eaf7ff;/*#EEEEEF;*/
+    padding-bottom: 5px;
+}
+.bm_academic_container_body_input_section {
+    width: 100%;
+}
+.bm_academic_container_body_button_section {
+    width: 100%;    
+    
+}
+.bm_academic_container_body_button_section .button_section_padding {
+    padding-top: 10px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.bm_academic_container_body_button_section .button_section_style {
+    text-align: center;
+}
+.bm_academic_container_body_button_section .button_section_style1 {
+    display: inline-block;
+    width: 100%; 
+    text-align: right;
+}
+.bm_academic_container_footer {
+    
+}
+.bm_academic_container_footer .footer_list_padding{
+    padding-top: 5px;
+    padding-bottom: 15px;
+}
+
+.bm_academic_container_footer .footer_list_padding1{
+    padding-top: 10px;
+    padding-bottom: 15px;
+    min-height: 320px;
+}
+
+.bm_academic_container_footer .footer_list_padding2{
+    padding-top: 0px;
+    padding-bottom: 15px;
+}
+
+.xstatus {
+    font-weight: bold;
+    color: #00CC00;
+}
+/*Layout style*/
+.bm_layout_container {
+    width:100%;
+    height: 100%;
+    font-family: Myriad Pro,tahoma;
+    margin:0 auto;
+}
+
+.bm_layout_box_20 {
+    float:left;
+    width:20%;
+    margin: 0 auto;
+}
+
+.bm_layout_box_25 {
+    float:left;
+    width:25%;
+    margin: 0 auto;
+}
+
+.bm_layout_box_33 {
+    float:left;
+    width:33%;
+    margin: 0 auto;
+}
+
+.bm_layout_box_50 {
+    float:left;
+    width:50%;
+    margin: 0 auto;
+}
+
+.bm_layout_box_40 {
+    float:left;
+    width:40%;
+    margin: 0 auto;
+}
+
+.bm_layout_box_60 {
+    float:left;
+    width:60%;
+    margin: 0 auto;
+}
+
+.bm_layout_box_80 {
+    float:left;
+    width:80%;
+    margin: 0 auto;
+}
+
+.bm_layout_box_100 {
+    width:100%;
+}
+
+.bm_ctl_combobox {
+    
+}
+
+.bm_layout_box_padding {
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+}
+
+/*Business Manager Control's Global Design Settings*/
+.bm_clt_padding {
+    padding-bottom: 4px;
+    clear: both;
+}
+
+.bm_academic_ctl_global {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    border: none;
+    padding-left: 5px;
+}
+.bm_academic_ctl_global:focus {
+    /*background-color: #F68814;*/
+    background-color: #f7dc6f;
+}
+
+.bm_academic_textbox_grid {
+     height: 1.8em;
+    font-size: 14px;
+    font-family: Myriad Pro,tahoma;
+    width: 100%;
+}
+
+.bm_academic_textbox_grid1 {
+     height: 20px;
+    font-size: 14px;
+    font-family: Myriad Pro,tahoma;
+    width: 100%;
+}
+
+.bm_academic_dropdown{
+    
+    padding-left: 5px;
+    cursor: pointer;
+    /*background: url('/images/dropdown_arrow32x32_t_bg.png') no-repeat right #FFFFFF;*/
+    background: url('/images/combo_normal.png') no-repeat right #FFFFFF;
+    background-size: contain;
+     border-bottom-right-radius: 2px;
+    border-top-right-radius: 2px;
+     -moz-border-bottom-right-radius: 2px;
+     -moz-border-top-right-radius: 2px;
+      -webkit-border-bottom-right-radius: 2px;
+    -webkit-border-top-right-radius: 2px;
+    
+}
+
+.bm_academic_dropdown:hover {
+    /*outline: 1px solid #F68814; */
+    background: url('/images/combo_hover.png') no-repeat right #FFFFFF;
+    background-size: contain;
+    
+}
+
+.bm_academic_dropdown:focus {
+    background-color: #f7dc6f;
+    
+}
+
+
+
+
+.bm_academic_dropdown::-ms-expand {
+    display: none;
+}
+
+.bm_academic_list{
+    cursor: pointer;
+    height: 24px;
+}
+.bm_academic_list:hover {
+    outline: 1px solid #F68814; 
+}
+
+.bm_academic_list1{
+    cursor: pointer;
+    height: 16px;
+}
+.bm_academic_list1:hover {
+    outline: 1px solid #F68814; 
+}
+
+.bm_academic_list2{
+    cursor: pointer;
+    height: 24px;
+    padding-top: 3px;
+}
+.bm_academic_list2:hover {
+    outline: 1px solid #F68814; 
+}
+
+.bm_academic_list3{
+    cursor: pointer;
+    height: 20px;
+    outline: 1px solid #8fbc8f; 
+}
+.bm_academic_list3:hover {
+    outline: 1px solid #F68814; 
+}
+
+.bm_academic_textbox {
+  padding-left: 5px;
+  border-bottom-right-radius: 2px;
+    border-top-right-radius: 2px;
+     -moz-border-bottom-right-radius: 2px;
+     -moz-border-top-right-radius: 2px;
+      -webkit-border-bottom-right-radius: 2px;
+    -webkit-border-top-right-radius: 2px;
+}
+
+.bm_academic_textarea {
+      padding: 5px 5px;
+    border: 1px solid #BFBEBC;
+     -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    resize: none;
+}
+.bm_academic_textarea:focus {
+    border: 1px solid #F68814;
+}
+
+.bm_academic_datepicker {
+    cursor: pointer;
+    background: url('/images/calendar32x32.png') no-repeat right #FFFFFF;
+    background-size: contain;
+}
+
+.bm_academic_datepicker::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+  
+}
+.bm_academic_datepicker::-moz-placeholder { /* Firefox 19+ */
+    /*color: pink;*/
+}
+.bm_academic_datepicker:-ms-input-placeholder { /* IE 10+ */
+  
+}
+.bm_academic_datepicker:-moz-placeholder { /* Firefox 18- */
+  
+}
+
+.bm_circle_button{
+    cursor: pointer;
+    background-color: #FF0000;
+    border: none;
+    text-decoration: none;
+     width: 20px;
+    height: 20px;
+    display: inline-block;
+     -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+}
+
+.bm_square_button{
+    cursor: pointer;
+    background-color: #FF0000;
+    border: none;
+    text-decoration: none;
+     width: 30px;
+    height: 30px;
+    display: block;
+     
+}
+
+.bm_hexagon_button{
+    cursor: pointer;
+    background-color: #FF0000;
+    border: none;
+    text-decoration: none;
+     width: 30px;
+    height: 30px;
+    display: block;
+
+    position: relative;
+  margin: 10px 0;
+     
+}
+
+.bm_hexagon_button:before,
+.bm_hexagon_button:after {
+  content: "";
+  position: absolute;
+  width: 0;
+  border-left: 15px solid transparent;
+  border-right: 15px solid transparent;
+}
+
+.bm_hexagon_button:before {
+  bottom: 100%;
+  border-bottom: 10px solid #FF0000;
+}
+
+.bm_hexagon_button:after {
+  top: 100%;
+  width: 0;
+  border-top: 10px solid #FF0000;
+}
+
+.bm_square_button2{
+    cursor: pointer;
+    background-color: #F7941E;
+    border: none;
+    text-decoration: none;
+     width: 30px;
+    height: 30px;
+    display: block;
+     
+}
+
+.bm_circle_button1
+{
+    cursor: pointer;
+      background-color: #FF0000;
+     width: 25px;
+    height: 25px;
+    border: none;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 50%;
+      -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+   
+    margin: 2px;
+  
+}
+
+.bm_square_button1{
+   cursor: pointer;
+      background-color: #FF0000;
+     width: 40px;
+    height: 40px;
+    border: none;
+    text-decoration: none;
+    display: block;
+   
+   
+    margin: 2px;
+     
+}
+
+.bm_square_button3{
+   cursor: pointer;
+      background-color: #F7941E;
+     width: 40px;
+    height: 40px;
+    border: none;
+    text-decoration: none;
+    display: block;
+   
+   
+    margin: 2px;
+     
+}
+
+.bm_circle_button2
+{
+    cursor: pointer;
+      background-color: #b2beb5;
+     width: 25px;
+    height: 25px;
+    border: none;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 50%;
+      -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+   
+    margin: 2px;
+  
+}
+
+.bm_academic_button{
+    cursor: pointer;
+    background-color: #007DC5;
+    border: none;
+    color: #FFFFFF;
+    padding: 2px 15px;
+    font-family: Myriad Pro,tahoma;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+     -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+    -webkit-transition-duration: 0.2s; /* Safari */
+    transition-duration: 0.2s;
+    width: 85px;
+}
+
+.bm_academic_button1{
+    cursor: pointer;
+    background-color: #6460ac;
+    border: none;
+    color: #FFFFFF;
+    padding: 3px 10px;
+    font-family: Myriad Pro,tahoma;
+    font-size: 14px;
+    font-weight: normal;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+     -webkit-border-radius: 8px 0px 8px 0px;
+    -moz-border-radius: 8px 0px 8px 0px;
+    border-radius: 8px 0px 8px 0px;
+    -webkit-transition-duration: 0.2s; /* Safari */
+    transition-duration: 0.2s;
+    width: 85px;
+}
+
+.bm_academic_button2{
+    cursor: pointer;
+    background-color: #007DC5;
+    border: none;
+    color: #FFFFFF;
+    padding: 0px 0px;
+    font-family: Myriad Pro,tahoma;
+    font-size: 20px;
+    font-weight: normal;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    -webkit-transition-duration: 0.2s; /* Safari */
+    transition-duration: 0.2s;
+    width: 30px;
+}
+
+.bm_academic_button3{
+    cursor: pointer;
+    background-color: #6460ac;
+    border: none;
+    color: #FFFFFF;
+    padding: 3px 10px;
+    font-family: Myriad Pro,tahoma;
+    font-size: 14px;
+    font-weight: normal;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    -webkit-transition-duration: 0.2s; /* Safari */
+    transition-duration: 0.2s;
+    width: 85px;
+}
+
+.bm_academic_button5{
+    cursor: pointer;
+    background-color: #4caf50;
+    border: none;
+    color: #FFFFFF;
+    padding: 3px 10px;
+    font-family: Myriad Pro,tahoma;
+    font-size: 14px;
+    font-weight: normal;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    -webkit-transition-duration: 0.2s; /* Safari */
+    transition-duration: 0.2s;
+    width: 85px;
+}
+
+.bm_academic_button4{
+    cursor: pointer;
+    background-color: #6460ac;
+    border: none;
+    color: #FFFFFF;
+    padding: 3px 10px;
+    font-family: Myriad Pro,tahoma;
+    font-size: 14px;
+    font-weight: normal;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    
+    -webkit-transition-duration: 0.2s; /* Safari */
+    transition-duration: 0.2s;
+    width: 85px;
+}
+
+.bm_ac_btn_round_bc {
+    -webkit-border-radius: 50px 0px 0px 50px;
+    -moz-border-radius: 50px 0px 0px 50px;
+    border-radius: 50px 0px 0px 50px;
+}
+
+.bm_ac_btn_round_fc {
+    -webkit-border-radius: 0px 50px 50px 0px;
+    -moz-border-radius: 0px 50px 50px 0px;
+    border-radius: 0px 50px 50px 0px;
+}
+
+.bm_academic_button:hover, .bm_academic_button1:hover,  .bm_academic_button2:hover, .bm_academic_button3:hover, .bm_academic_button4:hover,.bm_academic_button5:hover {
+    /*background-color: #C7EBFC;
+    color:  #F68814;*/
+    background-color: #F68814;
+    color:  #C7EBFC;
+}
+.bm_academic_button:active, .bm_academic_button1:active, .bm_academic_button2:active, .bm_academic_button3:active, .bm_academic_button4:active,.bm_academic_button5:active {
+    /*background-color: #F68814;
+    color:  #C7EBFC;*/
+    background-color: #C7EBFC;
+    color:  #F68814;
+}
+
+
+.bm_academic_button:disabled, .bm_academic_button:disabled:hover
+{
+    background-color: #007DC5;
+     color: #FFFFFF;
+    opacity: 0.65;
+}
+
+.bm_academic_button1:disabled, .bm_academic_button1:disabled:hover
+{
+    background-color: #6460ac;
+     color: #FFFFFF;
+    opacity: 0.65;
+}
+
+.bm_academic_button3:disabled, .bm_academic_button3:disabled:hover
+{
+    background-color: #6460ac;
+     color: #FFFFFF;
+    opacity: 0.65;
+}
+
+.bm_academic_button4:disabled, .bm_academic_button4:disabled:hover
+{
+    background-color: #6460ac;
+     color: #FFFFFF;
+    opacity: 0.65;
+}
+
+.bm_academic_button5:disabled, .bm_academic_button5:disabled:hover
+{
+    background-color: #4caf50;
+     color: #FFFFFF;
+    opacity: 0.65;
+}
+
+.file-upload input {
+     background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 5px 100px;
+    font-family: Myriad Pro,tahoma;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    /*margin: 4px 2px;*/
+    cursor: pointer;
+    background-color: white; 
+    color: black; 
+    border: 1px solid #008CBA;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+}
+
+
+.file-upload input :hover {
+    background-color: #008CBA;
+    color: white;
+}
+.bm_academic_imagebtn {
+    
+}
+.bm_academic_imagebtn:hover {
+    border: 1px solid #F68814;
+}
+
+.bm_academic_grid_container {
+    
+}
+
+.bm_academic_grid_container1 {
+    border: 5px #16C1F3 solid;
+}
+
+.bm_academic_grid_container2 {
+   /* border-top: 2px #BFBEBC solid;
+    padding-top: 5px;*/
+}
+
+.bm_ac_grid_calendar {
+    margin-left: 10px; 
+    background-color: #16C1F3;
+    padding: 5px 5px 2px 5px;
+    border-radius: 5px 5px 0px 0px;
+    -webkit-border-radius: 5px 5px 0px 0px;
+    -moz-border-radius: 5px 5px 0px 0px;
+    width: 220px;
+}
+
+.bm_academic_grid_container .grid_header{
+    width: 100%;
+    height: 35px;
+    background-color: #007DC5;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    
+}
+.bm_academic_grid_container .grid_header .grid_header_label {
+    color: #FFFFFF;
+    font-family: Myriad Pro,tahoma;
+    text-align: left;
+    font-size: 14px;
+    font-weight: bold;
+    padding-left: 10px;
+    line-height: 2.2em;
+    float: left;
+}
+.bm_academic_grid_container .grid_header .grid_header_control 
+{
+    float: left;
+}
+.bm_academic_grid_container .grid_header .grid_header_control .grid_ctl_padding
+{
+    padding-top: 4px;
+    margin-left: 250px;
+    float: left;
+    
+}
+.bm_academic_grid_container .grid_header .grid_header_searchbox  {
+   padding: 5px 5px 5px 5px;
+   float: left;
+}
+
+.bm_academic_grid_container .grid_header .grid_header_searchbox  ._searchbox{
+    border: 3px solid #FFFFFF;
+    padding-bottom: 2px;
+    font-family: Myriad Pro,tahoma;
+    background: url('/images/search32x32.png') no-repeat right #FFFFFF;
+    background-size: contain;
+    padding-right: 25px;
+}
+
+.bm_academic_grid_container .grid_header .grid_header_searchbox  ._searchbox1{
+    border: 3px solid #FFFFFF;
+    padding-bottom: 2px;
+    font-family: Myriad Pro,tahoma;
+    background: url('/images/search32x32.png') no-repeat right #FFFFFF;
+    background-size: contain;
+    padding-right: 25px;
+    border-radius: 4px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    
+}
+
+.bm_academic_grid_container .grid_header .grid_header_searchbox ._searchbox:focus {
+    background-color: #f7dc6f;
+}
+
+.bm_academic_grid_container .grid_header .grid_header_searchbox ._searchbox1:focus {
+    background-color: #f7dc6f;
+}
+.bm_academic_grid_container .grid_header .grid_header_row {
+
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 10px;
+    float: right;
+}
+
+.bm_academic_grid_container .grid_header .grid_header_row ._gridrow{
+    border: 2px solid #BFBEBC;
+    width: 35px;
+    padding-bottom: 2px;
+    font-family: Myriad Pro,tahoma;
+}
+
+.bm_academic_grid_container .grid_header .grid_header_row ._gridrow:focus {
+    border: 2px solid #BFBEBC;
+    background-color: #f7dc6f;;
+}
+
+.bm_academic_grid_container .grid_body {
+    padding-top: 1px;
+   padding-bottom: 15px
+}
+
+.bm_academic_grid 
+{
+    width: 100%; 
+    background-color: #F0EFF7; 
+    margin: 2px 0 0 0; 
+    border: solid 2px #F0EFF7; 
+    border-collapse:collapse;
+    font-family: Myriad Pro,tahoma;
+    font-size: 14px;
+}
+
+.am_collapsible_panel {
+    padding-top: 5px;
+    width: 100%;
+}
+.am_collapsible_panel_header {
+     width: 100%;
+    font-family: Myriad Pro,tahoma;
+    font-weight: 100;
+    color: #fff;
+    background: #79B7E4;
+    font-size: 14px;
+    height: 25px;
+}
+.am_collapsible_panel_htext {
+    float: left;
+    padding: 3px 0px 0px 5px;
+}
+.am_collapsible_panel_himage {
+    float: right;
+    padding: 5px 5px 0px 0px;
+}
+.am_collapsible_panel_body {
+    width: 100%;
+    font-family: Myriad Pro,tahoma;
+    background: #F9E79F;
+    margin-bottom: 1px;
+}
+/*.bm_academic_grid .HeaderStyle {
+    border:1px solid #FFFFFF; 
+    background-color:#81B9EF;
+     -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+.bm_academic_grid .HeaderStyle th {
+    padding:5px 0px 5px 0px; 
+    color:#FFFFFF; 
+    text-align:center;
+}
+.bm_academic_grid .RowStyle tr {
+    text-align:center;
+    background-color:#ffffff;
+}
+.bm_academic_grid .AlternatingRowStyle tr {
+    text-align:center; 
+    background-color:#7fefae;
+}*/
+.bm_academic_grid td {
+    padding: 2px; 
+    border: solid 2px #FFFFFF; 
+    color: #000000;
+    padding-left: 3px;
+    font-weight: normal;
+     font-size: 14px;
+     font-family: Myriad Pro,tahoma; 
+}
+
+
+.bm_academic_grid tr:first-child th{
+   
+}
+.bm_academic_grid th, .bm_academic_grid .FooterStyle {
+    padding: 4px 2px; 
+    color: #fff;
+    background: #79B7E4;
+    border-left: solid 2px #FFFFFF; 
+    font-size: 15px;  
+    font-family: Myriad Pro,tahoma; 
+    font-weight: normal;
+}
+.bm_academic_grid .AlternatingRowStyle {
+    background: #E1DFEF;
+}
+.bm_academic_grid tr:hover {
+    background: #F9E79F;
+}
+.bm_academic_grid .FooterStyle:hover {
+    background: #79B7E4;
+}
+.bm_academic_grid .footer_label_total {
+    padding-left: 10px;
+    font-family: Myriad Pro,tahoma;
+    font-size: 15px;
+    color: #FFFFFF;
+    font-weight: normal;
+}
+.bm_academic_grid ._gridrow_link {
+    text-decoration: none;
+}
+.bm_academic_grid ._gridrow_link:hover {
+    text-decoration: underline;
+    color: #007DC5;
+    cursor:pointer;
+}
+
+.bakcolorstyle {
+    background: #79B7E4;
+}
+
+.bm-marks:nth-child(even) {
+    background: #D6E3B5;
+}
+
+.bm-marks:nth-child(odd) {
+    background: #CCD9AF;
+}
+
+
+
+.bm_academic_grid1 
+{
+    width: 100%; 
+    background-color: #F0EFF7; 
+    margin: 2px 0 0 0; 
+    border: solid 2px #F0EFF7; 
+    border-collapse:collapse;
+    font-family: Myriad Pro,tahoma;
+    font-size: 14px;
+    font-weight: 100;
+    
+}
+
+
+.bm_academic_grid1 td {
+    padding: 2px; 
+    border: solid 2px #FFFFFF;
+    color: #000000;
+    padding-left: 3px;
+     font-size: 14px;
+     font-family: Myriad Pro,tahoma;
+    font-weight: lighter;
+}
+.bm_academic_grid1 th, .bm_academic_grid1 .FooterStyle {
+    padding: 4px 2px; 
+    color: #fff;
+    background: #79B7E4;
+    border-left: solid 2px #FFFFFF; 
+    font-size: 14px;  
+    font-family: Myriad Pro,tahoma;
+    font-weight: 100;
+}
+.HeaderStyle1 {
+   
+}
+.bm_academic_grid1 .AlternatingRowStyle {
+    background: #E1DFEF;
+}
+.bm_academic_grid1 tr:hover {
+   /* background: #F9E79F;*/
+}
+.bm_academic_grid1 .FooterStyle:hover {
+    background: #79B7E4;
+}
+.bm_academic_grid1 .footer_label_total {
+    padding-left: 10px;
+    font-family: Myriad Pro,tahoma;
+    font-size: 14px;
+    color: #FFFFFF;
+    font-weight: 100;
+}
+.bm_academic_grid1 ._gridrow_link {
+    text-decoration: none;
+}
+.bm_academic_grid1 ._gridrow_link:hover {
+    text-decoration: underline;
+    color: #007DC5;
+}
+
+.bm_academic_grid4 tr:hover {
+    background: #F9E79F;
+}
+
+
+.bm_academic_grid5 
+{
+    width: 100%; 
+    background-color: #FFF6F1; 
+    margin: 2px 0 0 0; 
+    border: solid 1px #FFFFFF; 
+    border-collapse:collapse;
+    font-family: Myriad Pro,tahoma;
+    font-size: 14px;
+    font-weight: 100;
+    
+}
+
+
+.bm_academic_grid5 td {
+    padding: 2px; 
+    border: solid 1px #FFFFFF;
+    color: #000000;
+    padding-left: 3px;
+     font-size: 14px;
+     font-family: Myriad Pro,tahoma;
+    font-weight: lighter;
+}
+.bm_academic_grid5 th, .bm_academic_grid5 .FooterStyle {
+    padding: 4px 2px; 
+    color: #000;
+    background: #FBC8B4;
+    border-left: solid 1px #FFFFFF; 
+    font-size: 14px;  
+    font-family: Myriad Pro,tahoma;
+    font-weight: 100;
+}
+.HeaderStyle1 {
+   
+}
+.bm_academic_grid5 .AlternatingRowStyle {
+    background: #FEE7DC;
+}
+.bm_academic_grid1 tr:hover {
+   /* background: #F9E79F;*/
+}
+.bm_academic_grid5 .FooterStyle:hover {
+    background: #FBC8B4;
+}
+.bm_academic_grid5 .footer_label_total {
+    padding-left: 10px;
+    font-family: Myriad Pro,tahoma;
+    font-size: 14px;
+    color: #FFFFFF;
+    font-weight: 100;
+}
+.bm_academic_grid5 ._gridrow_link {
+    text-decoration: none;
+}
+.bm_academic_grid5 ._gridrow_link:hover {
+    text-decoration: underline;
+    color: #FBC8B4;
+}
+
+.bm_academic_grid2 
+{
+    width: 100%; 
+    background-color: #FFFFFF; 
+    margin: 2px 0 0 0; 
+    border: solid 1px #000000; 
+    border-collapse:collapse;
+    font-size: 12px;
+    font-weight: 100;
+    font-family: Arial;
+    
+}
+
+
+.bm_academic_grid2 td {
+    padding: 1px; 
+    border: solid 1px #000000;
+    color: #000000;
+    padding-left: 3px;
+     font-size: 12px;
+    font-weight: lighter;
+}
+.bm_academic_grid2 th, .bm_academic_grid2 .FooterStyle {
+    padding: 4px 2px; 
+    color: #000000;
+    background: #C0C0C0;
+    border-left: solid 1px #000000; 
+    font-size: 14px; 
+    font-weight: 100;
+}
+.HeaderStyle1 
+{
+    
+}
+.bm_academic_grid2 .AlternatingRowStyle {
+    background: #E1DFEF;
+}
+.bm_academic_grid1 tr:hover {
+   /* background: #F9E79F;*/
+}
+.bm_academic_grid2 .FooterStyle:hover {
+    background: #C0C0C0;
+}
+.bm_academic_grid2 .footer_label_total {
+    padding-left: 10px;
+    font-size: 14px;
+    color: #000000;
+    font-weight: 100;
+}
+.bm_academic_grid2 ._gridrow_link {
+    text-decoration: none;
+}
+.bm_academic_grid2 ._gridrow_link:hover {
+    text-decoration: underline;
+    color: #007DC5;
+}
+
+.bm_academic_grid10 
+{
+    width: 100%; 
+    background-color: #F0EFF7; 
+    margin: 2px 0 0 0; 
+    border: 1px solid #778899;
+    border-collapse:collapse;
+    font-family: Myriad Pro,tahoma;
+    font-size: 12px;
+    font-weight: 100;
+    
+}
+
+
+.bm_academic_grid10 td {
+    padding: 2px; 
+    border: 1px solid #778899;
+    color: #000000;
+    padding-left: 3px;
+     font-size: 12px;
+     font-family: Myriad Pro,tahoma;
+    font-weight: lighter;
+}
+.bm_academic_grid10 th, .bm_academic_grid10 .FooterStyle {
+    padding: 4px 2px; 
+    color: #fff;
+    background: #79B7E4;
+    border-left: solid 1px #778899; 
+    font-size: 12px;  
+    font-family: Myriad Pro,tahoma;
+    font-weight: 100;
+    
+    /*background-image: -moz-linear-gradient(
+		top,
+		rgba(255,255,255,0.4) 0%,
+		rgba(255,255,255,0.2) 50%,
+		rgba(255,255,255,0.1) 51%,
+		rgba(255,255,255,0.0) 100%);
+	
+	background-image: -webkit-gradient(
+		linear, left top, left bottom,
+		color-stop(0%,rgba(255,255,255,0.4)),
+		color-stop(50%,rgba(255,255,255,0.2)),
+		color-stop(51%,rgba(255,255,255,0.1)),
+		color-stop(100%,rgba(255,255,255,0.0)));*/
+}
+.HeaderStyle10 {
+   
+}
+.bm_academic_grid10 .AlternatingRowStyle {
+   /* background: #E1DFEF;*/
+}
+
+
+
+.bm_academic_grid10 tr:hover {
+   /* background: #F9E79F;*/
+}
+.bm_academic_grid10 .FooterStyle:hover {
+    background: #79B7E4;
+}
+.bm_academic_grid10 .footer_label_total {
+    padding-left: 10px;
+    font-family: Myriad Pro,tahoma;
+    font-size: 14px;
+    color: #FFFFFF;
+    font-weight: 100;
+}
+.bm_academic_grid10 ._gridrow_link {
+    text-decoration: none;
+}
+.bm_academic_grid10 ._gridrow_link:hover {
+    text-decoration: underline;
+    color: #007DC5;
+}
+
+
+.bm_academic_grid20 
+{
+    width: 100%; 
+    background-color: #FFFFFF; 
+    margin: 2px 0 0 0; 
+     border: 1px solid #000000; 
+    border-collapse:collapse;
+    font-size: 12px;
+   
+    font-family: Arial;
+    
+}
+
+
+.bm_academic_grid20 td {
+    padding: 1px; 
+    border: 1px solid #778899; 
+    color: #000000;
+    padding-left: 3px;
+     font-size: 12px;
+    
+}
+.bm_academic_grid20 th, .bm_academic_grid20 .FooterStyle {
+    padding: 4px 2px; 
+    color: #000000;
+    background: #C0C0C0;
+    border: 1px solid #000000;  
+    font-size: 12px; 
+    
+}
+.HeaderStyle1 
+{
+    
+}
+/*.bm_academic_grid20 .AlternatingRowStyle {
+    background: #E1DFEF;
+}*/
+.bm_academic_grid1 tr:hover {
+   /* background: #F9E79F;*/
+}
+.bm_academic_grid20 .FooterStyle:hover {
+    background: #C0C0C0;
+}
+.bm_academic_grid20 .footer_label_total {
+    padding-left: 10px;
+    font-size: 12px;
+    color: #000000;
+   
+}
+.bm_academic_grid20 ._gridrow_link {
+    text-decoration: none;
+}
+.bm_academic_grid20 ._gridrow_link:hover {
+    text-decoration: underline;
+    color: #007DC5;
+}
+
+
+.bm_academic_imgbtn_add {
+    height: 23px;
+    width: 27px;
+    background: url('/images/add.png') no-repeat;
+    background-size: contain;
+}
+
+.bm_academic_chackbox {
+    padding-top: 5px;
+    color: #000000;
+}
+
+.bm_academic_label {
+    line-height: 1.8em; 
+    padding-left: 10px; 
+    color: #000000;
+}
+
+.bm_academic_image {
+   padding: 3px;
+   background-color: #525252;
+   border: 2px solid #c3cfd3;
+   background-image: url('/images/no-image1.png');
+}
+
+/*BM Control Container 40% Control's Design For 50% Layout */
+.bm_ctl_container_50_40 {
+    border: solid 1px #BFBEBC;
+    border-radius: 4px;
+    height: 25px;
+    width: 40%;
+}
+
+.bm_ctl_label_align_right_50_40 {
+    text-align: right;
+    padding-right: 5px;
+    
+}
+
+.bm_ctl_label_align_left_50_40 {
+    text-align: left;
+    padding-left: 10px;
+    
+}
+
+.bm_ctl_label_align_center_50_40 {
+    text-align: center;
+}
+
+.bm_ctl_label_align_right_50_40 label, .bm_ctl_label_align_left_50_40 label ,.bm_ctl_label_align_center_50_40 label {
+    line-height: 1.5em;
+    font-family: Myriad Pro,tahoma;
+}
+
+.bm_ctl_label_align_center_50_40, .bm_ctl_label_align_right_50_40, .bm_ctl_label_align_left_50_40 {
+    width: 72%;
+    height: 100%;
+    background-color: #C7EBFC;
+    color: #000000; /*#663D2A;*/
+    font-size: 14px;
+    /*font-weight: bold;*/
+    border-radius: 2px;
+    float: left;
+}
+.bm_clt_ctl_50_40 
+{
+    width: 28%;
+    float: left;
+   
+}
+
+.bm_academic_dropdown_50_40 {
+    height: 1.65em;
+    font-size: 14px;
+    font-family: Myriad Pro,tahoma;
+    padding-bottom: 0px;
+    width: 100%;
+}
+
+.bm_academic_textbox_50_40 {
+    height: 1.65em;
+    font-size: 14px;
+    font-family: Myriad Pro,tahoma;
+    width: 100%;
+}
+
+/*BM Control Container 50% Control's Design For 50% Layout */
+.bm_ctl_container_50_50 {
+    border: solid 1px #BFBEBC;
+    border-radius: 4px;
+    height: 25px;
+    width: 50%;
+}
+.bm_ctl_label_align_right_50_50 {
+    text-align: right;
+    padding-right: 5px;
+    
+}
+
+.bm_ctl_label_align_left_50_50 {
+    text-align: left;
+    padding-left: 10px;
+    
+}
+
+.bm_ctl_label_align_center_50_50 {
+    text-align: center;
+}
+
+.bm_ctl_label_align_right_50_50 label, .bm_ctl_label_align_left_50_50 label ,.bm_ctl_label_align_center_50_50 label {
+    line-height: 1.5em;
+    font-family: Myriad Pro,tahoma;
+}
+
+.bm_ctl_label_align_center_50_50, .bm_ctl_label_align_right_50_50, .bm_ctl_label_align_left_50_50 {
+    width: 57.4%;
+    height: 100%;
+    background-color: #C7EBFC;
+    color: #000000; /*#663D2A;*/
+    font-size: 14px;
+    /*font-weight: bold;*/
+    border-radius: 2px;
+    float: left;
+}
+.bm_clt_ctl_50_50 
+{
+    width: 42.6%;
+    float: left;
+   
+}
+
+.bm_academic_dropdown_50_50 {
+    height: 1.65em;
+    font-size: 14px;
+    font-family: Myriad Pro,tahoma;
+    padding-bottom: 0px;
+    width: 100%;
+   
+}
+
+.bm_academic_textbox_50_50 {
+    height: 1.65em;
+    font-size: 14px;
+    font-family: Myriad Pro,tahoma;
+    width: 100%;
+}
+
+/*BM Control Container 60% Control's Design For 50% Layout */
+.bm_ctl_container_50_60 {
+    border: solid 1px #BFBEBC;
+    border-radius: 4px;
+    height: 25px;
+    width: 60%;
+}
+.bm_ctl_label_align_right_50_60 {
+    text-align: right;
+    padding-right: 5px;
+    
+}
+
+.bm_ctl_label_align_left_50_60 {
+    text-align: left;
+    padding-left: 10px;
+    
+}
+
+.bm_ctl_label_align_center_50_60 {
+    text-align: center;
+}
+
+.bm_ctl_label_align_right_50_60 label, .bm_ctl_label_align_left_50_60 label ,.bm_ctl_label_align_center_50_60 label {
+    line-height: 1.5em;
+    font-family: Myriad Pro,tahoma;
+}
+
+.bm_ctl_label_align_center_50_60, .bm_ctl_label_align_right_50_60, .bm_ctl_label_align_left_50_60 {
+    width: 47.5%;
+    height: 100%;
+    background-color: #C7EBFC;
+    color: #000000; /*#663D2A;*/
+    font-size: 14px;
+    /*font-weight: bold;*/
+    border-radius: 2px;
+    float: left;
+}
+.bm_clt_ctl_50_60 
+{
+    width: 52.5%;
+    float: left;
+   
+}
+.bm_clt_ctl_50_60 .bm_list_text {
+    width: 85%;
+    float: left;
+}
+.bm_clt_ctl_50_60 .bm_list_img {
+    float: right; 
+}
+.bm_academic_dropdown_50_60 {
+    height: 1.65em;
+    font-size: 14px;
+    font-family: Myriad Pro,tahoma;
+    padding-bottom: 0px;
+    width: 100%;
+}
+
+.bm_academic_textbox_50_60 {
+    height: 1.65em;
+    font-size: 14px;
+    font-family: Myriad Pro,tahoma;
+    width: 100%;
+}
+
+/*BM Control Container 80% Control's Design For 50% Layout */
+.bm_ctl_container_50_80 {
+    border: solid 1px #BFBEBC;
+    border-radius: 4px;
+    height: 25px;
+    width: 80%;
+}
+.bm_ctl_label_align_right_50_80 {
+    text-align: right;
+    padding-right: 5px;
+    
+}
+
+.bm_ctl_label_align_left_50_80 {
+    text-align: left;
+    padding-left: 10px;
+    
+}
+
+.bm_ctl_label_align_center_50_80 {
+    text-align: center;
+}
+
+.bm_ctl_label_align_right_50_80 label, .bm_ctl_label_align_left_50_80 label ,.bm_ctl_label_align_center_50_80 label {
+    line-height: 1.5em;
+    font-family: Myriad Pro,tahoma;
+}
+
+.bm_ctl_label_align_center_50_80, .bm_ctl_label_align_right_50_80, .bm_ctl_label_align_left_50_80 {
+    width: 35.5%;
+    height: 100%;
+    background-color: #C7EBFC;
+    color: #000000; /*#663D2A;*/
+    font-size: 14px;
+    /*font-weight: bold;*/
+    border-radius: 2px;
+    float: left;
+}
+.bm_clt_ctl_50_80 
+{
+    width: 64.5%;
+    float: left;
+   
+}
+
+.bm_academic_dropdown_50_80 {
+    height: 1.65em;
+    font-size: 14px;
+    font-family: Myriad Pro,tahoma;
+    padding-bottom: 0px;
+    width: 100%;
+}
+
+.bm_academic_textbox_50_80 {
+    height: 1.65em;
+    font-size: 14px;
+    font-family: Myriad Pro,tahoma;
+    width: 100%;
+}
+
+.bm_ctl_container_dynamic_50_80_l {
+    border: solid 1px #BFBEBC;
+    border-radius: 4px;
+    height: 25px;
+    width: 18%;
+    float: left;
+}
+
+.bm_ctl_container_dynamic_50_80{
+    width: 100%;
+}
+.bm_ctl_container_dynamic_50_80_imgbtn {
+    height: 25px;
+    margin-left: 5px;
+    float: left;
+}
+.bm_ctl_container_dynamic_50_80_l_new {
+    border: solid 1px #BFBEBC;
+    border-radius: 4px;
+    height: 28px;
+    width: 28.8%;
+    float: left;
+}
+.bm_ctl_label_align_right_dynamic_50_80_l {
+    text-align: right;
+    padding-right: 5px;
+    
+}
+
+.bm_ctl_label_align_left_dynamic_50_80_l {
+    text-align: left;
+    padding-left: 10px;
+    
+}
+
+.bm_ctl_label_align_center_dynamic_50_80_l {
+    text-align: center;
+}
+
+
+.bm_ctl_label_align_right_dynamic_50_80_l label, .bm_ctl_label_align_left_dynamic_50_80_l label ,.bm_ctl_label_align_center_dynamic_50_80_l label {
+    line-height: 1.5em;
+    font-family: Myriad Pro,tahoma;
+}
+
+.bm_ctl_label_align_center_dynamic_50_80_l, .bm_ctl_label_align_right_dynamic_50_80_l, .bm_ctl_label_align_left_dynamic_50_80_l {
+    width: 100%;
+    height: 100%;
+    background-color: #C7EBFC;
+    color: #000000; /*#663D2A;*/
+    font-size: 14px;
+    /*font-weight: bold;*/
+    border-radius: 2px;
+    float: left;
+}
+
+.bm_clt_ctl_dynamic_50_80 
+{
+    float: left;
+   
+}
+
+.bm_clt_ctl_dynamic_50_80 ._ctl_padding {
+    padding-left: 10px;
+}
+
+.bm_clt_ctl_dynamic_50_80 ._ctl_container {
+    
+}
+
+ ._padding{
+    padding-left: 10px;
+}
+
+.bm_ctl_container_dynamic_50_80_wol {
+    border: solid 1px #BFBEBC;
+    border-radius: 4px;
+    height: 25px;
+    margin-right: 10px;
+    float: left;
+}
+
+.bm_ctl_container_dynamic_50_80_nl {
+    height: 25px;
+    margin-right: 9px;
+    float: left;
+}
+.bm_ctl_container_dynamic_50_80_nl .label
+ {
+    line-height: 1.6em;
+    font-family: Myriad Pro,tahoma;
+    font-size: 14px;
+}
+.bm_academic_dropdown_dynamic_50_80 {
+    height: 1.65em;
+    font-size: 14px;
+    font-family: Myriad Pro,tahoma;
+    padding-bottom: 0px;
+    width: 120px;
+}
+
+.bm_academic_textbox_dynamic_50_80 {
+    height: 1.65em;
+    font-size: 14px;
+    font-family: Myriad Pro,tahoma;
+    width: 220px;
+}
+
+.bm_academic_datepicker_dynamic_50_80 {
+    height: 1.65em;
+    font-size: 14px;
+    font-family: Myriad Pro,tahoma;
+    width: 120px;
+}
+
+/*BM Control Container 100% Control's Design For 50% Layout */
+.bm_ctl_container_50_100 {
+    border: solid 1px #BFBEBC;
+    border-radius: 4px;
+    height: 25px;
+    width: 100%;
+}
+.bm_ctl_label_align_right_50_100 {
+    text-align: right;
+    padding-right: 5px;
+    
+}
+
+.bm_ctl_label_align_left_50_100 {
+    text-align: left;
+    padding-left: 10px;
+    
+}
+
+.bm_ctl_label_align_center_50_100 {
+    text-align: center;
+}
+
+.bm_ctl_label_align_right_50_100 label, .bm_ctl_label_align_left_50_100 label ,.bm_ctl_label_align_center_50_100 label {
+    line-height: 1.5em;
+    font-family: Myriad Pro,tahoma;
+}
+
+.bm_ctl_label_align_center_50_100, .bm_ctl_label_align_right_50_100, .bm_ctl_label_align_left_50_100 {
+    width: 28.5%;
+    height: 100%;
+    background-color: #C7EBFC;
+    color: #000000; /*#663D2A;*/
+    font-size: 14px;
+    /*font-weight: bold;*/
+    border-radius: 2px;
+    float: left;
+}
+.bm_clt_ctl_50_100 
+{
+    width: 71.5%;
+    float: left;
+   
+}
+
+.bm_clt_ctl_50_100 .bm_list_text
+{
+    width: 93.9%;
+    float: left;
+   
+}
+
+.bm_clt_ctl_50_100 .bm_list_img
+{
+    float: left;
+}
+
+.bm_academic_dropdown_50_100 {
+    height: 1.65em;
+    font-size: 14px;
+    font-family: Myriad Pro,tahoma;
+    padding-bottom: 0px;
+    width: 100%;
+}
+
+.bm_academic_textbox_50_100 {
+    height: 1.65em;
+    font-size: 14px;
+    font-family: Myriad Pro,tahoma;
+    width: 100%;
+}
+
+
+.bm_academic_textarea_50_100 {
+    font-size: 14px;
+    font-family: Myriad Pro,tahoma;
+    width: 200px;
+    height: 300px;
+    margin-left: 0px;
+}
+
+/*BM Only Label Control Design For 50% Layout */
+.bm_academic_container_dynamic {
+    width: 50%;
+}
+bm_academic_dynamic_ctl_clt {
+    
+}
+.bm_ctl_container_50_l_fl {
+    border: solid 1px #BFBEBC;
+    border-radius: 4px;
+    height: 25px;
+    width: 14.5%;
+    float: left;
+}
+.bm_ctl_container_50_l {
+    border: solid 1px #BFBEBC;
+    border-radius: 4px;
+    height: 25px;
+    width: 14.5%;
+}
+.bm_ctl_container_50_l_woc {
+    border: solid 1px #BFBEBC;
+    border-radius: 4px;
+    height: 25px;
+    width: 28.8%;
+    line-height: 1.6em;
+}
+.bm_ctl_label_align_right_50_l {
+    text-align: right;
+    padding-right: 5px;
+    
+}
+
+.bm_ctl_label_align_left_50_l {
+    text-align: left;
+    padding-left: 10px;
+    
+}
+
+.bm_ctl_label_align_center_50_l {
+    text-align: center;
+}
+
+.bm_ctl_label_align_right_50_l label, .bm_ctl_label_align_left_50_l label ,.bm_ctl_label_align_center_50_l label {
+    line-height: 1.5em;
+    font-family: Myriad Pro,tahoma;
+}
+.bm_ctl_label_align_center_50_l, .bm_ctl_label_align_right_50_l, .bm_ctl_label_align_left_50_l {
+    width: 100%;
+    height: 100%;
+    background-color: #C7EBFC;
+    color: #000000; /*#663D2A;*/
+    font-size: 14px;
+    /*font-weight: bold;*/
+    border-radius: 2px;
+    float: left;
+}
+
+/*BM Only Label Control Design For 100% Layout */
+.bm_academic_container_dynamic {
+    width: 100%;
+}
+bm_academic_dynamic_ctl_clt {
+    
+}
+.bm_ctl_container_100_l_fl {
+    border: solid 2px #BFBEBC;
+    border-radius: 4px;
+    height: 25px;
+    width: 14.5%;
+    float: left;
+}
+.bm_ctl_container_100_l {
+    border: solid 1px #BFBEBC;
+    border-radius: 4px;
+    height: 25px;
+    width: 14.5%;
+}
+.bm_ctl_label_align_right_100_l {
+    text-align: right;
+    padding-right: 5px;
+    
+}
+
+.bm_ctl_label_align_left_100_l {
+    text-align: left;
+    padding-left: 10px;
+    
+}
+
+.bm_ctl_label_align_center_100_l {
+    text-align: center;
+}
+
+.bm_ctl_label_align_right_100_l label, .bm_ctl_label_align_left_100_l label ,.bm_ctl_label_align_center_100_l label {
+    line-height: 1.5em;
+    font-family: Myriad Pro,tahoma;
+}
+.bm_ctl_label_align_center_100_l, .bm_ctl_label_align_right_100_l, .bm_ctl_label_align_left_100_l {
+    width: 100%;
+    height: 100%;
+    background-color: #C7EBFC;
+    color: #000000; /*#663D2A;*/
+    font-size: 14px;
+    /*font-weight: bold;*/
+    border-radius: 2px;
+    float: left;
+}
+/*BM Control Container 20% Control's Design For 100% Layout */
+.bm_ctl_container_100_20 {
+    border: solid 1px #BFBEBC;
+    border-radius: 4px;
+    height: 25px;
+    width: 20%;
+}
+
+.bm_ctl_label_align_right_100_20 {
+    text-align: right;
+    padding-right: 5px;
+    
+}
+
+.bm_ctl_label_align_left_100_20 {
+    text-align: left;
+    padding-left: 10px;
+    
+}
+
+.bm_ctl_label_align_center_100_20 {
+    text-align: center;
+}
+
+.bm_ctl_label_align_right_100_20 label, .bm_ctl_label_align_left_100_20 label ,.bm_ctl_label_align_center_100_20 label {
+    line-height: 1.5em;
+    font-family: Myriad Pro,tahoma;
+}
+
+.bm_ctl_label_align_center_100_20, .bm_ctl_label_align_right_100_20, .bm_ctl_label_align_left_100_20 {
+    width: 72%;
+    height: 100%;
+    background-color: #C7EBFC;
+    color: #000000; /*#663D2A;*/
+    font-size: 14px;
+    /*font-weight: bold;*/
+    border-radius: 2px;
+    float: left;
+}
+.bm_clt_ctl_100_20 
+{
+    width: 28%;
+    float: left;
+   
+}
+
+.bm_academic_dropdown_100_20 {
+    height: 1.65em;
+    font-size: 14px;
+    font-family: Myriad Pro,tahoma;
+    padding-bottom: 0px;
+    width: 100%;
+}
+
+.bm_academic_textbox_100_20 {
+    height: 1.65em;
+    font-size: 14px;
+    font-family: Myriad Pro,tahoma;
+    width: 100%;
+}
+
+/*BM Control Container 25% Control's Design For 100% Layout */
+.bm_ctl_container_100_25 {
+    border: solid 1px #BFBEBC;
+    border-radius: 4px;
+    height: 25px;
+    width: 25%;
+}
+
+
+
+.bm_ctl_label_align_right_100_25 {
+    text-align: right;
+    padding-right: 5px;
+    
+}
+
+.bm_ctl_label_align_left_100_25 {
+    text-align: left;
+    padding-left: 10px;
+    
+}
+
+.bm_ctl_label_align_center_100_25 {
+    text-align: center;
+}
+
+.bm_ctl_label_align_right_100_25 label, .bm_ctl_label_align_left_100_25 label ,.bm_ctl_label_align_center_100_25 label {
+    line-height: 1.5em;
+    font-family: Myriad Pro,tahoma;
+}
+
+.bm_ctl_label_align_center_100_25, .bm_ctl_label_align_right_100_25, .bm_ctl_label_align_left_100_25 {
+    width: 57.8%;
+    height: 100%;
+    background-color: #C7EBFC;
+    color: #000000; /*#663D2A;*/
+    font-size: 14px;
+    /*font-weight: bold;*/
+    border-radius: 2px;
+    float: left;
+}
+.bm_clt_ctl_100_25 
+{
+    width: 42.2%;
+    float: left;
+   
+}
+
+.bm_academic_dropdown_100_25 {
+    height: 1.65em;
+    font-size: 14px;
+    font-family: Myriad Pro,tahoma;
+    padding-bottom: 0px;
+    width: 100%;
+}
+
+.bm_academic_textbox_100_25 {
+    height: 1.65em;
+    font-size: 14px;
+    font-family: Myriad Pro,tahoma;
+    width: 100%;
+}
+
+.bm_ctl_container_100_s_grid {
+    border: solid 1px #BFBEBC;
+    border-radius: 4px;
+    height: 25px;
+    width: 180px;
+    margin-right: 10px;
+    float: left;
+}
+.bm_ctl_container_100_s_grid_c {
+    border: solid 1px #BFBEBC;
+    border-radius: 4px;
+    height: 25px;
+    width: 220px;
+    margin-right: 10px;
+    float: left;
+}
+.bm_ctl_label_align_right_100_s_grid {
+    text-align: right;
+    padding-right: 5px;
+    
+}
+
+.bm_ctl_label_align_left_100_s_grid {
+    text-align: left;
+    padding-left: 10px;
+    
+}
+
+.bm_ctl_label_align_center_100_s_grid {
+    text-align: center;
+}
+
+.bm_ctl_label_align_right_100_s_grid label, .bm_ctl_label_align_left_100_s_grid label ,.bm_ctl_label_align_center_100_s_grid label {
+    line-height: 1.5em;
+    font-family: Myriad Pro,tahoma;
+}
+
+.bm_ctl_label_align_center_100_s_grid, .bm_ctl_label_align_right_100_s_grid, .bm_ctl_label_align_left_100_s_grid {
+    width: 35%;
+    height: 100%;
+    background-color: #C7EBFC;
+    color: #000000; /*#663D2A;*/
+    font-size: 14px;
+    /*font-weight: bold;*/
+    border-radius: 2px;
+    float: left;
+}
+.bm_clt_ctl_100_s_grid 
+{
+    width: 65%;
+    float: left;
+   
+}
+
+.bm_academic_dropdown_100_s_grid {
+    height: 1.65em;
+    font-size: 14px;
+    font-family: Myriad Pro,tahoma;
+    padding-bottom: 0px;
+    width: 100%;
+}
+
+
+
+.bm_academic_textbox_100_s_grid {
+    height: 1.65em;
+    font-size: 14px;
+    font-family: Myriad Pro,tahoma;
+    width: 100%;
+}
+
+
+.bm_ctl_container_100_ses_grid {
+    border: solid 1px #BFBEBC;
+    border-radius: 4px;
+    height: 25px;
+    width: 250px;
+    margin-right: 10px;
+    float: left;
+}
+.bm_ctl_label_align_right_100_ses_grid{
+    text-align: right;
+    padding-right: 5px;
+    
+}
+
+.bm_ctl_label_align_left_100_ses_grid {
+    text-align: left;
+    padding-left: 10px;
+    
+}
+
+.bm_ctl_label_align_center_100_ses_grid {
+    text-align: center;
+}
+
+.bm_ctl_label_align_right_100_ses_grid label, .bm_ctl_label_align_left_100_ses_grid label ,.bm_ctl_label_align_center_100_ses_grid label {
+    line-height: 1.5em;
+    font-family: Myriad Pro,tahoma;
+}
+
+.bm_ctl_label_align_center_100_ses_grid, .bm_ctl_label_align_right_100_ses_grid, .bm_ctl_label_align_left_100_ses_grid {
+    width: 28%;
+    height: 100%;
+    background-color: #C7EBFC;
+    color: #000000; /*#663D2A;*/
+    font-size: 14px;
+    /*font-weight: bold;*/
+    border-radius: 2px;
+    float: left;
+}
+.bm_clt_ctl_100_ses_grid 
+{
+    width: 72%;
+    float: left;
+   
+}
+
+.bm_academic_dropdown_100_ses_grid {
+    height: 1.65em;
+    font-size: 14px;
+    font-family: Myriad Pro,tahoma;
+    padding-bottom: 0px;
+    width: 100%;
+}
+
+.bm_academic_textbox_100_ses_grid {
+    height: 1.65em;
+    font-size: 14px;
+    font-family: Myriad Pro,tahoma;
+    width: 100%;
+}
+/*BM Control Container 30% Control's Design For 100% Layout */
+.bm_ctl_container_100_30 {
+    border: solid 1px #BFBEBC;
+    border-radius: 4px;
+    height: 25px;
+    width: 30%;
+}
+
+.bm_ctl_label_align_right_100_30 {
+    text-align: right;
+    padding-right: 5px;
+    
+}
+
+.bm_ctl_label_align_left_100_30 {
+    text-align: left;
+    padding-left: 10px;
+    
+}
+
+.bm_ctl_label_align_center_100_30 {
+    text-align: center;
+}
+
+.bm_ctl_label_align_right_100_30 label, .bm_ctl_label_align_left_100_30 label ,.bm_ctl_label_align_center_100_30 label {
+    line-height: 1.5em;
+    font-family: Myriad Pro,tahoma;
+}
+
+.bm_ctl_label_align_center_100_30, .bm_ctl_label_align_right_100_30, .bm_ctl_label_align_left_100_30 {
+    width: 47.8%;
+    height: 100%;
+    background-color: #C7EBFC;
+    color: #000000; /*#663D2A;*/
+    font-size: 14px;
+    /*font-weight: bold;*/
+    border-radius: 2px;
+    float: left;
+}
+.bm_clt_ctl_100_30 
+{
+    width: 52.2%;
+    float: left;
+   
+}
+.bm_clt_ctl_100_30 .bm_list_text {
+    width: 85%;
+    float: left;
+} 
+
+.bm_clt_ctl_100_30 .bm_list_img {
+    float: right;
+}
+
+.bm_academic_dropdown_100_30 {
+    height: 1.65em;
+    font-size: 14px;
+    font-family: Myriad Pro,tahoma;
+    padding-bottom: 0px;
+    width: 100%;
+}
+
+.bm_academic_textbox_100_30 {
+    height: 1.65em;
+    font-size: 14px;
+    font-family: Myriad Pro,tahoma;
+    width: 100%;
+}
+
+/*BM Control Container 35% Control's Design For 100% Layout */
+.bm_ctl_container_100_35 {
+    border: solid 1px #BFBEBC;
+    border-radius: 4px;
+    height: 25px;
+    width: 35%;
+}
+
+.bm_ctl_label_align_right_100_35 {
+    text-align: right;
+    padding-right: 5px;
+    
+}
+
+.bm_ctl_label_align_left_100_35 {
+    text-align: left;
+    padding-left: 10px;
+    
+}
+
+.bm_ctl_label_align_center_100_35 {
+    text-align: center;
+}
+
+.bm_ctl_label_align_right_100_35 label, .bm_ctl_label_align_left_100_35 label ,.bm_ctl_label_align_center_100_35 label {
+    line-height: 1.5em;
+    font-family: Myriad Pro,tahoma;
+}
+
+.bm_ctl_label_align_center_100_35, .bm_ctl_label_align_right_100_35, .bm_ctl_label_align_left_100_35 {
+    width: 40.8%;
+    height: 100%;
+    background-color: #C7EBFC;
+    color: #000000; /*#663D2A;*/
+    font-size: 14px;
+    /*font-weight: bold;*/
+    border-radius: 2px;
+    float: left;
+}
+.bm_clt_ctl_100_35 
+{
+    width: 59.2%;
+    float: left;
+   
+}
+
+.bm_academic_dropdown_100_35 {
+    height: 1.65em;
+    font-size: 14px;
+    font-family: Myriad Pro,tahoma;
+    padding-bottom: 0px;
+    width: 100%;
+}
+
+.bm_academic_textbox_100_35 {
+    height: 1.65em;
+    font-size: 14px;
+    font-family: Myriad Pro,tahoma;
+    width: 100%;
+}
+
+/*BM Control Container 40% Control's Design For 100% Layout */
+.bm_ctl_container_100_40 {
+    border: solid 1px #BFBEBC;
+    border-radius: 4px;
+    height: 25px;
+    width: 40%;
+}
+
+.bm_ctl_label_align_right_100_40 {
+    text-align: right;
+    padding-right: 5px;
+    
+}
+
+.bm_ctl_label_align_left_100_40 {
+    text-align: left;
+    padding-left: 10px;
+    
+}
+
+.bm_ctl_label_align_center_100_40 {
+    text-align: center;
+}
+
+.bm_ctl_label_align_right_100_40 label, .bm_ctl_label_align_left_100_40 label ,.bm_ctl_label_align_center_100_40 label {
+    line-height: 1.5em;
+    font-family: Myriad Pro,tahoma;
+}
+
+.bm_ctl_label_align_center_100_40, .bm_ctl_label_align_right_100_40, .bm_ctl_label_align_left_100_40 {
+    width: 35.8%;
+    height: 100%;
+    background-color: #C7EBFC;
+    color: #000000; /*#663D2A;*/
+    font-size: 14px;
+    /*font-weight: bold;*/
+    border-radius: 2px;
+    float: left;
+}
+.bm_clt_ctl_100_40 
+{
+    width: 64.2%;
+    float: left;
+   
+}
+
+.bm_academic_dropdown_100_40 {
+    height: 1.65em;
+    font-size: 14px;
+    font-family: Myriad Pro,tahoma;
+    padding-bottom: 0px;
+    width: 100%;
+}
+
+.bm_academic_textbox_100_40 {
+    height: 1.65em;
+    font-size: 14px;
+    font-family: Myriad Pro,tahoma;
+    width: 100%;
+}
+
+/*BM Control Container 45% Control's Design For 100% Layout */
+.bm_ctl_container_100_45 {
+    border: solid 1px #BFBEBC;
+    border-radius: 4px;
+    height: 25px;
+    width: 45%;
+}
+
+.bm_ctl_label_align_right_100_45 {
+    text-align: right;
+    padding-right: 5px;
+    
+}
+
+.bm_ctl_label_align_left_100_45 {
+    text-align: left;
+    padding-left: 10px;
+    
+}
+
+.bm_ctl_label_align_center_100_45 {
+    text-align: center;
+}
+
+.bm_ctl_label_align_right_100_45 label, .bm_ctl_label_align_left_100_45 label ,.bm_ctl_label_align_center_100_45 label {
+    line-height: 1.5em;
+    font-family: Myriad Pro,tahoma;
+}
+
+.bm_ctl_label_align_center_100_45, .bm_ctl_label_align_right_100_45, .bm_ctl_label_align_left_100_45 {
+    width: 31.8%;
+    height: 100%;
+    background-color: #C7EBFC;
+    color: #000000; /*#663D2A;*/
+    font-size: 14px;
+    /*font-weight: bold;*/
+    border-radius: 2px;
+    float: left;
+}
+.bm_clt_ctl_100_45 
+{
+    width: 68.2%;
+    float: left;
+   
+}
+
+.bm_academic_dropdown_100_45 {
+    height: 1.65em;
+    font-size: 14px;
+    font-family: Myriad Pro,tahoma;
+    padding-bottom: 0px;
+    width: 100%;
+}
+
+.bm_academic_textbox_100_45 {
+    height: 1.65em;
+    font-size: 14px;
+    font-family: Myriad Pro,tahoma;
+    width: 100%;
+}
+
+/*BM Control Container 50% Control's Design For 100% Layout */
+.bm_ctl_container_100_50 {
+    border: solid 1px #BFBEBC;
+    border-radius: 4px;
+    height: 25px;
+    width: 50%;
+}
+
+.bm_ctl_label_align_right_100_50 {
+    text-align: right;
+    padding-right: 5px;
+    
+}
+
+.bm_ctl_label_align_left_100_50 {
+    text-align: left;
+    padding-left: 10px;
+    
+}
+
+.bm_ctl_label_align_center_100_50 {
+    text-align: center;
+}
+
+.bm_ctl_label_align_right_100_50 label, .bm_ctl_label_align_left_100_50 label ,.bm_ctl_label_align_center_100_50 label {
+    line-height: 1.5em;
+    font-family: Myriad Pro,tahoma;
+}
+
+.bm_ctl_label_align_center_100_50, .bm_ctl_label_align_right_100_50, .bm_ctl_label_align_left_100_50 {
+    width: 28.8%;
+    height: 100%;
+    background-color: #C7EBFC;
+    color: #000000; /*#663D2A;*/
+    font-size: 14px;
+    /*font-weight: bold;*/
+    border-radius: 2px;
+    float: left;
+}
+.bm_clt_ctl_100_50 
+{
+    width: 71.2%;
+    float: left;
+   
+}
+
+.bm_academic_dropdown_100_50 {
+    height: 1.65em;
+    font-size: 14px;
+    font-family: Myriad Pro,tahoma;
+    padding-bottom: 0px;
+    width: 100%;
+}
+
+.bm_academic_textbox_100_50 {
+    height: 1.65em;
+    font-size: 14px;
+    font-family: Myriad Pro,tahoma;
+    width: 100%;
+}
+
+
+.bm_ctl_container_100_50_60 {
+    border: solid 1px #BFBEBC;
+    border-radius: 4px;
+    height: 25px;
+    width: 100%;
+}
+
+.bm_ctl_label_align_right_100_50_60 {
+    text-align: right;
+    padding-right: 5px;
+    
+}
+
+.bm_ctl_label_align_left_100_50_60 {
+    text-align: left;
+    padding-left: 10px;
+    
+}
+
+.bm_ctl_label_align_center_100_50_60 {
+    text-align: center;
+}
+
+.bm_ctl_label_align_right_100_50_60 label, .bm_ctl_label_align_left_100_50_60 label ,.bm_ctl_label_align_center_100_50_60 label {
+    line-height: 1.5em;
+    font-family: Myriad Pro,tahoma;
+}
+
+.bm_ctl_label_align_center_100_50_60, .bm_ctl_label_align_right_100_50_60, .bm_ctl_label_align_left_100_50_60 {
+    width: 28.8%;
+    height: 100%;
+    background-color: #C7EBFC;
+    color: #000000; /*#663D2A;*/
+    font-size: 14px;
+    /*font-weight: bold;*/
+    border-radius: 2px;
+    float: left;
+}
+.bm_clt_ctl_100_50_60 
+{
+    width: 71.2%;
+    float: left;
+   
+}
+
+.bm_academic_dropdown_100_50_60 {
+    height: 1.65em;
+    font-size: 14px;
+    font-family: Myriad Pro,tahoma;
+    padding-bottom: 0px;
+    width: 100%;
+}
+
+.bm_academic_textbox_100_50_60 {
+    height: 1.65em;
+    font-size: 14px;
+    font-family: Myriad Pro,tahoma;
+    width: 100%;
+}
+
+/*BM Control Container 55% Control's Design For 100% Layout */
+.bm_ctl_container_100_55 {
+    border: solid 1px #BFBEBC;
+    border-radius: 4px;
+    height: 25px;
+    width: 55%;
+}
+
+.bm_ctl_label_align_right_100_55 {
+    text-align: right;
+    padding-right: 5px;
+    
+}
+
+.bm_ctl_label_align_left_100_55 {
+    text-align: left;
+    padding-left: 10px;
+    
+}
+
+.bm_ctl_label_align_center_100_55 {
+    text-align: center;
+}
+
+.bm_ctl_label_align_right_100_55 label, .bm_ctl_label_align_left_100_55 label ,.bm_ctl_label_align_center_100_55 label {
+    line-height: 1.5em;
+    font-family: Myriad Pro,tahoma;
+}
+
+.bm_ctl_label_align_center_100_55, .bm_ctl_label_align_right_100_55, .bm_ctl_label_align_left_100_55 {
+    width: 26.2%;
+    height: 100%;
+    background-color: #C7EBFC;
+    color: #000000; /*#663D2A;*/
+    font-size: 14px;
+    /*font-weight: bold;*/
+    border-radius: 2px;
+    float: left;
+}
+.bm_clt_ctl_100_55 
+{
+    width: 73.8%;
+    float: left;
+   
+}
+
+.bm_academic_dropdown_100_55 {
+    height: 1.65em;
+    font-size: 14px;
+    font-family: Myriad Pro,tahoma;
+    padding-bottom: 0px;
+    width: 100%;
+}
+
+.bm_academic_textbox_100_55 {
+    height: 1.65em;
+    font-size: 14px;
+    font-family: Myriad Pro,tahoma;
+    width: 100%;
+}
+
+/*BM Control Container 60% Control's Design For 100% Layout */
+.bm_ctl_container_100_60 {
+    border: solid 1px #BFBEBC;
+    border-radius: 4px;
+    height: 25px;
+    width: 60%;
+}
+
+.bm_ctl_label_align_right_100_60 {
+    text-align: right;
+    padding-right: 5px;
+    
+}
+
+.bm_ctl_label_align_left_100_60 {
+    text-align: left;
+    padding-left: 10px;
+    
+}
+
+.bm_ctl_label_align_center_100_60 {
+    text-align: center;
+}
+
+.bm_ctl_label_align_right_100_60 label, .bm_ctl_label_align_left_100_60 label ,.bm_ctl_label_align_center_100_60 label {
+    line-height: 1.5em;
+    font-family: Myriad Pro,tahoma;
+}
+
+.bm_ctl_label_align_center_100_60, .bm_ctl_label_align_right_100_60, .bm_ctl_label_align_left_100_60 {
+    width: 24.2%;
+    height: 100%;
+    background-color: #C7EBFC;
+    color: #000000; /*#663D2A;*/
+    font-size: 14px;
+    /*font-weight: bold;*/
+    border-radius: 2px;
+    float: left;
+}
+.bm_clt_ctl_100_60 
+{
+    width: 75.8%;
+    float: left;
+   
+}
+
+.bm_academic_dropdown_100_60 {
+    height: 1.65em;
+    font-size: 14px;
+    font-family: Myriad Pro,tahoma;
+    padding-bottom: 0px;
+    width: 100%;
+}
+
+.bm_academic_textbox_100_60 {
+    height: 1.65em;
+    font-size: 14px;
+    font-family: Myriad Pro,tahoma;
+    width: 100%;
+}
+
+
+/*BM Control Container 80% Control's Design For 100% Layout */
+.bm_ctl_container_dynamic_100_80{
+    width: 80%;
+}
+.bm_ctl_container_dynamic_100_80_imgbtn {
+    height: 25px;
+    margin-left: 5px;
+    float: left;
+}
+.bm_ctl_container_dynamic_100_80_l {
+    border: solid 1px #BFBEBC;
+    border-radius: 4px;
+    height: 25px;
+    width: 18%;
+    float: left;
+}
+.bm_ctl_label_align_right_dynamic_100_80_l {
+    text-align: right;
+    padding-right: 5px;
+    
+}
+
+.bm_ctl_label_align_left_dynamic_100_80_l {
+    text-align: left;
+    padding-left: 10px;
+    
+}
+
+.bm_ctl_label_align_center_dynamic_100_80_l {
+    text-align: center;
+}
+
+
+.bm_ctl_label_align_right_dynamic_100_80_l label, .bm_ctl_label_align_left_dynamic_100_80_l label ,.bm_ctl_label_align_center_dynamic_100_80_l label {
+    line-height: 1.5em;
+    font-family: Myriad Pro,tahoma;
+}
+
+.bm_ctl_label_align_center_dynamic_100_80_l, .bm_ctl_label_align_right_dynamic_100_80_l, .bm_ctl_label_align_left_dynamic_100_80_l {
+    width: 100%;
+    height: 100%;
+    background-color: #C7EBFC;
+    color: #000000; /*#663D2A;*/
+    font-size: 14px;
+    /*font-weight: bold;*/
+    border-radius: 2px;
+    float: left;
+}
+
+.bm_clt_ctl_dynamic_100_80 
+{
+    float: left;
+   
+}
+
+.bm_clt_ctl_dynamic_100_80 ._ctl_padding {
+    padding-left: 10px;
+}
+
+.bm_clt_ctl_dynamic_100_80 ._ctl_container {
+    
+}
+
+ ._padding{
+    padding-left: 10px;
+}
+
+.bm_ctl_container_dynamic_100_80_wol {
+    border: solid 1px #BFBEBC;
+    border-radius: 4px;
+    height: 25px;
+    margin-right: 10px;
+    float: left;
+}
+.bm_ctl_container_dynamic_100_80_wol .bm_list_text {
+    width: 50%;
+    float: left;
+}
+.bm_ctl_container_dynamic_100_80_wol .bm_list_img {
+    float: right;
+}
+
+.bm_ctl_container_dynamic_100_80_wol {
+    border: solid 1px #BFBEBC;
+    border-radius: 4px;
+    height: 25px;
+    margin-right: 10px;
+    float: left;
+}
+.bm_ctl_container_dynamic_100_80_wol .bm_list_text {
+    width: 50%;
+    float: left;
+}
+.bm_ctl_container_dynamic_100_80_wol .bm_list_img {
+    float: right;
+}
+
+.bm_ctl_container_dynamic_100_80_wol_list {
+    border: solid 1px #BFBEBC;
+    border-radius: 4px;
+    height: 25px;
+    margin-right: 10px;
+    float: left;
+}
+.bm_ctl_container_dynamic_100_80_wol_list .bm_list_text {
+    width: 50%;
+    float: left;
+}
+.bm_ctl_container_dynamic_100_80_wol_list .bm_list_img {
+    float: right;
+}
+
+.bm_ctl_container_dynamic_100_80_nl {
+    height: 25px;
+    margin-right: 5px;
+    float: left;
+}
+.bm_ctl_container_dynamic_100_80_nl .label
+ {
+    line-height: 1.6em;
+    font-family: Myriad Pro,tahoma;
+    font-size: 14px;
+}
+.bm_academic_dropdown_dynamic_100_80 {
+    height: 1.65em;
+    font-size: 14px;
+    font-family: Myriad Pro,tahoma;
+    padding-bottom: 0px;
+    width: 120px;
+}
+
+.bm_academic_textbox_dynamic_100_80 {
+    height: 1.65em;
+    font-size: 14px;
+    font-family: Myriad Pro,tahoma;
+    width: 222px;
+}
+
+.bm_academic_textbox_dynamic_100_80_list {
+    height: 1.65em;
+    font-size: 14px;
+    font-family: Myriad Pro,tahoma;
+    width: 195px;
+}
+
+.bm_academic_datepicker_dynamic_100_80 {
+    height: 1.65em;
+    font-size: 14px;
+    font-family: Myriad Pro,tahoma;
+    width: 120px;
+}
+
+.bm_ctl_container_100_80 {
+    border: solid 1px #BFBEBC;
+    border-radius: 4px;
+    height: 25px;
+    width: 80%;
+}
+
+.bm_ctl_label_align_right_100_80 {
+    text-align: right;
+    padding-right: 5px;
+    
+}
+
+.bm_ctl_label_align_left_100_80 {
+    text-align: left;
+    padding-left: 10px;
+    
+}
+
+.bm_ctl_label_align_center_100_80 {
+    text-align: center;
+}
+
+
+.bm_ctl_label_align_right_100_80 label, .bm_ctl_label_align_left_100_80 label ,.bm_ctl_label_align_center_100_80 label {
+    line-height: 1.5em;
+    font-family: Myriad Pro,tahoma;
+}
+
+.bm_ctl_label_align_center_100_80, .bm_ctl_label_align_right_100_80, .bm_ctl_label_align_left_100_80 {
+    width: 17.7%;
+    height: 100%;
+    background-color: #C7EBFC;
+    color: #000000; /*#663D2A;*/
+    font-size: 14px;
+    /*font-weight: bold;*/
+    border-radius: 2px;
+    float: left;
+}
+.bm_clt_ctl_100_80 
+{
+    width: 82.3%;
+    float: left;
+   
+}
+
+.bm_academic_dropdown_100_80 {
+    height: 1.65em;
+    font-size: 14px;
+    font-family: Myriad Pro,tahoma;
+    padding-bottom: 0px;
+    width: 100%;
+}
+
+.bm_academic_textbox_100_80 {
+    height: 1.65em;
+    font-size: 14px;
+    font-family: Myriad Pro,tahoma;
+    width: 100%;
+}
+
+.bm_academic_textarea_100_80 {
+    font-size: 14px;
+    font-family: Myriad Pro,tahoma;
+    width: 645px;
+    height: 150px;
+    margin-left: 0px;
+}
+.bm_academic_textarea_dynamic_100_80 {
+    font-size: 14px;
+    font-family: Myriad Pro,tahoma;
+    width: 648px;
+    height: 150px;
+    margin-left: 45px;
+}
+
+.bm_academic_textarea_100_50 {
+    font-size: 14px;
+    font-family: Myriad Pro,tahoma;
+    width: 405px;
+    height: 100px;
+    margin-left: 0px;
+}
+/*BM Control Container 40% Control's Design For 60% Layout */
+.bm_ctl_container_60_40 {
+    border: solid 1px #BFBEBC;
+    border-radius: 4px;
+    height: 25px;
+    width: 40%;
+}
+
+.bm_ctl_label_align_right_60_40 {
+    text-align: right;
+    padding-right: 5px;
+    
+}
+
+.bm_ctl_label_align_left_60_40 {
+    text-align: left;
+    padding-left: 10px;
+    
+}
+
+.bm_ctl_label_align_center_60_40 {
+    text-align: center;
+}
+
+.bm_ctl_label_align_right_60_40 label, .bm_ctl_label_align_left_60_40 label ,.bm_ctl_label_align_center_60_40 label {
+    line-height: 1.5em;
+    font-family: Myriad Pro,tahoma;
+}
+
+.bm_ctl_label_align_center_60_40, .bm_ctl_label_align_right_60_40, .bm_ctl_label_align_left_60_40 {
+    width: 61%;
+    height: 100%;
+    background-color: #C7EBFC;
+    color: #000000; /*#663D2A;*/
+    font-size: 14px;
+    /*font-weight: bold;*/
+    border-radius: 2px;
+    float: left;
+}
+.bm_clt_ctl_60_40 
+{
+    width: 39%;
+    float: left;
+   
+}
+
+.bm_academic_dropdown_60_40 {
+    height: 1.65em;
+    font-size: 14px;
+    font-family: Myriad Pro,tahoma;
+    padding-bottom: 0px;
+    width: 100%;
+}
+
+.bm_academic_textbox_60_40 {
+    height: 1.65em;
+    font-size: 14px;
+    font-family: Myriad Pro,tahoma;
+    width: 100%;
+}
+
+/*BM Control Container 50% Control's Design For 60% Layout */
+.bm_ctl_container_60_50 {
+    border: solid 1px #BFBEBC;
+    border-radius: 4px;
+    height: 25px;
+    width: 50%;
+}
+.bm_ctl_label_align_right_60_50 {
+    text-align: right;
+    padding-right: 5px;
+    
+}
+
+.bm_ctl_label_align_left_60_50 {
+    text-align: left;
+    padding-left: 10px;
+    
+}
+
+.bm_ctl_label_align_center_60_50 {
+    text-align: center;
+}
+
+.bm_ctl_label_align_right_60_50 label, .bm_ctl_label_align_left_60_50 label ,.bm_ctl_label_align_center_60_50 label {
+    line-height: 1.5em;
+    font-family: Myriad Pro,tahoma;
+}
+
+.bm_ctl_label_align_center_60_50, .bm_ctl_label_align_right_60_50, .bm_ctl_label_align_left_60_50 {
+    width: 48.2%;
+    height: 100%;
+    background-color: #C7EBFC;
+    color: #000000; /*#663D2A;*/
+    font-size: 14px;
+    /*font-weight: bold;*/
+    border-radius: 2px;
+    float: left;
+}
+.bm_clt_ctl_60_50 
+{
+    width: 51.8%;
+    float: left;
+   
+}
+
+.bm_academic_dropdown_60_50 {
+    height: 1.65em;
+    font-size: 14px;
+    font-family: Myriad Pro,tahoma;
+    padding-bottom: 0px;
+    width: 100%;
+}
+
+.bm_academic_textbox_60_50 {
+    height: 1.65em;
+    font-size: 14px;
+    font-family: Myriad Pro,tahoma;
+    width: 100%;
+}
+
+/*BM Control Container 60% Control's Design For 60% Layout */
+.bm_ctl_container_60_60 {
+    border: solid 1px #BFBEBC;
+    border-radius: 4px;
+    height: 25px;
+    width: 60%;
+}
+.bm_ctl_label_align_right_60_60 {
+    text-align: right;
+    padding-right: 5px;
+    
+}
+
+.bm_ctl_label_align_left_60_60 {
+    text-align: left;
+    padding-left: 10px;
+    
+}
+
+.bm_ctl_label_align_center_60_60 {
+    text-align: center;
+}
+
+.bm_ctl_label_align_right_60_60 label, .bm_ctl_label_align_left_60_60 label ,.bm_ctl_label_align_center_60_60 label {
+    line-height: 1.5em;
+    font-family: Myriad Pro,tahoma;
+}
+
+.bm_ctl_label_align_center_60_60, .bm_ctl_label_align_right_60_60, .bm_ctl_label_align_left_60_60 {
+    width: 40.2%;
+    height: 100%;
+    background-color: #C7EBFC;
+    color: #000000; /*#663D2A;*/
+    font-size: 14px;
+    /*font-weight: bold;*/
+    border-radius: 2px;
+    float: left;
+}
+.bm_clt_ctl_60_60 
+{
+    width: 59.6%;
+    float: left;
+   
+}
+.bm_clt_ctl_60_60 .bm_list_text {
+    width: 85%;
+    float: left;
+}
+.bm_clt_ctl_60_60 .bm_list_img {
+    float: right;
+}
+.bm_academic_dropdown_60_60 {
+    height: 1.65em;
+    font-size: 14px;
+    font-family: Myriad Pro,tahoma;
+    padding-bottom: 0px;
+    width: 100%;
+}
+
+.bm_academic_textbox_60_60 {
+    height: 1.65em;
+    font-size: 14px;
+    font-family: Myriad Pro,tahoma;
+    width: 100%;
+}
+
+/*BM Control Container 80% Control's Design For 60% Layout */
+.bm_ctl_container_60_80 {
+    border: solid 1px #BFBEBC;
+    border-radius: 4px;
+    height: 25px;
+    width: 80%;
+}
+.bm_ctl_label_align_right_60_80 {
+    text-align: right;
+    padding-right: 5px;
+    
+}
+
+.bm_ctl_label_align_left_60_80 {
+    text-align: left;
+    padding-left: 10px;
+    
+}
+
+.bm_ctl_label_align_center_60_80 {
+    text-align: center;
+}
+
+.bm_ctl_label_align_right_60_80 label, .bm_ctl_label_align_left_60_80 label ,.bm_ctl_label_align_center_60_80 label {
+    line-height: 1.5em;
+    font-family: Myriad Pro,tahoma;
+}
+
+.bm_ctl_label_align_center_60_80, .bm_ctl_label_align_right_60_80, .bm_ctl_label_align_left_60_80 {
+    width: 30.2%;
+    height: 100%;
+    background-color: #C7EBFC;
+    color: #000000; /*#663D2A;*/
+    font-size: 14px;
+    /*font-weight: bold;*/
+    border-radius: 2px;
+    float: left;
+}
+.bm_clt_ctl_60_80 
+{
+    width: 69.8%;
+    float: left;
+   
+}
+
+.bm_academic_dropdown_60_80 {
+    height: 1.65em;
+    font-size: 14px;
+    font-family: Myriad Pro,tahoma;
+    padding-bottom: 0px;
+    width: 100%;
+}
+
+.bm_academic_textbox_60_80 {
+    height: 1.65em;
+    font-size: 14px;
+    font-family: Myriad Pro,tahoma;
+    width: 100%;
+}
+
+.bm_ctl_container_dynamic_60_80_l {
+    border: solid 1px #BFBEBC;
+    border-radius: 4px;
+    height: 25px;
+    width: 18%;
+    float: left;
+}
+
+.bm_ctl_container_dynamic_60_80{
+    width: 100%;
+}
+.bm_ctl_container_dynamic_60_80_imgbtn {
+    height: 25px;
+    margin-left: 5px;
+    float: left;
+}
+.bm_ctl_container_dynamic_60_80_l_new {
+    border: solid 1px #BFBEBC;
+    border-radius: 4px;
+    height: 25px;
+    width: 28.8%;
+    float: left;
+}
+.bm_ctl_label_align_right_dynamic_60_80_l {
+    text-align: right;
+    padding-right: 5px;
+    
+}
+
+.bm_ctl_label_align_left_dynamic_60_80_l {
+    text-align: left;
+    padding-left: 10px;
+    
+}
+
+.bm_ctl_label_align_center_dynamic_60_80_l {
+    text-align: center;
+}
+
+
+.bm_ctl_label_align_right_dynamic_60_80_l label, .bm_ctl_label_align_left_dynamic_60_80_l label ,.bm_ctl_label_align_center_dynamic_60_80_l label {
+    line-height: 1.5em;
+    font-family: Myriad Pro,tahoma;
+}
+
+.bm_ctl_label_align_center_dynamic_60_80_l, .bm_ctl_label_align_right_dynamic_60_80_l, .bm_ctl_label_align_left_dynamic_60_80_l {
+    width: 100%;
+    height: 100%;
+    background-color: #C7EBFC;
+    color: #000000; /*#663D2A;*/
+    font-size: 14px;
+    /*font-weight: bold;*/
+    border-radius: 2px;
+    float: left;
+}
+
+.bm_clt_ctl_dynamic_60_80 
+{
+    float: left;
+   
+}
+
+.bm_clt_ctl_dynamic_60_80 ._ctl_padding {
+    padding-left: 10px;
+}
+
+.bm_clt_ctl_dynamic_60_80 ._ctl_container {
+    
+}
+
+
+.bm_ctl_container_dynamic_60_80_wol {
+    border: solid 1px #BFBEBC;
+    border-radius: 4px;
+    height: 25px;
+    margin-right: 10px;
+    float: left;
+}
+
+.bm_ctl_container_dynamic_60_80_nl {
+    height: 25px;
+    margin-right: 9px;
+    float: left;
+}
+.bm_ctl_container_dynamic_60_80_nl .label
+ {
+    line-height: 1.6em;
+    font-family: Myriad Pro,tahoma;
+    font-size: 14px;
+}
+.bm_academic_dropdown_dynamic_60_80 {
+    height: 1.65em;
+    font-size: 14px;
+    font-family: Myriad Pro,tahoma;
+    padding-bottom: 0px;
+    width: 120px;
+}
+
+.bm_academic_textbox_dynamic_60_80 {
+    height: 1.65em;
+    font-size: 14px;
+    font-family: Myriad Pro,tahoma;
+    width: 220px;
+}
+
+.bm_academic_datepicker_dynamic_60_80 {
+    height: 1.65em;
+    font-size: 14px;
+    font-family: Myriad Pro,tahoma;
+    width: 120px;
+}
+
+/*BM Control Container 100% Control's Design For 60% Layout */
+.bm_ctl_container_60_100 {
+    border: solid 1px #BFBEBC;
+    border-radius: 4px;
+    height: 25px;
+    width: 100%;
+}
+.bm_ctl_label_align_right_60_100 {
+    text-align: right;
+    padding-right: 5px;
+    
+}
+
+.bm_ctl_label_align_left_60_100 {
+    text-align: left;
+    padding-left: 10px;
+    
+}
+
+.bm_ctl_label_align_center_60_100 {
+    text-align: center;
+}
+
+.bm_ctl_label_align_right_60_100 label, .bm_ctl_label_align_left_60_100 label ,.bm_ctl_label_align_center_60_100 label {
+    line-height: 1.5em;
+    font-family: Myriad Pro,tahoma;
+}
+
+.bm_ctl_label_align_center_60_100, .bm_ctl_label_align_right_60_100, .bm_ctl_label_align_left_60_100 {
+    width: 24%;
+    height: 100%;
+    background-color: #C7EBFC;
+    color: #000000; /*#663D2A;*/
+    font-size: 14px;
+    /*font-weight: bold;*/
+    border-radius: 2px;
+    float: left;
+}
+.bm_clt_ctl_60_100 
+{
+    width: 76%;
+    float: left;
+   
+}
+
+.bm_academic_dropdown_60_100 {
+    height: 1.65em;
+    font-size: 14px;
+    font-family: Myriad Pro,tahoma;
+    padding-bottom: 0px;
+    width: 100%;
+}
+
+.bm_academic_textbox_60_100 {
+    height: 1.65em;
+    font-size: 14px;
+    font-family: Myriad Pro,tahoma;
+    width: 100%;
+}
+
+.bm_academic_textarea_60_100 {
+    font-size: 14px;
+    font-family: Myriad Pro,tahoma;
+    width: 200px;
+    height: 300px;
+    margin-left: 0px;
+}
+
+/*BM Control Container 100% Control's Design For 60% Layout in 50% control*/
+.bm_ctl_container_60_100_50 {
+    border: solid 1px #BFBEBC;
+    border-radius: 4px;
+    height: 25px;
+    width: 100%;
+}
+.bm_ctl_label_align_right_60_100_50 {
+    text-align: right;
+    padding-right: 5px;
+    
+}
+
+.bm_ctl_label_align_left_60_100_50 {
+    text-align: left;
+    padding-left: 10px;
+    
+}
+
+.bm_ctl_label_align_center_60_100_50 {
+    text-align: center;
+}
+
+.bm_ctl_label_align_right_60_100_50 label, .bm_ctl_label_align_left_60_100_50 label ,.bm_ctl_label_align_center_60_100_50 label {
+    line-height: 1.5em;
+    font-family: Myriad Pro,tahoma;
+}
+
+.bm_ctl_label_align_center_60_100_50, .bm_ctl_label_align_right_60_100_50, .bm_ctl_label_align_left_60_100_50 {
+    width: 48.2%;
+    height: 100%;
+    background-color: #C7EBFC;
+    color: #000000; /*#663D2A;*/
+    font-size: 14px;
+    /*font-weight: bold;*/
+    border-radius: 2px;
+    float: left;
+}
+.bm_clt_ctl_60_100_50 
+{
+    width: 51.8%;
+    float: left;
+   
+}
+
+.bm_academic_dropdown_60_100_50 {
+    height: 1.65em;
+    font-size: 14px;
+    font-family: Myriad Pro,tahoma;
+    padding-bottom: 0px;
+    width: 100%;
+}
+
+.bm_academic_textbox_60_100_50 {
+    height: 1.65em;
+    font-size: 14px;
+    font-family: Myriad Pro,tahoma;
+    width: 100%;
+}
+
+.bm_academic_textarea_60_100_50 {
+    font-size: 14px;
+    font-family: Myriad Pro,tahoma;
+    width: 200px;
+    height: 300px;
+    margin-left: 0px;
+}
+
+/*BM Control Container 60% Control's Design For 60% Layout in 50% width */
+.bm_ctl_container_60_60_50 {
+    border: solid 1px #BFBEBC;
+    border-radius: 4px;
+    height: 25px;
+    width: 60%;
+}
+.bm_ctl_label_align_right_60_60_50 {
+    text-align: right;
+    padding-right: 5px;
+    
+}
+
+.bm_ctl_label_align_left_60_60_50 {
+    text-align: left;
+    padding-left: 10px;
+    
+}
+
+.bm_ctl_label_align_center_60_60_50 {
+    text-align: center;
+}
+
+.bm_ctl_label_align_right_60_60_50 label, .bm_ctl_label_align_left_60_60_50 label ,.bm_ctl_label_align_center_60_60_50 label {
+    line-height: 1.5em;
+    font-family: Myriad Pro,tahoma;
+}
+
+.bm_ctl_label_align_center_60_60_50, .bm_ctl_label_align_right_60_60_50, .bm_ctl_label_align_left_60_60_50 {
+    width: 52%;
+    height: 100%;
+    background-color: #C7EBFC;
+    color: #000000; /*#663D2A;*/
+    font-size: 14px;
+    /*font-weight: bold;*/
+    border-radius: 2px;
+    float: left;
+}
+.bm_clt_ctl_60_60_50 
+{
+    width: 48%;
+    float: left;
+   
+}
+.bm_clt_ctl_60_60_50 .bm_list_text {
+    width: 85%;
+    float: left;
+}
+.bm_clt_ctl_60_60_50 .bm_list_img {
+    float: right;
+}
+.bm_academic_dropdown_60_60_50 {
+    height: 1.65em;
+    font-size: 14px;
+    font-family: Myriad Pro,tahoma;
+    padding-bottom: 0px;
+    width: 100%;
+}
+
+.bm_academic_textbox_60_60 {
+    height: 1.65em;
+    font-size: 14px;
+    font-family: Myriad Pro,tahoma;
+    width: 100%;
+}
+
+
+.bm_ctl_container_dynamic_60_100{
+    width: 100%;
+}
+
+.bm_ctl_container_dynamic_60_100_l_50 {
+    border: solid 1px #BFBEBC;
+    border-radius: 4px;
+    height: 25px;
+    width: 50%;
+    float: left;
+}
+
+.bm_ctl_label_align_right_dynamic_60_100_l {
+    text-align: right;
+    padding-right: 5px;
+    
+}
+
+.bm_ctl_label_align_left_dynamic_60_100_l {
+    text-align: left;
+    padding-left: 10px;
+    
+}
+
+.bm_ctl_label_align_center_dynamic_60_100_l {
+    text-align: center;
+}
+
+
+.bm_ctl_label_align_right_dynamic_60_100_l label, .bm_ctl_label_align_left_dynamic_60_100_l label ,.bm_ctl_label_align_center_dynamic_60_100_l label {
+    line-height: 1.6em;
+    font-family: Myriad Pro,tahoma;
+}
+
+.bm_ctl_label_align_center_dynamic_60_100_l, .bm_ctl_label_align_right_dynamic_60_100_l, .bm_ctl_label_align_left_dynamic_60_100_l {
+    width: 100%;
+    height: 100%;
+    background-color: #C7EBFC;
+    color: #000000; /*#663D2A;*/
+    font-size: 14px;
+    /*font-weight: bold;*/
+    border-radius: 2px;
+    float: left;
+}
+
+/*BM Control Container special Control's Design For 100% Layout */
+.bm_ctl_container_100_special {
+    border: solid 1px #BFBEBC;
+    border-radius: 4px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    height: 25px;
+    width: 180px;
+    margin-right: 5px;
+}
+
+.bm_ctl_container_100_special2 {
+    border-radius: 4px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    height: 25px;
+    width: 30px;
+}
+.bm_ctl_container_100_special1 {
+    border: solid 1px #BFBEBC;
+    border-radius: 4px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    height: 26px;
+    width: 140px;
+}
+
+
+.bm_ctl_container_100_special3 {
+    border-radius: 15px;
+    -moz-border-radius: 15px;
+    -webkit-border-radius: 15px;
+}
+
+.bm_ctl_label_align_right_100_special {
+    text-align: right;
+    padding-right: 5px;
+    
+}
+
+.bm_ctl_label_align_left_100_special {
+    text-align: left;
+    padding-left: 10px;
+    
+}
+
+.bm_ctl_label_align_center_100_special {
+    text-align: center;
+}
+
+.bm_ctl_label_align_right_100_special label, .bm_ctl_label_align_left_100_special label ,.bm_ctl_label_align_center_100_special label {
+    line-height: 1.5em;
+    font-family: Myriad Pro,tahoma;
+}
+
+.bm_ctl_label_align_center_100_special, .bm_ctl_label_align_right_100_special, .bm_ctl_label_align_left_100_special {
+    width: 35%;
+    height: 100%;
+    background-color: #C7EBFC;
+    color: #000000; /*#663D2A;*/
+    font-size: 14px;
+    /*font-weight: bold;*/
+    border-radius: 2px;
+    float: left;
+}
+.bm_clt_ctl_100_special
+{
+    width: 65%;
+    float: left;
+   
+}
+
+.bm_academic_dropdown_100_special {
+    height: 1.65em;
+    font-size: 14px;
+    font-family: Myriad Pro,tahoma;
+    padding-bottom: 0px;
+    width: 100%;
+}
+
+.bm_academic_textbox_100_special {
+    height: 1.65em;
+    font-size: 14px;
+    font-family: Myriad Pro,tahoma;
+    width: 100%;
+}
+
+ .switch {
+  position: relative;
+  display: inline-block;
+  width: 45px;
+  height: 20px;
+}
+
+.switch input { 
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  /*background-color: #ccc;*/
+  background-color:#fbc8b4;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 16px;
+  width: 16px;
+  left: 4px;
+  bottom: 4px;
+  background-color: white;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+input:checked + .slider {
+  /*background-color: #2196F3;*/
+  background-color:#4caf50;
+}
+
+input:focus + .slider {
+  /*box-shadow: 0 0 1px #2196F3;*/
+  box-shadow: 0 0 1px #4caf50;
+}
+
+input:checked + .slider:before {
+  -webkit-transform: translateX(20px);
+  -ms-transform: translateX(20px);
+  transform: translateX(20px);
+}
+
+/* Rounded sliders */
+.slider.round {
+  border-radius: 34px;
+}
+
+.slider.round:before {
+  border-radius: 50%;
+}
+
+.am_report_section {
+    clear: both; 
+    margin: 0 auto; 
+    border: solid 2px #696969; 
+    padding: 10px;
+    width: 40%;
+}
+
+
+
+
+
+

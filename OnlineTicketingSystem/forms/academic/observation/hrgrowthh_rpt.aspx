@@ -1,0 +1,335 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" MasterPageFile="~/academic_site.Master"
+    CodeBehind="hrgrowthh_rpt.aspx.cs" Inherits="OnlineTicketingSystem.forms.BMERP.hrgrowthh_rpt"
+    EnableEventValidation="false" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">
+    <script type="text/javascript">
+        function fnPrintNumSchedule() {
+           <%--// alert("Hi");
+            var zid = <%= HttpContext.Current.Session["business"] %>;
+            var xsession = $("#<%= xsession.ClientID%>").val();
+            var xterm = $("#<%= xterm.ClientID%>").val();
+            var xclass = $("#<%= xclass.ClientID%>").val();
+            var xgroup = $("#<%= xgroup.ClientID%>").val();
+            var xsection = $("#<%= xsection.ClientID%>").val();
+            var xdate = $("#<%= xdate.ClientID%>").val();
+           var xrow = $("#<%= hiddenxrow.ClientID%>").val();
+           var xstatus = $("#<%= hiddenxstatus.ClientID%>").val();
+              var openwin = window.open('/forms/academic/reports/rptasctschvwdw.aspx?zid=' + zid + '&xsession=' + xsession + '&xterm=' + xterm + '&xclass=' + xclass + '&xgroup=' + xgroup + '&xsection=' + xsection + '&xdate=' + xdate + '&xrow=' + xrow + '&xstatus=' + xstatus, 'scheduledw', 'toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=no, copyhistory=no, width=' + screen.width + ', height=' + screen.height + ', top=0, left=0, targets=_blank');
+              openwin.focus();
+            openwin.print();
+            //return false;--%>
+        }
+
+        function fnPrintInfo(link,gridvw) {
+            //alert("Hi");
+            var row = link.parentNode.parentNode;
+            //alert(row);
+            //alert(gridvw);
+           var rowIndex = row.rowIndex - 1;
+            var zid = <%= HttpContext.Current.Session["business"] %>;
+         var grid;
+            if (gridvw == 'hod') {
+               grid = document.getElementById('<%=hodgv.ClientID %>');
+            }else if(gridvw == 'coordinator'){
+                grid = document.getElementById('<%=coordinatorvw.ClientID %>');
+            }else{
+                grid = document.getElementById('<%=ctvw.ClientID %>');
+            }
+            //alert(grid);
+             var xrow = grid.rows[rowIndex + 1].cells[1].children[0].innerText;
+             //alert(xrow);
+             var openwin = window.open('/forms/academic/reports/hrgeowth_rpt_temp_rpt.aspx?zid=' + zid + '&xrow=' + xrow + '&xtype=' + gridvw , 'hrgrowth_rpt_temp', 'toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=no, copyhistory=no, width=' + screen.width + ', height=' + screen.height + ', top=0, left=0, targets=_blank');
+             openwin.focus();
+             //openwin.print();
+             //e.preventDefault();
+             return false;
+        }
+
+
+    </script>
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
+    <asp:UpdateProgress ID="UpdateProgress1" runat="server" AssociatedUpdatePanelID="UpdatePanel1">
+        <ProgressTemplate>
+            <div class="modal">
+                <div class="center">
+                    <img alt="" src="/images/loader.gif" />
+                </div>
+            </div>
+        </ProgressTemplate>
+    </asp:UpdateProgress>
+    <asp:UpdatePanel ID="UpdatePanel1" runat="server">
+        <ContentTemplate>
+
+
+            <div class="bm_academic_container">
+                <div class="bm_academic_container_header">
+                    <div class="header_label1" id="header_label" runat="server">
+                        <span class="bm_am_header_round">Show Submitted Report Template</span>
+                    </div>
+                </div>
+                <div class="bm_academic_container_message">
+                    <div class="message" id="message" runat="server">
+                    </div>
+                </div>
+                <div class="bm_academic_container_footer">
+                    <div class="footer_list_padding2">
+                        <div class="bm_academic_grid_container" id="list" runat="server">
+                            <div class="grid_header">
+                                <%--<div class="grid_header_label" id="_grid_header" runat="server">
+                           
+                        </div>--%>
+                                <div class="grid_header_control">
+                                </div>
+                                <div class="flot_right">
+                                    <%-- <div class="grid_header_searchbox">
+                                <asp:TextBox ID="_searchbox" runat="server" AutoPostBack="True" CssClass="_searchbox"></asp:TextBox>
+                            </div>--%>
+                                    <%-- <div class="grid_header_row">
+                                <asp:TextBox ID="_gridrow" Visible="False" runat="server" AutoPostBack="True" CssClass="_gridrow"
+                                    OnTextChanged="fnFilterByRow"></asp:TextBox>
+                            </div>--%>
+                                    <%-- <div class="bm_ctl_container_50_50" style="float: left; width: 200px; margin-top: 3px;margin-right: 10px">
+                                <div class="bm_ctl_label_align_right_50_50" style="width: 25%">
+                                    <asp:Label ID="Label12" runat="server" Text="From :" AssociatedControlID="xfrom"
+                                        CssClass="label"></asp:Label>
+                                </div>
+                                <div class="bm_clt_ctl_50_50" style="width: 74%; ">
+                                    <asp:TextBox ID="xfrom" runat="server" CssClass="bm_academic_textbox_50_50 bm_academic_ctl_global bm_academic_datepicker"></asp:TextBox>
+                                </div>
+                            </div>
+                            <div class="bm_ctl_container_50_50" style="float: left; width: 200px; margin-top: 3px;margin-right: 10px">
+                                <div class="bm_ctl_label_align_right_50_50" style="width: 25%">
+                                    <asp:Label ID="Label1" runat="server" Text="To :" AssociatedControlID="xto"
+                                        CssClass="label"></asp:Label>
+                                </div>
+                                <div class="bm_clt_ctl_50_50" style="width: 74%; ">
+                                    <asp:TextBox ID="xto" runat="server" CssClass="bm_academic_textbox_50_50 bm_academic_ctl_global bm_academic_datepicker"></asp:TextBox>
+                                </div>
+                            </div>--%>
+                                    <div class="bm_ctl_container_100_special" style="float: left; width: 165px; margin-top: 3px; margin-right: 10px;display: none">
+                                        <div class="bm_ctl_label_align_right_100_special">
+                                            <asp:Label ID="Label31" runat="server" Text="Session :" AssociatedControlID="xsession"
+                                                CssClass="label"></asp:Label>
+                                        </div>
+                                        <div class="bm_clt_ctl_100_special">
+                                            <asp:DropDownList ID="xsession" runat="server" CssClass="bm_academic_dropdown_100_special bm_academic_ctl_global bm_academic_dropdown" AutoPostBack="True" OnTextChanged="combo_OnTextChanged">
+                                            </asp:DropDownList>
+                                        </div>
+                                    </div>
+                                    <%--<div class="bm_ctl_container_100_special" style="float: left;margin-top: 3px;
+                                margin-right: 10px; width: 122px">
+                                <div class="bm_ctl_label_align_right_100_special">
+                                    <asp:Label ID="Label1" runat="server" Text="Term :" AssociatedControlID="xterm" CssClass="label"></asp:Label>
+                                </div>
+                                <div class="bm_clt_ctl_100_special">
+                                    <asp:DropDownList ID="xterm" runat="server" CssClass="bm_academic_dropdown_100_special bm_academic_ctl_global bm_academic_dropdown" AutoPostBack="True" OnTextChanged="combo_OnTextChanged">
+                                    </asp:DropDownList>
+                                </div>
+                            </div>--%>
+                                    <%--<div class="bm_ctl_container_100_special" style="float: left; width: 165px; margin-top: 3px;
+                                margin-right: 10px;">
+                                <div class="bm_ctl_label_align_right_100_special">
+                                    <asp:Label ID="Label2" runat="server" Text="Class :" AssociatedControlID="xclass"
+                                        CssClass="label"></asp:Label>
+                                </div>
+                                <div class="bm_clt_ctl_100_special">
+                                    <asp:DropDownList ID="xclass" runat="server" CssClass="bm_academic_dropdown_100_special bm_academic_ctl_global bm_academic_dropdown" AutoPostBack="True" OnTextChanged="combo_OnTextChanged">
+                                    </asp:DropDownList>
+                                </div>
+                            </div>--%>
+                                    <%--<div class="bm_ctl_container_100_special" style="float: left; width: 165px; margin-top: 3px;
+                                margin-right: 10px;display: none;">
+                                <div class="bm_ctl_label_align_right_100_special">
+                                    <asp:Label ID="Label4" runat="server" Text="Group :" AssociatedControlID="xgroup"
+                                        CssClass="label"></asp:Label>
+                                </div>
+                                <div class="bm_clt_ctl_100_special">
+                                    <asp:DropDownList ID="xgroup" runat="server" CssClass="bm_academic_dropdown_100_special bm_academic_ctl_global bm_academic_dropdown" AutoPostBack="True" OnTextChanged="combo_OnTextChanged">
+                                    </asp:DropDownList>
+                                </div>
+                            </div>--%>
+                                    <%--<div class="bm_ctl_container_100_special" style="float: left; width: 165px; margin-top: 3px;
+                                margin-right: 10px; display: none;">
+                                <div class="bm_ctl_label_align_right_100_special">
+                                    <asp:Label ID="Label3" runat="server" Text="Section :" AssociatedControlID="xgroup"
+                                        CssClass="label"></asp:Label>
+                                </div>
+                                <div class="bm_clt_ctl_100_special">
+                                    <asp:DropDownList ID="xsection" runat="server" CssClass="bm_academic_dropdown_100_special bm_academic_ctl_global bm_academic_dropdown">
+                                    </asp:DropDownList>
+                                </div>
+                            </div>--%>
+                                    <div class="bm_ctl_container_100_special" style="float: left; width: 210px; margin-top: 3px; margin-right: 10px;">
+                                        <div class="bm_ctl_label_align_right_100_special">
+                                            <asp:Label ID="Label5" runat="server" Text="From Date :" AssociatedControlID="xfdate"
+                                                CssClass="label"></asp:Label>
+                                        </div>
+                                        <div class="bm_clt_ctl_100_special">
+                                            <asp:TextBox ID="xfdate" runat="server" CssClass="bm_academic_textbox_100_special bm_academic_ctl_global bm_academic_datepicker"></asp:TextBox>
+                                        </div>
+                                    </div>
+                                    <div class="bm_ctl_container_100_special" style="float: left; width: 210px; margin-top: 3px; margin-right: 10px;">
+                                        <div class="bm_ctl_label_align_right_100_special">
+                                            <asp:Label ID="Label1" runat="server" Text="To Date :" AssociatedControlID="xtdate"
+                                                CssClass="label"></asp:Label>
+                                        </div>
+                                        <div class="bm_clt_ctl_100_special">
+                                            <asp:TextBox ID="xtdate" runat="server" CssClass="bm_academic_textbox_100_special bm_academic_ctl_global bm_academic_datepicker"></asp:TextBox>
+                                        </div>
+                                    </div>
+                                    <div class="bm_ctl_container_50_50" style="float: left; width: 32px; margin-top: 5px; border: none; height: 32px">
+                                        <div class="bm_clt_ctl_50_50" style="width: 100%;">
+                                            <asp:ImageButton ID="btnRefresh" runat="server" ImageUrl="~/images/reload70.png"
+                                                Width="25px" Height="25px" OnClick="fnFillDataGrid" CssClass="bm_academic_button_zoom" />
+                                        </div>
+                                    </div>
+                                   <%-- <div class="bm_ctl_container_50_50" style="float: left; width: 32px; margin-top: 5px; margin-left: 10px; border: none; height: 32px; margin-right: 15px">
+                                        <div class="bm_clt_ctl_50_50" style="width: 100%;">
+                                            <asp:ImageButton ID="ImageButton1" runat="server" ImageUrl="~/images/printer-blue-icon.png"
+                                                Width="25px" Height="25px" OnClientClick="fnPrintNumSchedule();" OnClick="fnFillDataGrid" CssClass="bm_academic_button_zoom" />
+                                        </div>
+                                    </div>--%>
+                                </div>
+                            </div>
+                            <div class="grid_body">
+                                <fieldset>
+                                    <legend>List of HOD Report Template</legend>
+                                    <asp:GridView ID="hodgv" runat="server" AutoGenerateColumns="False" ShowFooter="true"
+                                        CssClass="bm_academic_grid1" FooterStyle-CssClass="FooterStyle" RowStyle-CssClass="RowStyle"
+                                        AlternatingRowStyle-CssClass="AlternatingRowStyle" PagerStyle-CssClass="PagerStyle"
+                                        GridLines="None" OnDataBound="GridView1_DataBound1" OnRowDataBound="OnRowDataBound"
+                                        UseAccessibleHeaderText="true">
+                                        <HeaderStyle CssClass="HeaderStyle1"></HeaderStyle>
+                                        <Columns>
+                                            <asp:TemplateField HeaderText="No.">
+                                                <ItemStyle Width="50px" HorizontalAlign="Center" />
+                                                <ItemTemplate>
+                                                    <%# Container.DataItemIndex + 1 %>
+                                                </ItemTemplate>
+                                            </asp:TemplateField>
+                                            <asp:TemplateField HeaderText="Row">
+                                                <ItemStyle Width="100px" HorizontalAlign="Center" />
+                                                <ItemTemplate>
+                                                    <%--<asp:LinkButton ID="xrow" runat="server" Text='<%#Eval("xrow") %>' CssClass="_gridrow_link"
+                                                        ></asp:LinkButton>--%>
+                                                    <asp:HyperLink ID="xrow" runat="server"  CssClass="_gridrow_link" ForeColor="blue" OnClick="fnPrintInfo(this,'hod');" ><%#Eval("xrow") %>
+
+                                                </asp:HyperLink>
+                                                </ItemTemplate>
+                                            </asp:TemplateField>
+                                            <asp:BoundField DataField="xsession" HeaderText="Session" ItemStyle-Width="150px"
+                                                ItemStyle-HorizontalAlign="Center" ItemStyle-CssClass="pad5" />
+                                            <asp:BoundField DataField="xdate" HeaderText="Date" DataFormatString="{0:dd/MM/yyyy}"
+                                                ItemStyle-Width="120px" ItemStyle-HorizontalAlign="Center" />
+                                            <asp:BoundField DataField="xname" HeaderText="Teacher's Name" ItemStyle-Width="400px"
+                                                ItemStyle-HorizontalAlign="Left" ItemStyle-CssClass="pad5" />
+                                             <asp:BoundField DataField="xsubject" HeaderText="Subject" ItemStyle-Width="300px"
+                                                ItemStyle-HorizontalAlign="Left" ItemStyle-CssClass="pad5" />
+                                            <asp:TemplateField>
+                                                <ItemTemplate>
+                                                </ItemTemplate>
+                                            </asp:TemplateField>
+                                        </Columns>
+                                    </asp:GridView>
+                                </fieldset>
+
+                                <fieldset>
+                                    <legend>List of Coordinator Report Template</legend>
+                                    <asp:GridView ID="coordinatorvw" runat="server" AutoGenerateColumns="False" ShowFooter="true"
+                                        CssClass="bm_academic_grid1" FooterStyle-CssClass="FooterStyle" RowStyle-CssClass="RowStyle"
+                                        AlternatingRowStyle-CssClass="AlternatingRowStyle" PagerStyle-CssClass="PagerStyle"
+                                        GridLines="None" OnDataBound="GridView1_DataBound1" OnRowDataBound="OnRowDataBound"
+                                        UseAccessibleHeaderText="true">
+                                        <HeaderStyle CssClass="HeaderStyle1"></HeaderStyle>
+                                        <Columns>
+                                            <asp:TemplateField HeaderText="No.">
+                                                <ItemStyle Width="50px" HorizontalAlign="Center" />
+                                                <ItemTemplate>
+                                                    <%# Container.DataItemIndex + 1 %>
+                                                </ItemTemplate>
+                                            </asp:TemplateField>
+                                            <asp:TemplateField HeaderText="Row">
+                                                <ItemStyle Width="100px" HorizontalAlign="Center" />
+                                                <ItemTemplate>
+                                                   <%-- <asp:LinkButton ID="xrow" runat="server" Text='<%#Eval("xrow") %>' CssClass="_gridrow_link"
+                                                        ></asp:LinkButton>--%>
+                                                    <asp:HyperLink ID="xrow" runat="server"  CssClass="_gridrow_link" ForeColor="blue" OnClick="fnPrintInfo(this,'coordinator');" ><%#Eval("xrow") %>
+
+                                                </asp:HyperLink>
+                                                </ItemTemplate>
+                                            </asp:TemplateField>
+                                            <asp:BoundField DataField="xsession" HeaderText="Session" ItemStyle-Width="150px"
+                                                ItemStyle-HorizontalAlign="Center" ItemStyle-CssClass="pad5" />
+                                            <asp:BoundField DataField="xdate" HeaderText="Date" DataFormatString="{0:dd/MM/yyyy}"
+                                                ItemStyle-Width="120px" ItemStyle-HorizontalAlign="Center" />
+                                            <asp:BoundField DataField="xname" HeaderText="Teacher's Name" ItemStyle-Width="400px"
+                                                ItemStyle-HorizontalAlign="Left" ItemStyle-CssClass="pad5" />
+                                            <asp:BoundField DataField="xclass" HeaderText="Class" ItemStyle-Width="200px"
+                                                ItemStyle-HorizontalAlign="Left" ItemStyle-CssClass="pad5" />
+                                            <asp:TemplateField>
+                                                <ItemTemplate>
+                                                </ItemTemplate>
+                                            </asp:TemplateField>
+                                        </Columns>
+                                    </asp:GridView>
+                                </fieldset>
+                                <fieldset>
+                                    <legend>List of Class Teacher Report Template</legend>
+                                    <asp:GridView ID="ctvw" runat="server" AutoGenerateColumns="False" ShowFooter="true"
+                                        CssClass="bm_academic_grid1" FooterStyle-CssClass="FooterStyle" RowStyle-CssClass="RowStyle"
+                                        AlternatingRowStyle-CssClass="AlternatingRowStyle" PagerStyle-CssClass="PagerStyle"
+                                        GridLines="None" OnDataBound="GridView1_DataBound1" OnRowDataBound="OnRowDataBound"
+                                        UseAccessibleHeaderText="true">
+                                        <HeaderStyle CssClass="HeaderStyle1"></HeaderStyle>
+                                        <Columns>
+                                            <asp:TemplateField HeaderText="No.">
+                                                <ItemStyle Width="50px" HorizontalAlign="Center" />
+                                                <ItemTemplate>
+                                                    <%# Container.DataItemIndex + 1 %>
+                                                </ItemTemplate>
+                                            </asp:TemplateField>
+                                            <asp:TemplateField HeaderText="Row">
+                                                <ItemStyle Width="100px" HorizontalAlign="Center" />
+                                                <ItemTemplate>
+                                                   <%-- <asp:LinkButton ID="xrow" runat="server" Text='<%#Eval("xrow") %>' CssClass="_gridrow_link"
+                                                        ></asp:LinkButton>--%>
+                                                    <asp:HyperLink ID="xrow" runat="server"  CssClass="_gridrow_link" ForeColor="blue" OnClick="fnPrintInfo(this,'ct');" ><%#Eval("xrow") %>
+
+                                                </asp:HyperLink>
+                                                </ItemTemplate>
+                                            </asp:TemplateField>
+                                            <asp:BoundField DataField="xsession" HeaderText="Session" ItemStyle-Width="150px"
+                                                ItemStyle-HorizontalAlign="Center" ItemStyle-CssClass="pad5" />
+                                            <asp:BoundField DataField="xdate" HeaderText="Date" DataFormatString="{0:dd/MM/yyyy}"
+                                                ItemStyle-Width="120px" ItemStyle-HorizontalAlign="Center" />
+                                            <asp:BoundField DataField="xname" HeaderText="Teacher's Name" ItemStyle-Width="400px"
+                                                ItemStyle-HorizontalAlign="Left" ItemStyle-CssClass="pad5" />
+                                             <asp:BoundField DataField="xclass" HeaderText="Class" ItemStyle-Width="200px"
+                                                ItemStyle-HorizontalAlign="Left" ItemStyle-CssClass="pad5" />
+                                            <asp:BoundField DataField="xsection" HeaderText="Section" ItemStyle-Width="200px"
+                                                ItemStyle-HorizontalAlign="Left" ItemStyle-CssClass="pad5" />
+                                            <asp:TemplateField>
+                                                <ItemTemplate>
+                                                </ItemTemplate>
+                                            </asp:TemplateField>
+                                        </Columns>
+                                    </asp:GridView>
+                                </fieldset>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <asp:TextBox ID="_gridrow" Visible="False" runat="server" AutoPostBack="True" CssClass="_gridrow"
+                OnTextChanged="fnFilterByRow"></asp:TextBox>
+            <asp:HiddenField ID="ctlid_v" runat="server" />
+            <asp:HiddenField ID="_xdate" runat="server" />
+            <asp:HiddenField ID="hiddenxdate" runat="server" />
+            <asp:HiddenField ID="hiddenxrow" runat="server" />
+            <asp:HiddenField ID="hiddenxstatus" runat="server" />
+
+        </ContentTemplate>
+    </asp:UpdatePanel>
+</asp:Content>

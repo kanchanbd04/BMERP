@@ -1,0 +1,721 @@
+F:\KANCHAN DATA\Project\BMERP\BMERP 14-02-2017\BMERP_PROJECT\OnlineTicketingSystem\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+F:\KANCHAN DATA\Project\BMERP\BMERP 14-02-2017\BMERP_PROJECT\OnlineTicketingSystem\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+F:\KANCHAN DATA\Project\BMERP\BMERP 14-02-2017\BMERP_PROJECT\OnlineTicketingSystem\OnlineTicketingSystem\obj\Debug\ResolveAssemblyReference.cache
+F:\KANCHAN DATA\Project\BMERP\BMERP 14-02-2017\BMERP_PROJECT\OnlineTicketingSystem\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+F:\KANCHAN DATA\Project\BMERP\BMERP 14-02-2017\BMERP_PROJECT\OnlineTicketingSystem\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+F:\KANCHAN DATA\Project\BMERP\BMERP 23-02-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+F:\KANCHAN DATA\Project\BMERP\BMERP 23-02-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+F:\KANCHAN DATA\Project\BMERP\BMERP 23-02-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\ResolveAssemblyReference.cache
+F:\KANCHAN DATA\Project\BMERP\BMERP 23-02-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+F:\KANCHAN DATA\Project\BMERP\BMERP 23-02-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+F:\KANCHAN DATA\Project\BMERP\BMERP 27-02-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+F:\KANCHAN DATA\Project\BMERP\BMERP 27-02-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+F:\KANCHAN DATA\Project\BMERP\BMERP 27-02-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+F:\KANCHAN DATA\Project\BMERP\BMERP 27-02-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+F:\KANCHAN DATA\Project\BMERP\BMERP 27-02-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+I:\Project Backup\BACKUP\BMERP\BMERP 24-07-2017\BMERP 24-07-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+I:\Project Backup\BACKUP\BMERP\BMERP 24-07-2017\BMERP 24-07-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+I:\Project Backup\BACKUP\BMERP\BMERP 24-07-2017\BMERP 24-07-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\ResolveAssemblyReference.cache
+I:\Project Backup\BACKUP\BMERP\BMERP 24-07-2017\BMERP 24-07-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+I:\Project Backup\BACKUP\BMERP\BMERP 24-07-2017\BMERP 24-07-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+F:\KANCHAN DATA\Project\BMERP\BMERP 24-07-2017\BMERP 24-07-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+F:\KANCHAN DATA\Project\BMERP\BMERP 24-07-2017\BMERP 24-07-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+F:\KANCHAN DATA\Project\BMERP\BMERP 24-07-2017\BMERP 24-07-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+F:\KANCHAN DATA\Project\BMERP\BMERP 24-07-2017\BMERP 24-07-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+F:\KANCHAN DATA\Project\BMERP\BMERP 24-07-2017\BMERP 24-07-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+F:\KANCHAN DATA\Project\BMERP\BMERP 07-08-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+F:\KANCHAN DATA\Project\BMERP\BMERP 07-08-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+F:\KANCHAN DATA\Project\BMERP\BMERP 07-08-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+F:\KANCHAN DATA\Project\BMERP\BMERP 07-08-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+F:\KANCHAN DATA\Project\BMERP\BMERP 07-08-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+I:\Project Backup\BACKUP\BMERP\BMERP 08-08-2017\BMERP 08-08-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+I:\Project Backup\BACKUP\BMERP\BMERP 08-08-2017\BMERP 08-08-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+I:\Project Backup\BACKUP\BMERP\BMERP 08-08-2017\BMERP 08-08-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\ResolveAssemblyReference.cache
+I:\Project Backup\BACKUP\BMERP\BMERP 08-08-2017\BMERP 08-08-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+I:\Project Backup\BACKUP\BMERP\BMERP 08-08-2017\BMERP 08-08-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+F:\KANCHAN DATA\Project\BMERP 08-08-2017\BMERP 08-08-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+F:\KANCHAN DATA\Project\BMERP 08-08-2017\BMERP 08-08-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+F:\KANCHAN DATA\Project\BMERP 08-08-2017\BMERP 08-08-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+F:\KANCHAN DATA\Project\BMERP 08-08-2017\BMERP 08-08-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+F:\KANCHAN DATA\Project\BMERP 08-08-2017\BMERP 08-08-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+F:\KANCHAN DATA\Project\BMERP\BMERP 08-09-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+F:\KANCHAN DATA\Project\BMERP\BMERP 08-09-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+F:\KANCHAN DATA\Project\BMERP\BMERP 08-09-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+F:\KANCHAN DATA\Project\BMERP\BMERP 08-09-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+F:\KANCHAN DATA\Project\BMERP\BMERP 08-09-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+I:\Project Backup\BACKUP\BMERP\BMERP 10-09-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+I:\Project Backup\BACKUP\BMERP\BMERP 10-09-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+I:\Project Backup\BACKUP\BMERP\BMERP 10-09-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\ResolveAssemblyReference.cache
+I:\Project Backup\BACKUP\BMERP\BMERP 10-09-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+I:\Project Backup\BACKUP\BMERP\BMERP 10-09-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+F:\KANCHAN DATA\Project\BMERP\BMERP 15-09-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+F:\KANCHAN DATA\Project\BMERP\BMERP 15-09-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+F:\KANCHAN DATA\Project\BMERP\BMERP 15-09-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+F:\KANCHAN DATA\Project\BMERP\BMERP 15-09-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+F:\KANCHAN DATA\Project\BMERP\BMERP 15-09-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+I:\Project Backup\BACKUP\BMERP\BMERP 18-09-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\ResolveAssemblyReference.cache
+I:\Project Backup\BACKUP\BMERP\BMERP 18-09-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+I:\Project Backup\BACKUP\BMERP\BMERP 18-09-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+I:\Project Backup\BACKUP\BMERP\BMERP 18-09-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+I:\Project Backup\BACKUP\BMERP\BMERP 18-09-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+F:\KANCHAN DATA\Project\BMERP\BMERP 20-09-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+F:\KANCHAN DATA\Project\BMERP\BMERP 20-09-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+F:\KANCHAN DATA\Project\BMERP\BMERP 20-09-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+F:\KANCHAN DATA\Project\BMERP\BMERP 20-09-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+F:\KANCHAN DATA\Project\BMERP\BMERP 20-09-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+F:\KANCHAN DATA\Project\BMERP\BMERP 19-10-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+F:\KANCHAN DATA\Project\BMERP\BMERP 19-10-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+F:\KANCHAN DATA\Project\BMERP\BMERP 19-10-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+F:\KANCHAN DATA\Project\BMERP\BMERP 19-10-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+F:\KANCHAN DATA\Project\BMERP\BMERP 19-10-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+F:\KANCHAN DATA\Project\BMERP\BMERP 30-11-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+F:\KANCHAN DATA\Project\BMERP\BMERP 30-11-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+F:\KANCHAN DATA\Project\BMERP\BMERP 30-11-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+F:\KANCHAN DATA\Project\BMERP\BMERP 30-11-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+F:\KANCHAN DATA\Project\BMERP\BMERP 30-11-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+F:\Project Backup\BACKUP\BMERP\BMERP 06-12-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\ResolveAssemblyReference.cache
+F:\Project Backup\BACKUP\BMERP\BMERP 06-12-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+F:\Project Backup\BACKUP\BMERP\BMERP 06-12-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+F:\Project Backup\BACKUP\BMERP\BMERP 06-12-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+F:\Project Backup\BACKUP\BMERP\BMERP 06-12-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+F:\KANCHAN DATA\Project\BMERP\BMERP 06-12-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+F:\KANCHAN DATA\Project\BMERP\BMERP 06-12-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+F:\KANCHAN DATA\Project\BMERP\BMERP 06-12-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+F:\KANCHAN DATA\Project\BMERP\BMERP 06-12-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+F:\KANCHAN DATA\Project\BMERP\BMERP 06-12-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+F:\Project Backup\BACKUP\BMERP\BMERP 07-12-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+F:\Project Backup\BACKUP\BMERP\BMERP 07-12-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+F:\Project Backup\BACKUP\BMERP\BMERP 07-12-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\ResolveAssemblyReference.cache
+F:\Project Backup\BACKUP\BMERP\BMERP 07-12-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+F:\Project Backup\BACKUP\BMERP\BMERP 07-12-2017\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+F:\Project Backup\BACKUP\BMERP\BMERP 07-12-2017(Current)\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+F:\Project Backup\BACKUP\BMERP\BMERP 07-12-2017(Current)\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+F:\Project Backup\BACKUP\BMERP\BMERP 07-12-2017(Current)\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\ResolveAssemblyReference.cache
+F:\Project Backup\BACKUP\BMERP\BMERP 07-12-2017(Current)\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+F:\Project Backup\BACKUP\BMERP\BMERP 07-12-2017(Current)\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+F:\KANCHAN DATA\Project\BMERP\2018\BMERP 15-01-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+F:\KANCHAN DATA\Project\BMERP\2018\BMERP 15-01-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+F:\KANCHAN DATA\Project\BMERP\2018\BMERP 15-01-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+F:\KANCHAN DATA\Project\BMERP\2018\BMERP 15-01-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+F:\KANCHAN DATA\Project\BMERP\2018\BMERP 15-01-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+E:\Project Backup\BACKUP\BMERP\2018\January\BMERP 16-01-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+E:\Project Backup\BACKUP\BMERP\2018\January\BMERP 16-01-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+E:\Project Backup\BACKUP\BMERP\2018\January\BMERP 16-01-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+E:\Project Backup\BACKUP\BMERP\2018\January\BMERP 16-01-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+E:\Project Backup\BACKUP\BMERP\2018\January\BMERP 16-01-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+F:\KANCHAN DATA\Project\BMERP\2018\BMERP 17-01-2018\BMERP 17-01-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+F:\KANCHAN DATA\Project\BMERP\2018\BMERP 17-01-2018\BMERP 17-01-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+F:\KANCHAN DATA\Project\BMERP\2018\BMERP 17-01-2018\BMERP 17-01-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+F:\KANCHAN DATA\Project\BMERP\2018\BMERP 17-01-2018\BMERP 17-01-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+F:\KANCHAN DATA\Project\BMERP\2018\BMERP 17-01-2018\BMERP 17-01-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+E:\Project Backup\BACKUP\BMERP\2018\January\BMERP 17-01-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+E:\Project Backup\BACKUP\BMERP\2018\January\BMERP 17-01-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+E:\Project Backup\BACKUP\BMERP\2018\January\BMERP 17-01-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+E:\Project Backup\BACKUP\BMERP\2018\January\BMERP 17-01-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+E:\Project Backup\BACKUP\BMERP\2018\January\BMERP 17-01-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+E:\Project Backup\BACKUP\BMERP\2018\January\BMERP 20-01-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+E:\Project Backup\BACKUP\BMERP\2018\January\BMERP 20-01-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+E:\Project Backup\BACKUP\BMERP\2018\January\BMERP 20-01-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+E:\Project Backup\BACKUP\BMERP\2018\January\BMERP 20-01-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+E:\Project Backup\BACKUP\BMERP\2018\January\BMERP 20-01-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+F:\KANCHAN DATA\Project\BMERP\2018\BMERP 22-01-2018\BMERP 22-01-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+F:\KANCHAN DATA\Project\BMERP\2018\BMERP 22-01-2018\BMERP 22-01-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+F:\KANCHAN DATA\Project\BMERP\2018\BMERP 22-01-2018\BMERP 22-01-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+F:\KANCHAN DATA\Project\BMERP\2018\BMERP 22-01-2018\BMERP 22-01-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+F:\KANCHAN DATA\Project\BMERP\2018\BMERP 22-01-2018\BMERP 22-01-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+E:\Project Backup\BACKUP\BMERP\2018\January\BMERP 23-01-2018\BMERP 23-01-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+E:\Project Backup\BACKUP\BMERP\2018\January\BMERP 23-01-2018\BMERP 23-01-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+E:\Project Backup\BACKUP\BMERP\2018\January\BMERP 23-01-2018\BMERP 23-01-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+E:\Project Backup\BACKUP\BMERP\2018\January\BMERP 23-01-2018\BMERP 23-01-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+E:\Project Backup\BACKUP\BMERP\2018\January\BMERP 23-01-2018\BMERP 23-01-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+E:\Project Backup\BACKUP\BMERP\2018\January\BMERP 24-01-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+E:\Project Backup\BACKUP\BMERP\2018\January\BMERP 24-01-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+E:\Project Backup\BACKUP\BMERP\2018\January\BMERP 24-01-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+E:\Project Backup\BACKUP\BMERP\2018\January\BMERP 24-01-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+E:\Project Backup\BACKUP\BMERP\2018\January\BMERP 24-01-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+E:\Project Backup\BACKUP\BMERP\2018\January\BMERP 26-01-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+E:\Project Backup\BACKUP\BMERP\2018\January\BMERP 26-01-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+E:\Project Backup\BACKUP\BMERP\2018\January\BMERP 26-01-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+E:\Project Backup\BACKUP\BMERP\2018\January\BMERP 26-01-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+E:\Project Backup\BACKUP\BMERP\2018\January\BMERP 26-01-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+F:\KANCHAN DATA\Project\BMERP\2018\BMERP 28-01-2018\BMERP 28-01-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+F:\KANCHAN DATA\Project\BMERP\2018\BMERP 28-01-2018\BMERP 28-01-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+F:\KANCHAN DATA\Project\BMERP\2018\BMERP 28-01-2018\BMERP 28-01-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+F:\KANCHAN DATA\Project\BMERP\2018\BMERP 28-01-2018\BMERP 28-01-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+F:\KANCHAN DATA\Project\BMERP\2018\BMERP 28-01-2018\BMERP 28-01-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+E:\Project Backup\BACKUP\BMERP\2018\January\BMERP 29-01-2018\BMERP 29-01-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+E:\Project Backup\BACKUP\BMERP\2018\January\BMERP 29-01-2018\BMERP 29-01-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+E:\Project Backup\BACKUP\BMERP\2018\January\BMERP 29-01-2018\BMERP 29-01-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+E:\Project Backup\BACKUP\BMERP\2018\January\BMERP 29-01-2018\BMERP 29-01-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+E:\Project Backup\BACKUP\BMERP\2018\January\BMERP 29-01-2018\BMERP 29-01-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+F:\KANCHAN DATA\Project\BMERP\2018\BMERP 30-01-2018\BMERP 30-01-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+F:\KANCHAN DATA\Project\BMERP\2018\BMERP 30-01-2018\BMERP 30-01-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+F:\KANCHAN DATA\Project\BMERP\2018\BMERP 30-01-2018\BMERP 30-01-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+F:\KANCHAN DATA\Project\BMERP\2018\BMERP 30-01-2018\BMERP 30-01-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+F:\KANCHAN DATA\Project\BMERP\2018\BMERP 30-01-2018\BMERP 30-01-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+E:\Project Backup\BACKUP\BMERP\2018\January\BMERP 30-01-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+E:\Project Backup\BACKUP\BMERP\2018\January\BMERP 30-01-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+E:\Project Backup\BACKUP\BMERP\2018\January\BMERP 30-01-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+E:\Project Backup\BACKUP\BMERP\2018\January\BMERP 30-01-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+E:\Project Backup\BACKUP\BMERP\2018\January\BMERP 30-01-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+F:\KANCHAN DATA\Project\BMERP\2018\BMERP 30-01-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+F:\KANCHAN DATA\Project\BMERP\2018\BMERP 30-01-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+F:\KANCHAN DATA\Project\BMERP\2018\BMERP 30-01-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+F:\KANCHAN DATA\Project\BMERP\2018\BMERP 30-01-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+F:\KANCHAN DATA\Project\BMERP\2018\BMERP 30-01-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+E:\Project Backup\BACKUP\BMERP\2018\January\BMERP 31-01-2018\BMERP 31-01-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+E:\Project Backup\BACKUP\BMERP\2018\January\BMERP 31-01-2018\BMERP 31-01-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+E:\Project Backup\BACKUP\BMERP\2018\January\BMERP 31-01-2018\BMERP 31-01-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+E:\Project Backup\BACKUP\BMERP\2018\January\BMERP 31-01-2018\BMERP 31-01-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+E:\Project Backup\BACKUP\BMERP\2018\January\BMERP 31-01-2018\BMERP 31-01-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+F:\KANCHAN DATA\Project\BMERP\2018\BMERP 02-02-2018\BMERP 02-02-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+F:\KANCHAN DATA\Project\BMERP\2018\BMERP 02-02-2018\BMERP 02-02-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+F:\KANCHAN DATA\Project\BMERP\2018\BMERP 02-02-2018\BMERP 02-02-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+F:\KANCHAN DATA\Project\BMERP\2018\BMERP 02-02-2018\BMERP 02-02-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+F:\KANCHAN DATA\Project\BMERP\2018\BMERP 02-02-2018\BMERP 02-02-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+F:\KANCHAN DATA\Project\BMERP\2018\BMERP 05-02-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+F:\KANCHAN DATA\Project\BMERP\2018\BMERP 05-02-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+F:\KANCHAN DATA\Project\BMERP\2018\BMERP 05-02-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+F:\KANCHAN DATA\Project\BMERP\2018\BMERP 05-02-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+F:\KANCHAN DATA\Project\BMERP\2018\BMERP 05-02-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+E:\Project Backup\BACKUP\BMERP\2018\February\BMERP 06-02-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+E:\Project Backup\BACKUP\BMERP\2018\February\BMERP 06-02-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+E:\Project Backup\BACKUP\BMERP\2018\February\BMERP 06-02-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+E:\Project Backup\BACKUP\BMERP\2018\February\BMERP 06-02-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+E:\Project Backup\BACKUP\BMERP\2018\February\BMERP 06-02-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+F:\KANCHAN DATA\Project\BMERP\2018\BMERP 07-02-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+F:\KANCHAN DATA\Project\BMERP\2018\BMERP 07-02-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+F:\KANCHAN DATA\Project\BMERP\2018\BMERP 07-02-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+F:\KANCHAN DATA\Project\BMERP\2018\BMERP 07-02-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+F:\KANCHAN DATA\Project\BMERP\2018\BMERP 07-02-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+E:\Project Backup\BACKUP\BMERP\2018\February\BMERP 07-02-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+E:\Project Backup\BACKUP\BMERP\2018\February\BMERP 07-02-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+E:\Project Backup\BACKUP\BMERP\2018\February\BMERP 07-02-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+E:\Project Backup\BACKUP\BMERP\2018\February\BMERP 07-02-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+E:\Project Backup\BACKUP\BMERP\2018\February\BMERP 07-02-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+F:\KANCHAN DATA\Project\BMERP\2018\February\BMERP 10-02-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+F:\KANCHAN DATA\Project\BMERP\2018\February\BMERP 10-02-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+F:\KANCHAN DATA\Project\BMERP\2018\February\BMERP 10-02-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+F:\KANCHAN DATA\Project\BMERP\2018\February\BMERP 10-02-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+F:\KANCHAN DATA\Project\BMERP\2018\February\BMERP 10-02-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+E:\Project Backup\BACKUP\BMERP\2018\February\BMERP 10-02-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+E:\Project Backup\BACKUP\BMERP\2018\February\BMERP 10-02-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+E:\Project Backup\BACKUP\BMERP\2018\February\BMERP 10-02-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+E:\Project Backup\BACKUP\BMERP\2018\February\BMERP 10-02-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+E:\Project Backup\BACKUP\BMERP\2018\February\BMERP 10-02-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+F:\KANCHAN DATA\Project\BMERP\2018\February\BMERP 11-02-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+F:\KANCHAN DATA\Project\BMERP\2018\February\BMERP 11-02-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+F:\KANCHAN DATA\Project\BMERP\2018\February\BMERP 11-02-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+F:\KANCHAN DATA\Project\BMERP\2018\February\BMERP 11-02-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+F:\KANCHAN DATA\Project\BMERP\2018\February\BMERP 11-02-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+E:\Project Backup\BACKUP\BMERP\2018\February\BMERP 12-02-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+E:\Project Backup\BACKUP\BMERP\2018\February\BMERP 12-02-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+E:\Project Backup\BACKUP\BMERP\2018\February\BMERP 12-02-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+E:\Project Backup\BACKUP\BMERP\2018\February\BMERP 12-02-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+E:\Project Backup\BACKUP\BMERP\2018\February\BMERP 12-02-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+F:\KANCHAN DATA\Project\BMERP\2018\February\BMERP 14-02-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+F:\KANCHAN DATA\Project\BMERP\2018\February\BMERP 14-02-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+F:\KANCHAN DATA\Project\BMERP\2018\February\BMERP 14-02-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+F:\KANCHAN DATA\Project\BMERP\2018\February\BMERP 14-02-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+F:\KANCHAN DATA\Project\BMERP\2018\February\BMERP 14-02-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+E:\Project Backup\BACKUP\BMERP\2018\February\BMERP 14-02-2018(new)\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+E:\Project Backup\BACKUP\BMERP\2018\February\BMERP 14-02-2018(new)\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+E:\Project Backup\BACKUP\BMERP\2018\February\BMERP 14-02-2018(new)\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+E:\Project Backup\BACKUP\BMERP\2018\February\BMERP 14-02-2018(new)\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+E:\Project Backup\BACKUP\BMERP\2018\February\BMERP 14-02-2018(new)\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+F:\KANCHAN DATA\Project\BMERP\2018\February\BMERP 14-02-2018(new)\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+F:\KANCHAN DATA\Project\BMERP\2018\February\BMERP 14-02-2018(new)\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+F:\KANCHAN DATA\Project\BMERP\2018\February\BMERP 14-02-2018(new)\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+F:\KANCHAN DATA\Project\BMERP\2018\February\BMERP 14-02-2018(new)\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+F:\KANCHAN DATA\Project\BMERP\2018\February\BMERP 14-02-2018(new)\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+F:\KANCHAN DATA\Project\BMERP\2018\February\BMERP 17-02-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+F:\KANCHAN DATA\Project\BMERP\2018\February\BMERP 17-02-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+F:\KANCHAN DATA\Project\BMERP\2018\February\BMERP 17-02-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+F:\KANCHAN DATA\Project\BMERP\2018\February\BMERP 17-02-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+F:\KANCHAN DATA\Project\BMERP\2018\February\BMERP 17-02-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+E:\Project Backup\BACKUP\BMERP\2018\February\BMERP 17-02-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+E:\Project Backup\BACKUP\BMERP\2018\February\BMERP 17-02-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+E:\Project Backup\BACKUP\BMERP\2018\February\BMERP 17-02-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+E:\Project Backup\BACKUP\BMERP\2018\February\BMERP 17-02-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+E:\Project Backup\BACKUP\BMERP\2018\February\BMERP 17-02-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+F:\KANCHAN DATA\Project\BMERP\2018\February\BMERP 24-02-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+F:\KANCHAN DATA\Project\BMERP\2018\February\BMERP 24-02-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+F:\KANCHAN DATA\Project\BMERP\2018\February\BMERP 24-02-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+F:\KANCHAN DATA\Project\BMERP\2018\February\BMERP 24-02-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+F:\KANCHAN DATA\Project\BMERP\2018\February\BMERP 24-02-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+E:\Project Backup\BACKUP\BMERP\2018\February\BMERP 26-02-2018\BMERP 26-02-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+E:\Project Backup\BACKUP\BMERP\2018\February\BMERP 26-02-2018\BMERP 26-02-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+E:\Project Backup\BACKUP\BMERP\2018\February\BMERP 26-02-2018\BMERP 26-02-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+E:\Project Backup\BACKUP\BMERP\2018\February\BMERP 26-02-2018\BMERP 26-02-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+E:\Project Backup\BACKUP\BMERP\2018\February\BMERP 26-02-2018\BMERP 26-02-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+F:\KANCHAN DATA\Project\BMERP\2018\February\BMERP 26-02-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+F:\KANCHAN DATA\Project\BMERP\2018\February\BMERP 26-02-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+F:\KANCHAN DATA\Project\BMERP\2018\February\BMERP 26-02-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+F:\KANCHAN DATA\Project\BMERP\2018\February\BMERP 26-02-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+F:\KANCHAN DATA\Project\BMERP\2018\February\BMERP 26-02-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+E:\Project Backup\BACKUP\BMERP\2018\March\BMERP 05-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+E:\Project Backup\BACKUP\BMERP\2018\March\BMERP 05-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+E:\Project Backup\BACKUP\BMERP\2018\March\BMERP 05-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+E:\Project Backup\BACKUP\BMERP\2018\March\BMERP 05-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+E:\Project Backup\BACKUP\BMERP\2018\March\BMERP 05-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+F:\KANCHAN DATA\Project\BMERP\2018\March\BMERP 05-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+F:\KANCHAN DATA\Project\BMERP\2018\March\BMERP 05-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+F:\KANCHAN DATA\Project\BMERP\2018\March\BMERP 05-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+F:\KANCHAN DATA\Project\BMERP\2018\March\BMERP 05-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+F:\KANCHAN DATA\Project\BMERP\2018\March\BMERP 05-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+F:\KANCHAN DATA\Project\BMERP\2018\March\BMERP 06-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+F:\KANCHAN DATA\Project\BMERP\2018\March\BMERP 06-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+F:\KANCHAN DATA\Project\BMERP\2018\March\BMERP 06-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+F:\KANCHAN DATA\Project\BMERP\2018\March\BMERP 06-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+F:\KANCHAN DATA\Project\BMERP\2018\March\BMERP 06-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+E:\Project Backup\BACKUP\BMERP\2018\March\BMERP 07-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+E:\Project Backup\BACKUP\BMERP\2018\March\BMERP 07-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+E:\Project Backup\BACKUP\BMERP\2018\March\BMERP 07-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+E:\Project Backup\BACKUP\BMERP\2018\March\BMERP 07-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+E:\Project Backup\BACKUP\BMERP\2018\March\BMERP 07-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+F:\KANCHAN DATA\Project\BMERP\2018\March\BMERP 07-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+F:\KANCHAN DATA\Project\BMERP\2018\March\BMERP 07-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+F:\KANCHAN DATA\Project\BMERP\2018\March\BMERP 07-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+F:\KANCHAN DATA\Project\BMERP\2018\March\BMERP 07-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+F:\KANCHAN DATA\Project\BMERP\2018\March\BMERP 07-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+E:\Project Backup\BACKUP\BMERP\2018\March\BMERP 08-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+E:\Project Backup\BACKUP\BMERP\2018\March\BMERP 08-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+E:\Project Backup\BACKUP\BMERP\2018\March\BMERP 08-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+E:\Project Backup\BACKUP\BMERP\2018\March\BMERP 08-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+E:\Project Backup\BACKUP\BMERP\2018\March\BMERP 08-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+F:\KANCHAN DATA\Project\BMERP\2018\March\BMERP 10-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+F:\KANCHAN DATA\Project\BMERP\2018\March\BMERP 10-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+F:\KANCHAN DATA\Project\BMERP\2018\March\BMERP 10-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+F:\KANCHAN DATA\Project\BMERP\2018\March\BMERP 10-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+F:\KANCHAN DATA\Project\BMERP\2018\March\BMERP 10-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+F:\KANCHAN DATA\Project\BMERP\2018\March\BMERP 11-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+F:\KANCHAN DATA\Project\BMERP\2018\March\BMERP 11-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+F:\KANCHAN DATA\Project\BMERP\2018\March\BMERP 11-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+F:\KANCHAN DATA\Project\BMERP\2018\March\BMERP 11-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+F:\KANCHAN DATA\Project\BMERP\2018\March\BMERP 11-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+E:\Project Backup\BACKUP\BMERP\2018\March\BMERP 11-03-2018\BMERP 11-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+E:\Project Backup\BACKUP\BMERP\2018\March\BMERP 11-03-2018\BMERP 11-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+E:\Project Backup\BACKUP\BMERP\2018\March\BMERP 11-03-2018\BMERP 11-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+E:\Project Backup\BACKUP\BMERP\2018\March\BMERP 11-03-2018\BMERP 11-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+E:\Project Backup\BACKUP\BMERP\2018\March\BMERP 11-03-2018\BMERP 11-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+F:\KANCHAN DATA\Project\BMERP\2018\March\BMERP 15-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+F:\KANCHAN DATA\Project\BMERP\2018\March\BMERP 15-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+F:\KANCHAN DATA\Project\BMERP\2018\March\BMERP 15-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+F:\KANCHAN DATA\Project\BMERP\2018\March\BMERP 15-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+F:\KANCHAN DATA\Project\BMERP\2018\March\BMERP 15-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+E:\Project Backup\BACKUP\BMERP\2018\March\BMERP 15-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+E:\Project Backup\BACKUP\BMERP\2018\March\BMERP 15-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+E:\Project Backup\BACKUP\BMERP\2018\March\BMERP 15-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+E:\Project Backup\BACKUP\BMERP\2018\March\BMERP 15-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+E:\Project Backup\BACKUP\BMERP\2018\March\BMERP 15-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+E:\Project Backup\BACKUP\BMERP\2018\March\BMERP 21-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+E:\Project Backup\BACKUP\BMERP\2018\March\BMERP 21-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+E:\Project Backup\BACKUP\BMERP\2018\March\BMERP 21-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+E:\Project Backup\BACKUP\BMERP\2018\March\BMERP 21-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+E:\Project Backup\BACKUP\BMERP\2018\March\BMERP 21-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+F:\KANCHAN DATA\Project\BMERP\2018\March\BMERP 21-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+F:\KANCHAN DATA\Project\BMERP\2018\March\BMERP 21-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+F:\KANCHAN DATA\Project\BMERP\2018\March\BMERP 21-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+F:\KANCHAN DATA\Project\BMERP\2018\March\BMERP 21-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+F:\KANCHAN DATA\Project\BMERP\2018\March\BMERP 21-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+E:\Project Backup\BACKUP\BMERP\2018\March\BMERP 25-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+E:\Project Backup\BACKUP\BMERP\2018\March\BMERP 25-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+E:\Project Backup\BACKUP\BMERP\2018\March\BMERP 25-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+E:\Project Backup\BACKUP\BMERP\2018\March\BMERP 25-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+E:\Project Backup\BACKUP\BMERP\2018\March\BMERP 25-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+F:\KANCHAN DATA\Project\BMERP\2018\March\BMERP 25-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+F:\KANCHAN DATA\Project\BMERP\2018\March\BMERP 25-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+F:\KANCHAN DATA\Project\BMERP\2018\March\BMERP 25-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+F:\KANCHAN DATA\Project\BMERP\2018\March\BMERP 25-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+F:\KANCHAN DATA\Project\BMERP\2018\March\BMERP 25-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+E:\Project Backup\BACKUP\BMERP\2018\March\BMERP 29-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+E:\Project Backup\BACKUP\BMERP\2018\March\BMERP 29-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+E:\Project Backup\BACKUP\BMERP\2018\March\BMERP 29-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+E:\Project Backup\BACKUP\BMERP\2018\March\BMERP 29-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+E:\Project Backup\BACKUP\BMERP\2018\March\BMERP 29-03-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+E:\Project Backup\BACKUP\BMERP\2018\April\BMERP 03-04-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+E:\Project Backup\BACKUP\BMERP\2018\April\BMERP 03-04-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+E:\Project Backup\BACKUP\BMERP\2018\April\BMERP 03-04-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+E:\Project Backup\BACKUP\BMERP\2018\April\BMERP 03-04-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+E:\Project Backup\BACKUP\BMERP\2018\April\BMERP 03-04-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2018\April\BMERP 05-04-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2018\April\BMERP 05-04-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2018\April\BMERP 05-04-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+E:\Project Backup\BMERP\2018\April\BMERP 05-04-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2018\April\BMERP 05-04-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2018\April\BMERP 06-04-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2018\April\BMERP 06-04-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2018\April\BMERP 06-04-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+E:\Project Backup\BMERP\2018\April\BMERP 06-04-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2018\April\BMERP 06-04-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2018\April\BMERP 09-04-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2018\April\BMERP 09-04-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2018\April\BMERP 09-04-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+E:\Project Backup\BMERP\2018\April\BMERP 09-04-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2018\April\BMERP 09-04-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2018\April\BMERP 12-04-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2018\April\BMERP 12-04-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2018\April\BMERP 12-04-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+E:\Project Backup\BMERP\2018\April\BMERP 12-04-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2018\April\BMERP 12-04-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2018\April\BMERP 18-04-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2018\April\BMERP 18-04-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2018\April\BMERP 18-04-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+E:\Project Backup\BMERP\2018\April\BMERP 18-04-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2018\April\BMERP 18-04-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2018\April\BMERP 22-04-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2018\April\BMERP 22-04-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2018\April\BMERP 22-04-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+E:\Project Backup\BMERP\2018\April\BMERP 22-04-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2018\April\BMERP 22-04-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2018\April\BMERP 22-04-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\itextsharp.dll
+E:\Project Backup\BMERP\2018\April\BMERP 22-04-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\itextsharp.xml
+E:\Project Backup\BMERP\2018\April\BMERP 26-04-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2018\April\BMERP 26-04-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2018\April\BMERP 26-04-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\itextsharp.dll
+E:\Project Backup\BMERP\2018\April\BMERP 26-04-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\itextsharp.xml
+E:\Project Backup\BMERP\2018\April\BMERP 26-04-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+E:\Project Backup\BMERP\2018\April\BMERP 26-04-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2018\April\BMERP 26-04-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2018\April\BMERP 30-04-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2018\April\BMERP 30-04-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2018\April\BMERP 30-04-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\itextsharp.dll
+E:\Project Backup\BMERP\2018\April\BMERP 30-04-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\itextsharp.xml
+E:\Project Backup\BMERP\2018\April\BMERP 30-04-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+E:\Project Backup\BMERP\2018\April\BMERP 30-04-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2018\April\BMERP 30-04-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2018\May\BMERP 06-05-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2018\May\BMERP 06-05-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2018\May\BMERP 06-05-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\itextsharp.xml
+E:\Project Backup\BMERP\2018\May\BMERP 06-05-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+E:\Project Backup\BMERP\2018\May\BMERP 06-05-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2018\May\BMERP 06-05-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2018\May\BMERP 10-05-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2018\May\BMERP 10-05-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2018\May\BMERP 10-05-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\itextsharp.xml
+E:\Project Backup\BMERP\2018\May\BMERP 10-05-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+E:\Project Backup\BMERP\2018\May\BMERP 10-05-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2018\May\BMERP 10-05-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2018\May\BMERP 17-05-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2018\May\BMERP 17-05-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2018\May\BMERP 17-05-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\itextsharp.xml
+E:\Project Backup\BMERP\2018\May\BMERP 17-05-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+E:\Project Backup\BMERP\2018\May\BMERP 17-05-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2018\May\BMERP 17-05-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2018\May\BMERP 22-05-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2018\May\BMERP 22-05-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2018\May\BMERP 22-05-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\itextsharp.xml
+E:\Project Backup\BMERP\2018\May\BMERP 22-05-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+E:\Project Backup\BMERP\2018\May\BMERP 22-05-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2018\May\BMERP 22-05-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2018\May\BMERP 30-05-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2018\May\BMERP 30-05-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2018\May\BMERP 30-05-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\itextsharp.xml
+E:\Project Backup\BMERP\2018\May\BMERP 30-05-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+E:\Project Backup\BMERP\2018\May\BMERP 30-05-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2018\May\BMERP 30-05-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2018\June\BMERP 01-06-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2018\June\BMERP 01-06-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2018\June\BMERP 01-06-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\itextsharp.xml
+E:\Project Backup\BMERP\2018\June\BMERP 01-06-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+E:\Project Backup\BMERP\2018\June\BMERP 01-06-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2018\June\BMERP 01-06-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2018\June\BMERP 05-06-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2018\June\BMERP 05-06-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2018\June\BMERP 05-06-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\itextsharp.xml
+E:\Project Backup\BMERP\2018\June\BMERP 05-06-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+E:\Project Backup\BMERP\2018\June\BMERP 05-06-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2018\June\BMERP 05-06-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2018\June\BMERP 12-06-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2018\June\BMERP 12-06-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2018\June\BMERP 12-06-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\itextsharp.xml
+E:\Project Backup\BMERP\2018\June\BMERP 12-06-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+E:\Project Backup\BMERP\2018\June\BMERP 12-06-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2018\June\BMERP 12-06-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2018\July\BMERP 02-07-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2018\July\BMERP 02-07-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2018\July\BMERP 02-07-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\itextsharp.xml
+E:\Project Backup\BMERP\2018\July\BMERP 02-07-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+E:\Project Backup\BMERP\2018\July\BMERP 02-07-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2018\July\BMERP 02-07-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2018\July\BMERP 02-07-2018 - Copy\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2018\July\BMERP 02-07-2018 - Copy\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2018\July\BMERP 02-07-2018 - Copy\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\itextsharp.xml
+E:\Project Backup\BMERP\2018\July\BMERP 02-07-2018 - Copy\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+E:\Project Backup\BMERP\2018\July\BMERP 02-07-2018 - Copy\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2018\July\BMERP 02-07-2018 - Copy\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2018\August\BMERP 12-08-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2018\August\BMERP 12-08-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2018\August\BMERP 12-08-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\itextsharp.xml
+E:\Project Backup\BMERP\2018\August\BMERP 12-08-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+E:\Project Backup\BMERP\2018\August\BMERP 12-08-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2018\August\BMERP 12-08-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2018\August\BMERP 24-08-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2018\August\BMERP 24-08-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2018\August\BMERP 24-08-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\itextsharp.xml
+E:\Project Backup\BMERP\2018\August\BMERP 24-08-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+E:\Project Backup\BMERP\2018\August\BMERP 24-08-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2018\August\BMERP 24-08-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2018\September\BMERP 14-09-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+E:\Project Backup\BMERP\2018\September\BMERP 14-09-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2018\September\BMERP 14-09-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2018\September\BMERP 14-09-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2018\September\BMERP 14-09-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2018\October\BMERP 06-10-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2018\October\BMERP 06-10-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2018\October\BMERP 06-10-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+E:\Project Backup\BMERP\2018\October\BMERP 06-10-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2018\October\BMERP 06-10-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2018\October\BMERP 16-10-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2018\October\BMERP 16-10-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2018\October\BMERP 16-10-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+E:\Project Backup\BMERP\2018\October\BMERP 16-10-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2018\October\BMERP 16-10-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2018\November\BMERP 11-11-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2018\November\BMERP 11-11-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2018\November\BMERP 11-11-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2018\November\BMERP 11-11-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2018\November\BMERP 11-11-2018 - Copy\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll.config
+E:\Project Backup\BMERP\2018\November\BMERP 11-11-2018 - Copy\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2018\November\BMERP 11-11-2018 - Copy\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2018\November\BMERP 11-11-2018 - Copy\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+E:\Project Backup\BMERP\2018\November\BMERP 11-11-2018 - Copy\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2018\November\BMERP 11-11-2018 - Copy\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2018\November\BMERP 11-11-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll.config
+E:\Project Backup\BMERP\2018\November\BMERP 11-11-2018\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+E:\Project Backup\BMERP\2019\01. January\BMERP 05-01-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll.config
+E:\Project Backup\BMERP\2019\01. January\BMERP 05-01-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2019\01. January\BMERP 05-01-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2019\01. January\BMERP 05-01-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+E:\Project Backup\BMERP\2019\01. January\BMERP 05-01-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2019\01. January\BMERP 05-01-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2019\02. February\BMERP 05-02-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll.config
+E:\Project Backup\BMERP\2019\02. February\BMERP 05-02-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2019\02. February\BMERP 05-02-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2019\02. February\BMERP 05-02-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+E:\Project Backup\BMERP\2019\02. February\BMERP 05-02-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2019\02. February\BMERP 05-02-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2019\02. February\BMERP 19-02-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll.config
+E:\Project Backup\BMERP\2019\02. February\BMERP 19-02-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2019\02. February\BMERP 19-02-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2019\02. February\BMERP 19-02-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+E:\Project Backup\BMERP\2019\02. February\BMERP 19-02-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2019\02. February\BMERP 19-02-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2019\03. March\BMERP 13-03-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll.config
+E:\Project Backup\BMERP\2019\03. March\BMERP 13-03-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2019\03. March\BMERP 13-03-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2019\03. March\BMERP 13-03-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2019\03. March\BMERP 13-03-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2019\03. March\BMERP 13-03-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+E:\Project Backup\BMERP\2019\05. May\BMERP 28-05-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll.config
+E:\Project Backup\BMERP\2019\05. May\BMERP 28-05-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2019\05. May\BMERP 28-05-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2019\05. May\BMERP 28-05-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+E:\Project Backup\BMERP\2019\05. May\BMERP 28-05-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2019\05. May\BMERP 28-05-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2019\05. May\BMERP 28-05-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll.licenses
+E:\Project Backup\BMERP\2019\05. May\BMERP 28-05-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\Telerik.Web.UI.dll
+E:\Project Backup\BMERP\2019\05. May\BMERP 28-05-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\Telerik.Web.UI.xml
+E:\Project Backup\BMERP\2019\10. October\BMERP 14-10-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll.config
+E:\Project Backup\BMERP\2019\10. October\BMERP 14-10-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2019\10. October\BMERP 14-10-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2019\10. October\BMERP 14-10-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\Telerik.Web.UI.dll
+E:\Project Backup\BMERP\2019\10. October\BMERP 14-10-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\Telerik.Web.UI.xml
+E:\Project Backup\BMERP\2019\10. October\BMERP 14-10-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+E:\Project Backup\BMERP\2019\10. October\BMERP 14-10-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll.licenses
+E:\Project Backup\BMERP\2019\10. October\BMERP 14-10-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2019\10. October\BMERP 14-10-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2019\10. October\BMERP 17-10-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll.config
+E:\Project Backup\BMERP\2019\10. October\BMERP 17-10-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2019\10. October\BMERP 17-10-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2019\10. October\BMERP 17-10-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\Telerik.Web.UI.dll
+E:\Project Backup\BMERP\2019\10. October\BMERP 17-10-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\Telerik.Web.UI.xml
+E:\Project Backup\BMERP\2019\10. October\BMERP 17-10-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll.licenses
+E:\Project Backup\BMERP\2019\10. October\BMERP 17-10-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2019\10. October\BMERP 17-10-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2019\10. October\BMERP 17-10-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+E:\Project Backup\BMERP\2019\11. November\BMERP 05-11-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll.config
+E:\Project Backup\BMERP\2019\11. November\BMERP 05-11-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2019\11. November\BMERP 05-11-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2019\11. November\BMERP 05-11-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\Telerik.Web.UI.dll
+E:\Project Backup\BMERP\2019\11. November\BMERP 05-11-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\Telerik.Web.UI.xml
+E:\Project Backup\BMERP\2019\11. November\BMERP 05-11-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+E:\Project Backup\BMERP\2019\11. November\BMERP 05-11-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll.licenses
+E:\Project Backup\BMERP\2019\11. November\BMERP 05-11-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2019\11. November\BMERP 05-11-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2019\11. November\BMERP 06-11-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll.config
+E:\Project Backup\BMERP\2019\11. November\BMERP 06-11-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2019\11. November\BMERP 06-11-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2019\11. November\BMERP 06-11-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\Telerik.Web.UI.dll
+E:\Project Backup\BMERP\2019\11. November\BMERP 06-11-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\Telerik.Web.UI.xml
+E:\Project Backup\BMERP\2019\11. November\BMERP 06-11-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+E:\Project Backup\BMERP\2019\11. November\BMERP 06-11-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll.licenses
+E:\Project Backup\BMERP\2019\11. November\BMERP 06-11-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2019\11. November\BMERP 06-11-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2019\11. November\BMERP 17-11-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll.config
+E:\Project Backup\BMERP\2019\11. November\BMERP 17-11-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2019\11. November\BMERP 17-11-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2019\11. November\BMERP 17-11-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\Telerik.Web.UI.dll
+E:\Project Backup\BMERP\2019\11. November\BMERP 17-11-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\Telerik.Web.UI.xml
+E:\Project Backup\BMERP\2019\11. November\BMERP 17-11-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+E:\Project Backup\BMERP\2019\11. November\BMERP 17-11-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll.licenses
+E:\Project Backup\BMERP\2019\11. November\BMERP 17-11-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2019\11. November\BMERP 17-11-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2019\11. November\BMERP 27-11-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll.config
+E:\Project Backup\BMERP\2019\11. November\BMERP 27-11-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2019\11. November\BMERP 27-11-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2019\11. November\BMERP 27-11-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\Telerik.Web.UI.dll
+E:\Project Backup\BMERP\2019\11. November\BMERP 27-11-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\Telerik.Web.UI.xml
+E:\Project Backup\BMERP\2019\11. November\BMERP 27-11-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll.licenses
+E:\Project Backup\BMERP\2019\11. November\BMERP 27-11-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2019\11. November\BMERP 27-11-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2019\11. November\BMERP 27-11-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+E:\Project Backup\BMERP\2019\12. December\BMERP 02-12-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll.config
+E:\Project Backup\BMERP\2019\12. December\BMERP 02-12-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2019\12. December\BMERP 02-12-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2019\12. December\BMERP 02-12-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\Telerik.Web.UI.dll
+E:\Project Backup\BMERP\2019\12. December\BMERP 02-12-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\Telerik.Web.UI.xml
+E:\Project Backup\BMERP\2019\12. December\BMERP 02-12-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+E:\Project Backup\BMERP\2019\12. December\BMERP 02-12-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll.licenses
+E:\Project Backup\BMERP\2019\12. December\BMERP 02-12-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2019\12. December\BMERP 02-12-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2019\12. December\BMERP 09-12-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll.config
+E:\Project Backup\BMERP\2019\12. December\BMERP 09-12-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2019\12. December\BMERP 09-12-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2019\12. December\BMERP 09-12-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\Telerik.Web.UI.dll
+E:\Project Backup\BMERP\2019\12. December\BMERP 09-12-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\Telerik.Web.UI.xml
+E:\Project Backup\BMERP\2019\12. December\BMERP 09-12-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+E:\Project Backup\BMERP\2019\12. December\BMERP 09-12-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll.licenses
+E:\Project Backup\BMERP\2019\12. December\BMERP 09-12-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2019\12. December\BMERP 09-12-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2019\12. December\BMERP 09-12-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\zxing.dll
+E:\Project Backup\BMERP\2019\12. December\BMERP 09-12-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\zxing.presentation.dll
+E:\Project Backup\BMERP\2019\12. December\BMERP 09-12-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\zxing.pdb
+E:\Project Backup\BMERP\2019\12. December\BMERP 09-12-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\zxing.xml
+E:\Project Backup\BMERP\2019\12. December\BMERP 09-12-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\zxing.presentation.pdb
+E:\Project Backup\BMERP\2019\12. December\BMERP 09-12-2019\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\zxing.presentation.xml
+E:\Project Backup\BMERP\2020\02. February\BMERP 02-02-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll.config
+E:\Project Backup\BMERP\2020\02. February\BMERP 02-02-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2020\02. February\BMERP 02-02-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2020\02. February\BMERP 02-02-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\Telerik.Web.UI.dll
+E:\Project Backup\BMERP\2020\02. February\BMERP 02-02-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\zxing.dll
+E:\Project Backup\BMERP\2020\02. February\BMERP 02-02-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\zxing.presentation.dll
+E:\Project Backup\BMERP\2020\02. February\BMERP 02-02-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\Telerik.Web.UI.xml
+E:\Project Backup\BMERP\2020\02. February\BMERP 02-02-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\zxing.pdb
+E:\Project Backup\BMERP\2020\02. February\BMERP 02-02-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\zxing.xml
+E:\Project Backup\BMERP\2020\02. February\BMERP 02-02-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\zxing.presentation.pdb
+E:\Project Backup\BMERP\2020\02. February\BMERP 02-02-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\zxing.presentation.xml
+E:\Project Backup\BMERP\2020\02. February\BMERP 02-02-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll.licenses
+E:\Project Backup\BMERP\2020\02. February\BMERP 02-02-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2020\02. February\BMERP 02-02-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2020\02. February\BMERP 02-02-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+E:\Project Backup\BMERP\2020\02. February\BMERP 21-02-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll.config
+E:\Project Backup\BMERP\2020\02. February\BMERP 21-02-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2020\02. February\BMERP 21-02-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2020\02. February\BMERP 21-02-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\zxing.dll
+E:\Project Backup\BMERP\2020\02. February\BMERP 21-02-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\zxing.presentation.dll
+E:\Project Backup\BMERP\2020\02. February\BMERP 21-02-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\Telerik.Web.UI.xml
+E:\Project Backup\BMERP\2020\02. February\BMERP 21-02-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\zxing.pdb
+E:\Project Backup\BMERP\2020\02. February\BMERP 21-02-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\zxing.xml
+E:\Project Backup\BMERP\2020\02. February\BMERP 21-02-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\zxing.presentation.pdb
+E:\Project Backup\BMERP\2020\02. February\BMERP 21-02-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\zxing.presentation.xml
+E:\Project Backup\BMERP\2020\02. February\BMERP 21-02-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll.licenses
+E:\Project Backup\BMERP\2020\02. February\BMERP 21-02-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2020\02. February\BMERP 21-02-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2020\02. February\BMERP 21-02-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+E:\Project Backup\BMERP\2020\05. May\BMERP 10-05-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll.config
+E:\Project Backup\BMERP\2020\05. May\BMERP 10-05-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2020\05. May\BMERP 10-05-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2020\05. May\BMERP 10-05-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\zxing.dll
+E:\Project Backup\BMERP\2020\05. May\BMERP 10-05-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\zxing.presentation.dll
+E:\Project Backup\BMERP\2020\05. May\BMERP 10-05-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\zxing.pdb
+E:\Project Backup\BMERP\2020\05. May\BMERP 10-05-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\zxing.xml
+E:\Project Backup\BMERP\2020\05. May\BMERP 10-05-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\zxing.presentation.pdb
+E:\Project Backup\BMERP\2020\05. May\BMERP 10-05-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\zxing.presentation.xml
+E:\Project Backup\BMERP\2020\05. May\BMERP 10-05-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll.licenses
+E:\Project Backup\BMERP\2020\05. May\BMERP 10-05-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2020\05. May\BMERP 10-05-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2020\05. May\BMERP 10-05-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\Microsoft.ReportViewer.WebForms.dll
+E:\Project Backup\BMERP\2020\05. May\BMERP 10-05-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Project Backup\BMERP\2020\05. May\BMERP 10-05-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Project Backup\BMERP\2020\05. May\BMERP 10-05-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Project Backup\BMERP\2020\05. May\BMERP 10-05-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Project Backup\BMERP\2020\05. May\BMERP 10-05-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Project Backup\BMERP\2020\05. May\BMERP 10-05-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Project Backup\BMERP\2020\05. May\BMERP 10-05-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Project Backup\BMERP\2020\05. May\BMERP 10-05-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Project Backup\BMERP\2020\05. May\BMERP 10-05-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Project Backup\BMERP\2020\05. May\BMERP 10-05-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Project Backup\BMERP\2020\05. May\BMERP 10-05-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+E:\Project Backup\BMERP\2020\10. October\BMERP 15-10-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll.config
+E:\Project Backup\BMERP\2020\10. October\BMERP 15-10-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2020\10. October\BMERP 15-10-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2020\10. October\BMERP 15-10-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\Microsoft.ReportViewer.WebForms.dll
+E:\Project Backup\BMERP\2020\10. October\BMERP 15-10-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\zxing.dll
+E:\Project Backup\BMERP\2020\10. October\BMERP 15-10-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\zxing.presentation.dll
+E:\Project Backup\BMERP\2020\10. October\BMERP 15-10-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\zxing.pdb
+E:\Project Backup\BMERP\2020\10. October\BMERP 15-10-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\zxing.xml
+E:\Project Backup\BMERP\2020\10. October\BMERP 15-10-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\zxing.presentation.pdb
+E:\Project Backup\BMERP\2020\10. October\BMERP 15-10-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\zxing.presentation.xml
+E:\Project Backup\BMERP\2020\10. October\BMERP 15-10-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Project Backup\BMERP\2020\10. October\BMERP 15-10-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Project Backup\BMERP\2020\10. October\BMERP 15-10-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Project Backup\BMERP\2020\10. October\BMERP 15-10-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Project Backup\BMERP\2020\10. October\BMERP 15-10-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Project Backup\BMERP\2020\10. October\BMERP 15-10-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Project Backup\BMERP\2020\10. October\BMERP 15-10-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Project Backup\BMERP\2020\10. October\BMERP 15-10-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Project Backup\BMERP\2020\10. October\BMERP 15-10-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Project Backup\BMERP\2020\10. October\BMERP 15-10-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Project Backup\BMERP\2020\10. October\BMERP 15-10-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll.licenses
+E:\Project Backup\BMERP\2020\10. October\BMERP 15-10-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2020\10. October\BMERP 15-10-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2020\10. October\BMERP 15-10-2020\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+E:\Project Backup\BMERP\2021\May\BMERP 11-05-2021\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll.config
+E:\Project Backup\BMERP\2021\May\BMERP 11-05-2021\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2021\May\BMERP 11-05-2021\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2021\May\BMERP 11-05-2021\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\Microsoft.ReportViewer.WebForms.dll
+E:\Project Backup\BMERP\2021\May\BMERP 11-05-2021\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\zxing.dll
+E:\Project Backup\BMERP\2021\May\BMERP 11-05-2021\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\zxing.presentation.dll
+E:\Project Backup\BMERP\2021\May\BMERP 11-05-2021\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\zxing.pdb
+E:\Project Backup\BMERP\2021\May\BMERP 11-05-2021\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\zxing.xml
+E:\Project Backup\BMERP\2021\May\BMERP 11-05-2021\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\zxing.presentation.pdb
+E:\Project Backup\BMERP\2021\May\BMERP 11-05-2021\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\zxing.presentation.xml
+E:\Project Backup\BMERP\2021\May\BMERP 11-05-2021\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Project Backup\BMERP\2021\May\BMERP 11-05-2021\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Project Backup\BMERP\2021\May\BMERP 11-05-2021\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Project Backup\BMERP\2021\May\BMERP 11-05-2021\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Project Backup\BMERP\2021\May\BMERP 11-05-2021\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Project Backup\BMERP\2021\May\BMERP 11-05-2021\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Project Backup\BMERP\2021\May\BMERP 11-05-2021\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Project Backup\BMERP\2021\May\BMERP 11-05-2021\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Project Backup\BMERP\2021\May\BMERP 11-05-2021\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Project Backup\BMERP\2021\May\BMERP 11-05-2021\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Project Backup\BMERP\2021\May\BMERP 11-05-2021\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll.licenses
+E:\Project Backup\BMERP\2021\May\BMERP 11-05-2021\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2021\May\BMERP 11-05-2021\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2021\May\BMERP 11-05-2021\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+E:\Project Backup\BMERP\2021\June\BMERP 09-06-2021\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll.config
+E:\Project Backup\BMERP\2021\June\BMERP 09-06-2021\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2021\June\BMERP 09-06-2021\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\OnlineTicketingSystem.pdb
+E:\Project Backup\BMERP\2021\June\BMERP 09-06-2021\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\Microsoft.ReportViewer.WebForms.dll
+E:\Project Backup\BMERP\2021\June\BMERP 09-06-2021\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\zxing.dll
+E:\Project Backup\BMERP\2021\June\BMERP 09-06-2021\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\zxing.presentation.dll
+E:\Project Backup\BMERP\2021\June\BMERP 09-06-2021\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\zxing.pdb
+E:\Project Backup\BMERP\2021\June\BMERP 09-06-2021\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\zxing.xml
+E:\Project Backup\BMERP\2021\June\BMERP 09-06-2021\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\zxing.presentation.pdb
+E:\Project Backup\BMERP\2021\June\BMERP 09-06-2021\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\zxing.presentation.xml
+E:\Project Backup\BMERP\2021\June\BMERP 09-06-2021\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Project Backup\BMERP\2021\June\BMERP 09-06-2021\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Project Backup\BMERP\2021\June\BMERP 09-06-2021\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Project Backup\BMERP\2021\June\BMERP 09-06-2021\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Project Backup\BMERP\2021\June\BMERP 09-06-2021\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Project Backup\BMERP\2021\June\BMERP 09-06-2021\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Project Backup\BMERP\2021\June\BMERP 09-06-2021\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Project Backup\BMERP\2021\June\BMERP 09-06-2021\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Project Backup\BMERP\2021\June\BMERP 09-06-2021\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Project Backup\BMERP\2021\June\BMERP 09-06-2021\BMERP_PROJECT\BMERP\OnlineTicketingSystem\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Project Backup\BMERP\2021\June\BMERP 09-06-2021\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\BMERP.csprojResolveAssemblyReference.cache
+E:\Project Backup\BMERP\2021\June\BMERP 09-06-2021\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll.licenses
+E:\Project Backup\BMERP\2021\June\BMERP 09-06-2021\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.dll
+E:\Project Backup\BMERP\2021\June\BMERP 09-06-2021\BMERP_PROJECT\BMERP\OnlineTicketingSystem\obj\Debug\OnlineTicketingSystem.pdb
